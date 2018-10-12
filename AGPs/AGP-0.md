@@ -9,7 +9,7 @@ Created: 2018-05-08
 
 # The Aragon Manifesto
 
-![The Aragon Manifesto](images/agp-0/manifesto.jpg)
+![The Aragon Manifesto](../images/AGP-0/manifesto.jpg)
 
 Version 1.0
 
