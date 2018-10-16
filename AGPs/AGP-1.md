@@ -13,7 +13,7 @@ Created: 2018-10-12
 AGP stands for Aragon Governance Proposal. An AGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the Aragon Network. All AGPs must be consistent with the goals and values put forth in [AGP-0](AGP-0.md) (the Aragon Manifesto) and compliant with the requirements outlined in this document, AGP-1. The AGP author is responsible for building consensus within the community for their AGP and documenting dissenting opinions.
 
 ## AGP process rationale
-The purpose of the AGP process is to provide a structured process for making changes to the shared resources of the Aragon Network. For these shared resources, governance processes are needed to grant or deny access and approve or reject proposed changes. By creating a fair, lightweight, and transparent AGP process, the AGP-1 authors hope to give ANT holders a meaningful say in the governance of the Aragon Association and the Aragon Network and increase the chances of success for both.
+The purpose of the Aragon Governance Proposal Process ("the AGP process") is to provide a structured process for making changes to the shared resources of the Aragon Network. For these shared resources, governance processes are needed to grant or deny access and approve or reject proposed changes. By creating a fair, lightweight, and transparent AGP process, the AGP-1 authors hope to give ANT holders a meaningful say in the governance of the Aragon Association and the Aragon Network and increase the chances of success for both.
 
 ## Proposal workflow
 Parties directly involved in the process are the _AGP author_ (you), the _AGP Editors_, the _Aragon Association (“the Association”)_, and _Aragon Network voters_.
@@ -36,22 +36,16 @@ At a high level, the AGP-1 workflow looks like this:
 ### Stage I: Select AGP Track
 Before you spend time working on a proposal, make sure the proposal complies with AGP-1 and has a chance of passing review by the AGP Editors and your peers. Review the AGP tracks and their requirements then select the track that you think is best for your proposal. If your proposal meets the requirements, it has a much greater chance of being accepted by AGP Editors and approved by Aragon Network voters.
 
-There are six tracks that an AGP can be categorized into. Select the one you think is best for your AGP:
+There are four tracks that an AGP can be categorized into. Select the one you think is best for your AGP:
 
-* aragonPM: proposals for changing the maintainers of the Aragon Package Manager instance that serves Aragon Network software (“the AN APM”)
 * Association: proposals for making changes to the Association
 * Finance: proposals for transferring funds from the Association multisig
 * Meta: proposals for changing AGP-0 or AGP-1 (“changing the way things are changed”)
 * Proclamations: proposals for making a public statement on behalf of the Aragon Network
-* Technical Council: proposals for changing membership of the Aragon Technical Council
 
 Proposals that cannot be categorized into one of these tracks will likely be denied by AGP Editors. At the discretion of AGP Editors, a proposal may be categorized as “Other” until a new track is approved as part of a Meta AGP.
 
 In addition to the requirement that all AGPs must be consistent with AGP-0, each track has its own requirements for AGPs as follows:
-
-**aragonPM**  
-Proposals made to the aragonPM track affect a change in the maintainers of the Aragon Package Manager instance that serves Aragon Network software (“the AN APM”).
-* E.g. “Should Alice be added as a maintainer of the AN APM?”
 
 **Association**  
 Proposals made to the Association track must affect one or more of the following:
@@ -85,10 +79,6 @@ Proposals made to the Meta track must affect changes to AGP-0 or AGP-1. The Asso
 Proposals made to the Proclamations track must be consistent with the Aragon Manifesto.
 * E.g. “The Aragon Network declares February 10th to be Aragon Day.”
 
-**Technical Council**  
-Proposals made to the Technical Council track must affect membership of the Aragon Technical Council. The Aragon Technical Council is responsible for defining standards for Aragon software, such as aragonOS and Radspec.
-* E.g. “Should Dave be added to the Aragon Technical Council?”
-
 ### Stage II: Pre-proposal
 During Stage II you should seek feedback on your AGP idea by sharing it with your peers in the Aragon community and soliciting their feedback. Examples of appropriate venues to share your AGP idea include:
 
@@ -104,15 +94,13 @@ After you have asked the Aragon community whether an idea has any chance of supp
 * If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP), move the proposal from Stage III to Stage IV by updating the status in the AGP, and merge your pull request. The AGP Editor will not unreasonably deny an AGP Stage IV status.
 * Reasons for denying Stage IV status include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
 
-**Templates**
-Below is a list of AGP templates for each track. Copy the template for the track your AGP is in and fill it out to submit the pull request with your AGP for review. Sections marked as “required” in the template must be completed. Note that all proposals must be licensed CC-0.
+**Templates**  
+Below is a list of AGP templates for each track. Copy the template for the track your AGP is in, fill it out, and submit the pull request with your AGP for review. Sections marked as “required” in the template must be completed. Note that all proposals must be licensed CC-0.
 
-* aragonPM
 * Association
 * Finance
 * Meta
 * Proclamations
-* Technical Council
 
 ### Stage IV: Draft Proposal
 Once the first draft has been merged into the AGP repo, you may submit follow-up pull requests with further changes to your draft until such point as you believe the AGP to be mature and ready to proceed to Stage V. After a proposal in Stage IV has been thoroughly reviewed, you may request that an AGP Editor moves the proposal from Stage IV to Stage V.
@@ -123,14 +111,14 @@ Once the first draft has been merged into the AGP repo, you may submit follow-up
 ### Stage V: Final Proposal
 An AGP in Stage V is the final version that will appear on the ballot during the next Aragon Network vote cycle. AGPs that move from Stage IV to Stage V are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are added to the list of AGPs that will be submitted to the Aragon Network for a vote. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
 
-The Association board review session begins one calendar week and ends 24 hours before the next Aragon Network vote cycle is scheduled to begin.
+The Association board review session **begins** two weeks before the next Aragon vote cycle is scheduled to begin and **ends** one week before the next vote cycle is scheduled to begin.
 
 ### Stage VI: Aragon Network Vote
 All AGPs that have moved to Stage V since the last Aragon Network vote cycle and have been approved by the Association board are included on the ballot in the current vote cycle. During the vote cycle, Aragon Network voters will review proposals on the ballot and cast their votes. 
 
 If a vote on an AGP produces a Rejected result, then the AGP must revert to Stage IV or be withdrawn by the author. If a vote on an AGP produces an Approved result, then the AGP will either be executed automatically by the Aragon Network or else dutifully executed by a manager designated in the AGP (or designated by the Association board if no manager is designated in the AGP).
 
-The result of the Aragon Network vote will be automatically recorded in the corresponding AGP file by an agent of the Aragon Association.
+The result of the Aragon Network vote will be recorded in the corresponding AGP file by an agent of the Aragon Association.
 
 ## Aragon Network Vote Cycles
 Aragon Network vote cycles take place quarterly on the following days, starting at 00:00 UTC time and lasting for 48 hours:
@@ -143,7 +131,9 @@ Aragon Network vote cycles take place quarterly on the following days, starting 
 During each vote cycle a Meta proposal will be voted on to maintain the current frequency of vote cycles. If ANT holders vote “No” then that will indicate that a Meta proposal to adjust the frequency may be needed during the next vote cycle.
 
 **Support required**  
-The minimum support required for approval is >50%, an “absolute majority”. The minimum acceptance quorum required for approval is 0%.
+With the exception of Meta track proposals, the minimum support required for approval is >50% of all votes cast, an “absolute majority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted and there is no minimum number of ANT required to vote.
+
+For Meta track proposals, the minimum support required for approval is >66% of all votes cast, a “supermajority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted and there is no minimum number of ANT required to vote.
 
 **Emergency Vote**  
 The Association can call an emergency Aragon Network vote at any time with minimum 48 hours notice by a unanimous approval vote of the Association board. In case of emergency, immediately following approval by the board, the Association will make a best effort to notify ANT holders of the vote using these communication channels:
