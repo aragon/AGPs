@@ -9,6 +9,8 @@ Created: 2018-10-12
 
 # AGP-1: The Aragon Governance Proposal Process
 
+**Version 1.0.5**
+
 ## What is an AGP?
 AGP stands for Aragon Governance Proposal. An AGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the Aragon Network. All AGPs must be consistent with the goals and values put forth in [AGP-0](AGP-0.md) (the Aragon Manifesto) and compliant with the requirements outlined in this document, AGP-1. The AGP author is responsible for building consensus within the community for their AGP and documenting dissenting opinions.
 
