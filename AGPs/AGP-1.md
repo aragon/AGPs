@@ -58,20 +58,13 @@ Proposals made to the Association track must affect one or more of the following
   * E.g. “Should the Aragon Code of Conduct be updated to include a community-wide ban on Carlos Matos memes?”
 
 **Finance**  
-Proposals made to the Finance track must affect the movement of assets held by the Association multisig. The Association will have discretion over which multisig transfers must go through the AGP process.
+Proposals made to the Finance track must affect the movement of assets held by the [Association multisig](https://wiki.aragon.org/documentation/multisigs/foundation/). The Association will have discretion over which multisig transfers must go through the AGP process.
 
 * All code and content funded through the AGP process must be released under one of the following licenses:
   * Creative Commons (CC0, CC-BY, CC-SA, CC-BY-SA)
   * GPL
   * AGPL
   * MIT
-
-* Budget proposals must include the following information, if applicable:
-  * The team name
-  * Proof of concept/ research whitepaper
-  * Funds allocation and burn rate
-  * Legal structure
-  * Team and roadmap
 
 **Meta**  
 Proposals made to the Meta track must affect changes to AGP-0 or AGP-1. The Association has the power to add and remove AGP Editors and fix errata in AGP-0 or AGP-1 on an as-needed basis without going through the AGP process. All other proposals to modify AGP-0 or AGP-1 should be made to the Meta track.
