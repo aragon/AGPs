@@ -128,7 +128,7 @@ During each vote cycle a Meta proposal will be voted on to maintain the current 
 **Support required**  
 With the exception of Meta track proposals, the minimum support required for approval is >50% of all votes cast, an “absolute majority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted, so 10^-18 ANT (the smallest possible fraction of one ANT) equals one vote, and at least 10^-18 ANT is required to vote.
 
-For Meta track proposals, the minimum support required for approval is >66% of all votes cast, a “supermajority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted, so 10^-18 ANT (the smallest possible fraction of one ANT) equals one vote, and at least 10^-18 ANT is required to vote.
+For Meta track proposals, the minimum support required for approval is >66.6666666666666666% of all votes cast, a “supermajority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted, so 10^-18 ANT (the smallest possible fraction of one ANT) equals one vote, and at least 10^-18 ANT is required to vote.
 
 **Emergency Vote**  
 The Association can call an emergency Aragon Network vote at any time with minimum 48 hours notice by a unanimous approval vote of the Association board. In case of emergency, immediately following approval by the board, the Association will make a best effort to notify ANT holders of the vote using these communication channels:
