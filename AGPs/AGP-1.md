@@ -92,10 +92,10 @@ After you have asked the Aragon community whether an idea has any chance of supp
 **Templates**  
 Below is a list of AGP templates for each track. Copy the template for the track your AGP is in, fill it out, and submit the pull request with your AGP for review. Sections marked as “required” in the template must be completed. Note that all proposals must be licensed CC-0.
 
-* Association
-* Finance
-* Meta
-* Proclamations
+* [Association](../templates/association_template.md)
+* [Finance](../templates/finance_template.md)
+* [Meta](../templates/meta_template.md)
+* [Proclamations](../templates/proclamation_template.md)
 
 ### Stage IV: Draft Proposal
 Once the first draft has been merged into the AGP repo, you may submit follow-up pull requests with further changes to your draft until such point as you believe the AGP to be mature and ready to proceed to Stage V. After a proposal in Stage IV has been thoroughly reviewed, you may request that an AGP Editor moves the proposal from Stage IV to Stage V.
