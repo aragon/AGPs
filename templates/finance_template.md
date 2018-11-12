@@ -13,20 +13,20 @@ Created: YYYY-MM-DD
 
 ## Amount of the transfer
 
-## Number of recurring transfers in this amount (enter “1” if only one payment will be made)
+## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
 ## Purpose of the transfer
 
 ## Recipient information
 
-Organization (if any)
-Name:
-Website:
-Other URL:
+Organization (if any)  
+Name:  
+Website:  
+Other URL:  
 
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
-Name:
-PGP key fingerprint:
-Website:
-Other URL:
+Name:  
+PGP key fingerprint:  
+Website:  
+Other URL:  
