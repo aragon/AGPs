@@ -9,7 +9,7 @@ Created: 2018-10-12
 
 # AGP-1: The Aragon Governance Proposal Process
 
-**Version 1.0.5**
+**Version 1.0.6**
 
 ## What is an AGP?
 AGP stands for Aragon Governance Proposal. An AGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the Aragon Network. All AGPs must be consistent with the goals and values put forth in [AGP-0](AGP-0.md) (the Aragon Manifesto) and compliant with the requirements outlined in this document, AGP-1. The AGP author is responsible for building consensus within the community for their AGP and documenting dissenting opinions.
@@ -52,13 +52,13 @@ In addition to the requirement that all AGPs must be consistent with AGP-0, each
 **Association**  
 Proposals made to the Association track must affect one or more of the following:
 
-* Association-owned assets, excluding funds held in the [Association multisig](https://wiki.aragon.org/documentation/multisigs/foundation/)
+* Association-owned assets, excluding funds held in the [Association multisig](https://wiki.aragon.org/documentation/multisigs/association/)
   * E.g. “Should the Aragon trademark be dedicated to the public domain?”
 * Association policies
   * E.g. “Should the Aragon Code of Conduct be updated to include a community-wide ban on Carlos Matos memes?”
 
 **Finance**  
-Proposals made to the Finance track must affect the movement of assets held by the [Association multisig](https://wiki.aragon.org/documentation/multisigs/foundation/). The Association will have discretion over which multisig transfers must go through the AGP process.
+Proposals made to the Finance track must affect the movement of assets held by the [Association multisig](https://wiki.aragon.org/documentation/multisigs/association/). The Association will have discretion over which multisig transfers must go through the AGP process.
 
 * All code and content funded through the AGP process must be released under one of the following licenses:
   * Creative Commons (CC0, CC-BY, CC-SA, CC-BY-SA)
