@@ -2,7 +2,7 @@
 AGP: 1
 Title: The Aragon Governance Proposal Process
 Author: John Light (@john-light)
-Status: Draft
+Status: Approved
 Track: Meta
 Created: 2018-10-12
 ---
