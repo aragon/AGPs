@@ -11,7 +11,7 @@ Created: 2018-05-08
 
 ![The Aragon Manifesto](../images/AGP-0/manifesto.jpg)
 
-Version 1.0
+Version 1.0.1
 
 _Version 1.0 of the Aragon Manifesto was originally published on the Aragon Project blog [here](https://blog.aragon.org/the-aragon-manifesto-4a21212eac03/)._
 
@@ -83,11 +83,11 @@ We seek to use technology to lift people from oppression. To be successful, **we
 
 ___
 
-## **[Aragon Foundation](https://aragon.org/foundation/) Pledge**
+## **[Aragon Association](https://aragon.org/project/) Pledge**
 
-The [Aragon Foundation](https://aragon.org/foundation/) is a non-profit entity that safeguards the values of the project.
+The [Aragon Association](https://aragon.org/project/) is a non-profit entity that safeguards the values of the project.
 
-### **Specifically, the Aragon Foundation pledges to support the Aragon Manifesto by:**
+### **Specifically, the Aragon Association pledges to support the Aragon Manifesto by:**
 
 - Building free, libre, open source technology to allow the creation and management of decentralized organizations
 - Experimenting with new governance models that comply with the Manifesto's values
