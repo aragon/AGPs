@@ -1,13 +1,15 @@
 ---
-AGP: Example AGP
-Title: ABC
+AGP: 
+Title: Example AGP ABC
 Author: John Light (@john-light)
 Status: Stage III
 Track: Association
 Created: 2018-12-08
 ---
 
-# Example AGP ABC
+# Title
+
+Example AGP ABC
 
 ## Description of desired Association policy change
 
