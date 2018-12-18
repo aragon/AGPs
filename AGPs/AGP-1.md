@@ -84,7 +84,7 @@ During Stage II you should seek feedback on your AGP idea by sharing it with you
 Be open-minded and respectful of all feedback you receive. Adjust your proposal to address serious concerns as they come up to increase the odds of your proposal passing review in later stages.
 
 ### Stage III: Work In Progress
-After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Template section below to ensure you are including all the necessary information.
+After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Template section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
 
 * If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP), move the proposal from Stage III to Stage IV by updating the status in the AGP, and merge your pull request. The AGP Editor will not unreasonably deny an AGP Stage IV status.
 * Reasons for denying Stage IV status include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
