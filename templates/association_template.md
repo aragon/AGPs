@@ -7,8 +7,6 @@ Track: Association
 Created: YYYY-MM-DD
 ---
 
-# Title
-
 ## Description of desired Association policy change
 
 ## Motivation for changing this Association policy
