@@ -3,4 +3,4 @@
 Please read [AGP-1](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md) to learn about how you can participate in the Aragon Governance Proposal process.
 
 ## Video guide
-[**How to submit an Aragon Governance Proposal**](https://www.youtube.com/watch?v=C3l3-YOnYts)
+[**How to create an Aragon Governance Proposal**](https://www.youtube.com/watch?v=lXGJ2uENByM)
