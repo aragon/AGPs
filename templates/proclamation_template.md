@@ -7,9 +7,6 @@ Track: Proclamation
 Created: YYYY-MM-DD
 ---
 
-# Title
-
-
 ## Proclamation text
 
 
