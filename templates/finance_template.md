@@ -7,8 +7,6 @@ Track: Finance
 Created: YYYY-MM-DD
 ---
 
-# Title
-
 ## Address of the transfer recipient
 
 ## Amount of the transfer
