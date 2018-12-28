@@ -2,7 +2,7 @@
 AGP: 5
 Title: Aragon Flock proposal for Aragon One
 Author: Luis Cuende (@luisivan)
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2018-12-18
 ---
