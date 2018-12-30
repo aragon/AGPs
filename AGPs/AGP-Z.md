@@ -25,10 +25,10 @@ To fund a Bounty DAO that will be created by the Aragon Association or Flock tea
 
 The basic parameters of the Bounty DAO are:
 
-Token: ANT (0x960b236A07cf122663c4303350609A66A7B288C0)
-Vote duration: One week
-Min. Quorum: 0%
-Support: 66.6666666666666666%
-Apps: Voting, Finance, and all default apps, configured so that only ANT holders can vote and create votes, and all Finance transfers require approval by the Voting app.
+Token: ANT (0x960b236A07cf122663c4303350609A66A7B288C0)  
+Vote duration: One week  
+Min. Quorum: 0%  
+Support: 66.6666666666666666%  
+Apps: Voting, Finance, and all default apps, configured so that only ANT holders can vote and create votes, and all Finance transfers require approval by the Voting app.  
 
 The purpose of the Bounty DAO is to fund low-cost, low-risk bounties that are proposed and voted on by ANT holders. Transfers can be proposed by any ANT holder at any time. The designated venue for discussing proposals is the [Aragon community forum](https://forum.aragon.org/c/community). It is up to the authors of each proposal to argue the merits of their proposal and convince ANT holders to approve it. Since the Aragon forum is the venue for discussing Bounty DAO proposals, the contents of proposals must necessarily adhere to the [Code of Conduct](https://wiki.aragon.org/documentation/Code_of_Conduct/) governing the Aragon forum, or else risk losing their audience and potential base of support.
