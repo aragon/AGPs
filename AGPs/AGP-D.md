@@ -29,7 +29,7 @@ Out of those, I propose Feb 8th for the following reasons:
 - Releasing Aragon to the world was quite an achievement. There are lots of people with ideas, but not so many who can execute on them. On Feb 8th, anyone could create a decentralized organization with a few clicks. It was the beginning of a new era
 - It's the nearest date to the beginning of the year, which probably gathers more attention since usually there aren't a lot of local festivities during the first months of the year
 
-- It happens on Fri during 2019, Sat during 2020, Sun during 2021 and Mon during 2021
+- It happens on Fri during 2019, Sat during 2020, Sun during 2021 and Mon during 2022
 
 
 
@@ -40,5 +40,4 @@ Other interesting facts from that date:
 - [Propose Day](https://en.wikipedia.org/wiki/Propose_Day) in India
 - [Boy Scouts](https://en.wikipedia.org/wiki/Boy_Scouts_of_America) were incorporated
 - [NASDAQ](https://en.wikipedia.org/wiki/NASDAQ) opening
-
 - [Byzantine civil war of 1341–1347](https://en.wikipedia.org/wiki/Byzantine_civil_war_of_1341%E2%80%931347) ends
