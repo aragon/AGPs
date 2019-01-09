@@ -9,7 +9,7 @@ Created: 2018-12-27
 
 ## Description of desired Association policy change
 
-The Aragon Association will stop using all Alphabet Inc. (GOOGL, GOOG) or Alphabet Inc.-owned (e.g. Google) services by July 1, 2019 and require all Flock teams to do the same. Any Flock teams that are still using Alphabet Inc. or Alphabet Inc.-owned services after July 1, 2019 will not be eligible for funding from the Aragon Association or the Aragon Network.
+The Aragon Association will close its accounts on all Alphabet Inc. (GOOGL, GOOG) or Alphabet Inc.-operated (e.g. Google) services by July 1, 2019 and require all Flock teams to do the same. Any Flock teams that still have accounts on Alphabet Inc. or Alphabet Inc.-operated services after July 1, 2019 will not be eligible for funding from the Aragon Association or the Aragon Network.
 
 ## Motivation for changing this Association policy
 
@@ -25,4 +25,4 @@ The surveillance activity of Alphabet Inc. and its associated companies is probl
 > 
 > Thus, Aragon is a fight for freedom. Aragon empowers freedom by creating liberating tools that leverage decentralized technologies.
 
-The Aragon Association has an opportunity to directly contribute to a world where technology is not used "for global surveillance" by moving its services away from a company that has built one of the largest surveillance systems in the world. The purpose of this AGP is to make that opportunity explicit and to urge the Aragon Association to leave Alphabet Inc. behind sooner rather than later.
+The Aragon Association has an opportunity to directly contribute to a world where technology is not used "for global surveillance" by moving its services away from a company that has built one of the largest surveillance systems in the world. The purpose of this AGP is to make that opportunity explicit and to urge the Aragon Association to lead by example and leave Alphabet Inc. behind sooner rather than later.
