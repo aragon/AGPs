@@ -1,7 +1,7 @@
 ---
 AGP: N/A
 Title: Flock Funding: Autark
-Author: Yalda Mousavinia (@stellarmagnet)
+Author: Yalda Mousavinia (@stellarmagnet) and Quazia (@quazia)
 Status: Stage III
 Track: Finance
 Created: 2018-01-09
