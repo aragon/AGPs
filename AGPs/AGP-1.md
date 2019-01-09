@@ -137,7 +137,7 @@ The Association can call an emergency Aragon Network vote or re-schedule a vote 
 * [Aragon Project](https://www.linkedin.com/company/aragonproject/) LinkedIn account
 * [/r/AragonProject](https://www.reddit.com/r/aragonproject/) subreddit
 
-If the Aragon Association approves re-scheduling a vote, the new start date of the vote must be no longer than 14 calendar days later. The Aragon Association may not vote to re-schedule the same vote more than twice.
+If the Aragon Association approves re-scheduling a vote, the new start date of the vote must be no longer than 14 calendar days later than the previous start date of the vote. The Aragon Association cannot approve re-scheduling the same vote more than twice.
 
 ## AGP Editors
 AGP Editors are experienced and active members of the Aragon community selected by the Association to manage the AGP workflow. AGP Editors are not gatekeepers to the proposal system. AGP Editors exist to make proposals submitted to the AGP repo easier to review.
