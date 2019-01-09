@@ -36,7 +36,9 @@ Name: Autark
 
 Website: tbd
 
+
 We have a Gnosis multisig wallet with 2/3 signatures required. These are the individual team member who will be managing funds from this transfer:
+
 
 Name: Yalda Mousavinia
 
@@ -46,6 +48,7 @@ Website: https://twitter.com/stellarmagnet
 
 Other URL: https://keybase.io/stellarmagnet
 
+
 Name: Quazia
 
 PGP key fingerprint: E9EA3161A092AFE42226C1FD468B9893854E19ED
@@ -53,6 +56,7 @@ PGP key fingerprint: E9EA3161A092AFE42226C1FD468B9893854E19ED
 Website: https://twitter.com/lolllunn
 
 Other URL: https://keybase.io/arthurlunn
+
 
 Name: Radek
 
