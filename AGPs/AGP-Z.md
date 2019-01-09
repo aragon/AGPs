@@ -1,6 +1,6 @@
 ---
 AGP: N/A
-Title: Bounty DAO
+Title: Community Funding DAO
 Author: anteater (anteater0x)
 Status: Stage III
 Track: Finance
