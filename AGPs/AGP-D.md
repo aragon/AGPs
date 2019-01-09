@@ -20,7 +20,7 @@ There are multiple dates that are relevant for the project. For example:
 - Nov 11th, 2016: The first idea for Aragon was born and Luis wrote the first whitepaper
 - Feb 10th, 2017: Luis and Jorge release Aragon to the world
 - May 17th, 2017: The Aragon Network token sale happened
-- Nov 15th, 2018: AGP-1 was ratified by ANT holders
+- Nov 17th, 2018: AGP-1 was ratified by ANT holders
 
 
 
