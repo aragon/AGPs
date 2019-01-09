@@ -101,6 +101,13 @@ Below is a list of AGP templates for each track. Copy the template for the track
 * [Meta](../templates/meta_template.md)
 * [Proclamations](../templates/proclamation_template.md)
 
+To make a Meta track change, you must:
+
+1. Create and submit a pull request changing either AGP-0 or AGP-1.
+2. In a _separate_ pull request, create a new file in the AGPs folder of the AGPs repo.
+3. Add a link to the pull request created in step 1 to the new file created in step 2.
+4. Submit the new file from step 2 as a pull request to the AGPs repo. This will be the AGP pull request. If the AGP is approved by ANT holders, the pull request created in step 1 will be merged. If the proposal is rejected and withdrawn, the pull request created in step 1 will be closed.
+
 ### Stage IV: Final Proposal
 An AGP in Stage IV is the final version that will appear on the ballot during the next Aragon Network vote cycle. AGPs that move from Stage III to Stage IV are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage V. Approval or rejection of an AGP during Stage IV is made at the discretion of the Association board.
 
