@@ -9,7 +9,7 @@ Created: 2018-10-12
 
 # AGP-1: The Aragon Governance Proposal Process
 
-**Version 1.0.6**
+**Version 1.0.7**
 
 ## What is an AGP?
 AGP stands for Aragon Governance Proposal. An AGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the Aragon Network. All AGPs must be consistent with the goals and values put forth in [AGP-0](AGP-0.md) (the Aragon Manifesto) and compliant with the requirements outlined in this document, AGP-1. The AGP author is responsible for building consensus within the community for their AGP and documenting dissenting opinions.
@@ -116,7 +116,7 @@ If a vote on an AGP produces a Rejected result, then the AGP must revert to Stag
 The result of the Aragon Network vote will be recorded in the corresponding AGP file by an agent of the Aragon Association.
 
 ## Aragon Network Vote Cycles
-Aragon Network vote cycles take place quarterly on the following days, starting at 00:00 UTC time and lasting for 48 hours:
+Aragon Network vote cycles take place quarterly on the following days, starting at 00:00 UTC time and lasting for 168 hours:
 
 * Third Thursday of January
 * Third Thursday of April
