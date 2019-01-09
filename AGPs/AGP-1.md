@@ -9,7 +9,7 @@ Created: 2018-10-12
 
 # AGP-1: The Aragon Governance Proposal Process
 
-**Version 1.0.6**
+**Version 1.1**
 
 ## What is an AGP?
 AGP stands for Aragon Governance Proposal. An AGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the Aragon Network. All AGPs must be consistent with the goals and values put forth in [AGP-0](AGP-0.md) (the Aragon Manifesto) and compliant with the requirements outlined in this document, AGP-1. The AGP author is responsible for building consensus within the community for their AGP and documenting dissenting opinions.
@@ -24,12 +24,11 @@ Proposals follow this workflow:
 
 * Stage I: Select AGP Track
 * Stage II: Pre-proposal
-* Stage III: Work In Progress
-* Stage IV: Draft Proposal
-* Stage V: Final Proposal
-* Stage VI: Aragon Network Vote
+* Stage III: Draft Proposal
+* Stage IV: Final Proposal
+* Stage V: Aragon Network Vote
 
-During Stage III-IV AGP Editors will review proposals for formatting, legibility, and compliance with AGP-1, referring to AGP-1 as the basis for accepting, denying, or requesting modifications to a proposal. The role of AGP Editors is further described in the AGP Editors section.
+During Stage III AGP Editors will review proposals for formatting, legibility, and compliance with AGP-1, referring to AGP-1 as the basis for accepting, denying, or requesting modifications to a proposal. The role of AGP Editors is further described in the AGP Editors section.
 
 At a high level, the AGP-1 workflow looks like this:
 
@@ -83,11 +82,16 @@ During Stage II you should seek feedback on your AGP idea by sharing it with you
 
 Be open-minded and respectful of all feedback you receive. Adjust your proposal to address serious concerns as they come up to increase the odds of your proposal passing review in later stages.
 
-### Stage III: Work In Progress
+### Stage III: Draft
 After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Template section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
 
-* If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP), move the proposal from Stage III to Stage IV by updating the status in the AGP, and merge your pull request. The AGP Editor will not unreasonably deny an AGP Stage IV status.
-* Reasons for denying Stage IV status include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
+* If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP). The AGP Editor will not unreasonably deny assigning a number to the AGP.
+* Reasons for denying an AGP number and closing the pull request include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
+
+Once the draft pull request has been submitted to the AGP repo, you may submit follow-up commits with further changes to your draft until such point as you believe the AGP to be mature and ready to proceed to Stage IV. After a proposal in Stage III has been thoroughly reviewed, you may request that an AGP Editor moves the proposal from Stage III to Stage IV. If you do not request to move the proposal to Stage IV before Stage IV is scheduled to begin, AGP Editors will consider the proposal withdrawn and close the pull request when Stage IV begins.
+
+* If agreeable, the AGP Editor will move the proposal from Stage III to Stage IV by updating the status in the AGP.
+* A request to move the proposal from Stage III to Stage IV will be denied if material changes are still expected to be made to the draft. No changes can be made to an AGP while it is in Stage IV or V.
 
 **Templates**  
 Below is a list of AGP templates for each track. Copy the template for the track your AGP is in, fill it out, and submit the pull request with your AGP for review. Sections marked as “required” in the template must be completed. Note that all proposals must be licensed CC-0.
@@ -97,21 +101,15 @@ Below is a list of AGP templates for each track. Copy the template for the track
 * [Meta](../templates/meta_template.md)
 * [Proclamations](../templates/proclamation_template.md)
 
-### Stage IV: Draft Proposal
-Once the first draft has been merged into the AGP repo, you may submit follow-up pull requests with further changes to your draft until such point as you believe the AGP to be mature and ready to proceed to Stage V. After a proposal in Stage IV has been thoroughly reviewed, you may request that an AGP Editor moves the proposal from Stage IV to Stage V.
-
-* If agreeable, the AGP Editor will move the proposal from Stage IV to Stage V by updating the status in the AGP.
-* A request to move the proposal from Stage IV to Stage V will be denied if material changes are still expected to be made to the draft. No changes can be made to an AGP while it is in Stage V or VI.
-
-### Stage V: Final Proposal
-An AGP in Stage V is the final version that will appear on the ballot during the next Aragon Network vote cycle. AGPs that move from Stage IV to Stage V are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are added to the list of AGPs that will be submitted to the Aragon Network for a vote. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
+### Stage IV: Final Proposal
+An AGP in Stage IV is the final version that will appear on the ballot during the next Aragon Network vote cycle. AGPs that move from Stage III to Stage IV are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage V. Approval or rejection of an AGP during Stage IV is made at the discretion of the Association board.
 
 The Association board review session **begins** two weeks before the next Aragon vote cycle is scheduled to begin and **ends** one week before the next vote cycle is scheduled to begin.
 
-### Stage VI: Aragon Network Vote
-All AGPs that have moved to Stage V since the last Aragon Network vote cycle and have been approved by the Association board are included on the ballot in the current vote cycle. During the vote cycle, Aragon Network voters will review proposals on the ballot and cast their votes. 
+### Stage V: Aragon Network Vote
+All AGPs that have moved to Stage V since the last Aragon Network vote cycle and have been approved by the Association board are included on the ballot in the current vote cycle. During the vote cycle, Aragon Network voters will review proposals on the ballot and cast their votes.
 
-If a vote on an AGP produces a Rejected result, then the AGP must revert to Stage IV or be withdrawn by the author. If a vote on an AGP produces an Approved result, then the AGP will either be executed automatically by the Aragon Network or else dutifully executed by a manager designated in the AGP (or designated by the Association board if no manager is designated in the AGP).
+If a vote on an AGP produces a Rejected result, then the AGP must revert to Stage III or be withdrawn by the author. If a vote on an AGP produces an Approved result, then the AGP will either be executed automatically by the Aragon Network or else dutifully executed by a manager designated in the AGP (or designated by the Association board if no manager is designated in the AGP).
 
 The result of the Aragon Network vote will be recorded in the corresponding AGP file by an agent of the Aragon Association.
 
@@ -145,13 +143,13 @@ AGP Editors are experienced and active members of the Aragon community selected 
 AGP Editors have two responsibilities:
 
 * Review proposals
-* Move proposals from Stage III through to Stage V
+* Move proposals from Stage III through to Stage IV
 
 **Review proposals**  
 AGP Editors review proposals and accept, deny, or request modifications to them based on formatting, legibility, and compliance with AGP-1.
 
-**Move proposals from Stage III through to Stage V**  
-After a proposal author submits a pull request with their proposal in Stage III, an AGP Editor will review the proposal to make sure it is compliant with AGP-1. If so, the AGP Editor will move the AGP to Stage IV by merging the author’s pull request in the AGP repo and assigning the proposal an AGP number. After a proposal in Stage IV has been thoroughly reviewed, the author can request that an AGP Editor moves the proposal from Stage IV to Stage V.
+**Move proposals from Stage III through to Stage IV**  
+After a proposal author submits a pull request with their proposal in Stage III, an AGP Editor will review the proposal to make sure it is compliant with AGP-1. If so, the AGP Editor will assign an AGP number to the proposal. After a proposal in Stage III has been thoroughly reviewed, the author can request that an AGP Editor moves the proposal from Stage III to Stage IV.
 
 The current AGP Editors are:
 
