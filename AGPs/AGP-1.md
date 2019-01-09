@@ -109,9 +109,7 @@ The Association board review session **begins** two weeks before the next Aragon
 ### Stage V: Aragon Network Vote
 All AGPs that have moved to Stage V since the last Aragon Network vote cycle and have been approved by the Association board are included on the ballot in the current vote cycle. During the vote cycle, Aragon Network voters will review proposals on the ballot and cast their votes.
 
-If a vote on an AGP produces a Rejected result, then the AGP must revert to Stage III or be withdrawn by the author. If a vote on an AGP produces an Approved result, then the AGP will either be executed automatically by the Aragon Network or else dutifully executed by a manager designated in the AGP (or designated by the Association board if no manager is designated in the AGP).
-
-The result of the Aragon Network vote will be recorded in the corresponding AGP file by an agent of the Aragon Association.
+If a vote on an AGP produces a Rejected result, then the AGP must revert to Stage III or be withdrawn by the author. If a vote on an AGP produces an Approved result, then the AGP will either be executed automatically by the Aragon Network or else dutifully executed by a manager designated in the AGP (or designated by the Association board if no manager is designated in the AGP). Any pull requests referenced in a Meta track proposal approved in Stage V will be be merged by an AGP Editor, and the result of the Aragon Network vote will be recorded in the corresponding AGP file by an AGP Editor.
 
 ## Aragon Network Vote Cycles
 Aragon Network vote cycles take place quarterly on the following days, starting at 16:00 UTC time and lasting for 168 hours (one calendar week):
