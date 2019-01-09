@@ -27,7 +27,7 @@ To cover our operation costs, Autark requests:
 * $390,000 paid in DAI to cover 26 weeks of operating costs for 6 full-time employees and contractors (February 3rd to August 3rd 2019)
 * 350,000 ANT as an incentivization package for the 6 full-time employees. This ANT will have a 1-year cliff and 4-year vesting.
 
-### [Read the full proposal here](https://github.com/AutarkCo/flock/blob/autark-proposal/teams/Autark/2019.md)
+### [Read the full proposal here](https://github.com/AutarkCo/flock/blob/autark-proposal/teams/Autark/2019Q1-2.md)
 
 ## Recipient information
 Organization: Autark
