@@ -116,14 +116,12 @@ If a vote on an AGP produces a Rejected result, then the AGP must revert to Stag
 The result of the Aragon Network vote will be recorded in the corresponding AGP file by an agent of the Aragon Association.
 
 ## Aragon Network Vote Cycles
-Aragon Network vote cycles take place quarterly on the following days, starting at 00:00 UTC time and lasting for 48 hours:
+Aragon Network vote cycles take place quarterly on the following days, starting at 16:00 UTC time and lasting for 168 hours (one calendar week):
 
-* Third Thursday of January
-* Third Thursday of April
-* Third Thursday of July
-* Third Thursday of October
-
-During each vote cycle a Meta proposal will be voted on to maintain the current frequency of vote cycles. If ANT holders vote “No” then that will indicate that a Meta proposal to adjust the frequency may be needed during the next vote cycle.
+* Fourth Thursday of January
+* Fourth Thursday of April
+* Fourth Thursday of July
+* Fourth Thursday of October
 
 **Support required**  
 With the exception of Meta track proposals, the minimum support required for approval is >50% of all votes cast, an “absolute majority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted, so 10^-18 ANT (the smallest possible fraction of one ANT) equals one vote, and at least 10^-18 ANT is required to vote.
@@ -131,13 +129,15 @@ With the exception of Meta track proposals, the minimum support required for app
 For Meta track proposals, the minimum support required for approval is >66.6666666666666666% of all votes cast, a “supermajority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted, so 10^-18 ANT (the smallest possible fraction of one ANT) equals one vote, and at least 10^-18 ANT is required to vote.
 
 **Emergency Vote**  
-The Association can call an emergency Aragon Network vote at any time with minimum 48 hours notice by a unanimous approval vote of the Association board. In case of emergency, immediately following approval by the board, the Association will make a best effort to notify ANT holders of the vote using these communication channels:
+The Association can call an emergency Aragon Network vote or re-schedule a vote at any time with minimum 48 hours notice by a unanimous approval vote of the Association board. In case of emergency, immediately following approval by the board, the Association will make a best effort to notify ANT holders of the start date and time of the vote using these communication channels:
 
 * Aragon [email newsletter](https://one.us15.list-manage.com/subscribe/post?u=a590aa3843a54b079d48e6e18&id=e81a44c4bd)
 * [#announcements channel](https://aragon.chat/channel/announcements) in Aragon Chat
 * [@AragonProject](https://twitter.com/aragonproject) Twitter account
 * [Aragon Project](https://www.linkedin.com/company/aragonproject/) LinkedIn account
 * [/r/AragonProject](https://www.reddit.com/r/aragonproject/) subreddit
+
+If the Aragon Association approves re-scheduling a vote, the new start date of the vote must be no longer than 14 calendar days later. The Aragon Association may not vote to re-schedule the same vote more than twice.
 
 ## AGP Editors
 AGP Editors are experienced and active members of the Aragon community selected by the Association to manage the AGP workflow. AGP Editors are not gatekeepers to the proposal system. AGP Editors exist to make proposals submitted to the AGP repo easier to review.
