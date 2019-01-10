@@ -22,7 +22,7 @@ Therefore, it requests authorization to use the following funds from the Aragon 
 
 
 *   CHF820,000 in DAI-equivalent or Euro for 2019, for operational costs.
-*   390,000 ANT vested over the next 3 years, for the long-term incentivization of the current team and future employees.
+*   300,000 ANT vested over the next 3 years, for the long-term incentivization of the current team and future employees.
 
 
 ## Scope
@@ -86,7 +86,7 @@ We request the ability to both spend such funds from the Association's current t
 
 ### ANT package
 
-We would like to request 379,000 ANT, with 1-year cliff and 3-year vesting.
+We would like to request 300,000 ANT, with 1-year cliff and 3-year vesting.
 
 This ANT package will be primarily used to incentivize employees, by giving them ANT packages as well.
 
