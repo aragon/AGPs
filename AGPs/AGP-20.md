@@ -44,43 +44,31 @@ We have a Gnosis multisig wallet with 2 of 3 signatures required. This multisig 
 These are the individual team members who will be managing funds from this transfer:
 
 
-Name: Griff Green
+**Name: Griff Green**
 
 ETH Address: 0x839395e20bbb182fa440d08f850e6c7a8f6f0780
-
 PGP key fingerprint: 4CED 6D8F A463 F81A
-
 Github: https://github.com/griffgreen
-
 Twitter: https://twitter.com/thegrifft
-
 Keybase: https://keybase.io/giveth
 
 
 
-Name: Gabriel Garcia 
+**Name: Gabriel Garcia** 
 
 ETH Address: 0x4355a2cdec902C372F404007114bbCf2C65A3eb0
-
 PGP key fingerprint: 2E70 B149 E9EC 885F
-
 Github: https://github.com/galactusss
-
 Twitter: https://twitter.com/krroonnos
-
 Keybase: https://keybase.io/goliat
 
 
 
-Name: Jeremy Macaluso 
+**Name: Jeremy Macaluso** 
 
 ETH Address: 0x1424F8b752788841eFAE5965f76Ed168DDa6c822
-
 PGP key fingerprint: 1367 E279 544A D52B
-
 Github: https://github.com/jvluso
-
 Twitter: https://twitter.com/jvluso
-
 Keybase: https://keybase.io/jvluso
 
