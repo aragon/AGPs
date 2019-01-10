@@ -134,6 +134,7 @@ For Meta track proposals, the minimum support required for approval is >66.66666
 **Emergency Vote**  
 The Association can call an emergency Aragon Network vote or re-schedule a vote at any time with minimum 48 hours notice by a unanimous approval vote of the Association board. In case of emergency, immediately following approval by the board, the Association will make a best effort to notify ANT holders of the start date and time of the vote using these communication channels:
 
+* The [Emergency Votes folder](https://github.com/aragon/AGPs/tree/master/emergency_votes)
 * Aragon [email newsletter](https://one.us15.list-manage.com/subscribe/post?u=a590aa3843a54b079d48e6e18&id=e81a44c4bd)
 * [#announcements channel](https://aragon.chat/channel/announcements) in Aragon Chat
 * [@AragonProject](https://twitter.com/aragonproject) Twitter account
