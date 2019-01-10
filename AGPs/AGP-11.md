@@ -1,7 +1,7 @@
 ---
 AGP: 11
 Title: Title
-Author: Name (GitHub username)
+Author: Stefano Bernardi (@stefanobernardi)
 Status: Stage III
 Track: Finance
 Created: 2018-01-09
