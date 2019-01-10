@@ -1,5 +1,5 @@
 ---
-AGP: N/A
+AGP: 16
 Title: Extend AGP Vote Duration
 Author: lkngtn
 Status: Stage V
