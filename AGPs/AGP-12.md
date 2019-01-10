@@ -1,8 +1,8 @@
 ---
-AGP: N/A
+AGP: 12
 Title: Aragon holiday
 Author: Luis Cuende (@luisivan)
-Status: Stage III
+Status: Stage V
 Track: Proclamation
 Created: 2019-01-08
 ---
