@@ -1,8 +1,8 @@
 ---
-AGP: N/A
+AGP: 8
 Title: Migrating off Alphabet Inc. services
 Author: anteater (@anteater0x)
-Status: Stage III
+Status: Stage V
 Track: Association
 Created: 2018-12-27
 ---
