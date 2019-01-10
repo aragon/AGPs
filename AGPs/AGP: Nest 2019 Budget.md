@@ -13,7 +13,7 @@ The funding will be managed by the Nest DAO and therefore, we request the funds 
 
 ## Amount of the transfer
 
-$500k in DAI (or other stable assets, such as fiat)
+$500k in DAI (or other stable assets)
 
 200k ANT
 
@@ -25,7 +25,7 @@ A one-off payment
 
 The funds will be used to fund the selected teams accepted in the Nest program. 
 
-The funds in DAI (or other stable assets, such as fiat) will be granted to the selected teams to cover their operations. 
+The funds in DAI (or other stable assets) will be granted to the selected teams to cover their operations. 
 
 The funds in ANT will be used to reward the teams that complete their selected project successfully.
 
