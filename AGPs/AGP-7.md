@@ -1,5 +1,5 @@
 ---
-AGP: 20
+AGP: 7
 Title: Flock Funding: Aragon DAC
 Author: Griff Green (@thegrifft)
 Status: Stage V
