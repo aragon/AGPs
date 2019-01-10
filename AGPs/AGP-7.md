@@ -4,7 +4,7 @@ Title: Flock Funding: Aragon DAC
 Author: Griff Green (@thegrifft)
 Status: Stage V
 Track: Finance
-Created: 2018-01-9
+Created: 2018-01-09
 ---
 
 ## Address of the transfer recipient
