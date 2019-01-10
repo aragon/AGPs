@@ -1,3 +1,12 @@
+---
+AGP: 11
+Title: Title
+Author: Name (GitHub username)
+Status: Stage III
+Track: Finance
+Created: 2018-01-09
+---
+
 # Aragon finance proposal: Aragon Association 2019 Budget
 
 
