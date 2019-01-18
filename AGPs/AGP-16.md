@@ -15,6 +15,8 @@ AGP-1
 
 https://github.com/aragon/AGPs/pull/15
 
+SHA-256 hash: d8d9c03f3943d494b8c499bf8ddbdd76106349278947634606a55ba9e713bbe1
+
 ## Motivation for making this change
 
 Several community members expressed interest in extending the voting duration to make it less likely that a community member who wants to participate would not be able to due to scheduling.
