@@ -1,20 +1,20 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-I hereby confirm that, as a Board Member of the Aragon Association, I agree to proposing AGP-16 (with SHA-256 hash 74aa47bc4c53260c0e352d23a662c05b6841fc87ef9f1bf9a0444b2b1d1f2bea) to be voted under an Aragon Network vote starting 2019-01-24 at 00:00 UTC, and lasting for 48 hours
+I hereby confirm that, as a Board Member of the Aragon Association, I agree to proposing AGP-16 (with SHA-256 hash 7a2207b6a6c9241aba0b2ba8f536c8d355db0d0d1138406632eea0f5deadca92) to be voted under an Aragon Network vote starting 2019-01-24 at 00:00 UTC, and lasting for 48 hours
 -----BEGIN PGP SIGNATURE-----
 
-wsFcBAEBCAAQBQJcQfeYCRDcWc9p8ZgB9QAA/RAQAGFFn+U0T0/HC8LnmFzlzwf7
-8h4jid+6n1l6w/Xe1wtPQWFF5A1SdmwVQos6nhYHt/5FXd3SKpT5p4DYRSYYaTFG
-2OM+er0vm0omPYL2gUPwO6/MXiByuIgTcbudzWeP9pawYW5IbANDACcL+A3M3qXc
-5rK9x5+MeCO5yjEeD3pacIQXeblLIDF0a0sq99lHsnZQYTCtu7oBfb8i3HCQ/sCb
-3M2UvOzRCwSG+UetC1Wp6alJue/PXV6SHgcLR8NBBM/depOm9rx2+BspAOpDxc7z
-JEv1KcsiJsDqDzEbb/2EWkpFx/XFOb4oW6rMdlc58KgRXZ7SCH0NNe5QuwsLIiLo
-HWGXiQPmcIkM26vpHTiyOutHhWqiuSZuUP7UCqseejs2mxrnCLK2T4QOIzOcZQia
-+XRD2Z1nHlWi5brBVzot2Wh1RXZr3/DlXoX5ILiPHaCdBA+Et/+hLzOMcmPEbFKN
-qnVSDjrm4zvQJCACn9NUwplT0Eljx8OzXQao5CjQ08Ng6TPcdw+w1U+iFwFqLlvs
-jSFrfjgwN1B9JXah3w9v5Ql/XcFvxFm2bN43pX40ZXPaOEwZS2IDnWF29Av8uw0l
-wS4W70VeGCoLSgxL7P3ybUhBgJTLU2P43qKGd4vNwor6GDTC2yLPzOMBYzRF3hhr
-uDh3WrASzugKOlLvEgs2
-=p77j
+wsFcBAEBCAAQBQJcQfnNCRDcWc9p8ZgB9QAAvbYQAMKYXfDNq1Na2B5a8gHhRlBI
+z24I+xOj1C4gABQqUmaCAPIryK6Pl122vWnUO08YZgWZ8wWynOpmVTEk4mYTmfQt
+crS6lcSczS61j0/L+q/D8YrPq2fgDQGXb21OzBXawPSpzcUNEeMQ6PR+bpJbFWt1
+QdT1YsamYhfUlsckBRHzwT8pHRwAVR5VtrMzp8Wzs3UNaKkyYyfmwA0XHANEz2Xf
+P9Cm4ImaBBANalb0hQ0SPQUonL9epK3hU+Kq/EKwGvVAvdPP67cvFgg5y+41BCuO
+5+4l1BlsJ1+o+me8JdZcRPcHs7pVrsc0A4bV8m7ykKcP64rmNakZcjylBr+rAZhF
+EuzMa+sIQKBLJjrA8x87gyR8UlxUW6yj3pZpkKvJxjROabft02prpOXl6NzP3xVt
+iMTlDLMrOx0dWmE4kQYTyUoXWMT0ZyYOrzF5DDeaSzoifjslBCbHakUyXILAK8TF
+E3sHiekRaFoUC0/RD/L/xUYFhcsPwTCCdIiDh+Ooz9/jeWoT6TVYtZI2KcFp9Aj6
+O6hfc8TyL4r07VWbI+FFyCGQC3DXmTUEp9H34IuNmzJuJxMpt8e1aOaIIT9avESw
+IOBvxOklAXhaYmUIO5nCruN/doDedzf/iSi9+x8Bi4/0fSjpZ2j1L8GvMmJMpCLO
+x0VJyP2hmiorvzJsp9Xi
+=xHcN
 -----END PGP SIGNATURE-----

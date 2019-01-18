@@ -1,20 +1,20 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-I hereby confirm that, as a Board Member of the Aragon Association, I agree to proposing AGP-14 (with SHA-256 hash 71293b8ce44376a9064cdbead133fc4cebf85e4c3faa943de3c7a9948bc6a636) to be voted under an Aragon Network vote starting 2019-01-24 at 00:00 UTC, and lasting for 48 hours
+I hereby confirm that, as a Board Member of the Aragon Association, I agree to proposing AGP-14 (with SHA-256 hash dc91ce15a96abb9f1c3dc9aa3b82fd27c5e5a2dbee6c18cb4b92f998a5745f77) to be voted under an Aragon Network vote starting 2019-01-24 at 00:00 UTC, and lasting for 48 hours
 -----BEGIN PGP SIGNATURE-----
 
-wsFcBAEBCAAQBQJcQfeYCRDcWc9p8ZgB9QAAaV4QACJCb+Fh+ts9SP9tkjZAV9xX
-oMrwRLfpTa+xSsX1LKzVwcEDIJSAHLadCWBpfiQsh2P5YHNmS8Yx9z74KD5GAGh3
-kmGQw9Wl9LQY7NVeOgY1WOX+hCLnpmaOe6rpMAH/eB6nxdB33dBxLLm8VQBXrAoy
-aeY//tpvsJWr3guJoHT+dva47S9k3k2EgP5Qzj1HF6Wpz8ThSwSGKQ7JS6snTKZR
-PxDFVBDJXaU1IBGnmJxqfP6v3skIDmXbtC3W6qCunpKdcJLi7sp5U/5+HqPIqVdh
-KVsoLpuZnzYtZzQauC+L1OXJJ7gr1UtiWjt38DbaxO/v7hw1SqtUNdNCQBa0hTIF
-zVdIQk3UZJYEhzcPSFkiyJ2ZXMGX0pTfoKfX22sC34RMGmGE1mV07Jx1EY6Nq0/X
-VNWz4Tiz5/LAUnJ6NMW8zOoSg3hPt9sMvnlUKfegKWSq7V1dx+w90Cw6qPVgDZiH
-YHPLWGo8No3a3G0hL5ED9ycuNqx3AuOIqGPz0GkRwC6MaX0jTUBZm/o4HDDrQqMt
-cSs74ifi6o83HPcYcBzUu7Bu5W2cOmhppF5dQUF0BQy6OxJ5oukVv73uR4gB28UA
-4b6iVcZA/DfRUQLYdq03F1qlccKNuxBc9NC89iVSLMXzigR1tH8EAkPGRZo+pdHh
-E3zRpHHIpktaF0tLaYBA
-=5cUP
+wsFcBAEBCAAQBQJcQfnNCRDcWc9p8ZgB9QAACgsQAD6niaFRSf+fhbxki+N3nQzS
+UUp3buZ/RXkWHc8rr9ZK9D9Ngn9suk6AxO9beO5vSvKjN4Cj4MsmHYp9Mc0vxBw/
+hVvCGC+YYLhURgGOYDwBJq9oEzX4r8QKabKlPz0cgDTxibNVpwNWQ/pjnl5hQzwJ
+4lKVUPKMFt6x+qYKzvCGdJEhb9DnN5gC/0d/K4J0nUQIdKPvvHGZQEk74jHCCZKQ
+3qecC4EgUMzax2+W1+fvsFe5booGhr9pfw3oAsomqjME2OW7Txcy/JPACPzjQsnI
+d9UsIFZiF6uWynxu2T61MK9L8WDSxIRMzS1f30+DEyhDr6tsQ+Vg9PGa5GaBfK5o
+m/bc0u1mD3osAhu7BgMolVSzMB2Ge3lY7qxw7TCekU82hw1JcPjJttOCDEqhi3uK
+Sz95a9l4srUV7DlN6IjRo3ZkwhW/43t+4WzGvRmCwmwlIlzbLav2cEa/poWo6i9x
+p267mNmMwaNBDvXvNnPYU37chQ26BIqun2VzLirAWxbQ73a2grYKzcmbHj2DlZKR
+703nh0n1XjVBriB2D4859QYvY12Vn5+VyOOCuNp0DpnLbmPSLtgJWJ/CjwE18UJs
+hEYYgpfeirMgNhF0C1mDoqPl68U7Oj2BxNzsmKOUcR13gkd0jiWdXh2HS3+v8Zbn
+/1QLQbewqxnyf750CMMw
+=eMpo
 -----END PGP SIGNATURE-----
