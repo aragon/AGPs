@@ -1,7 +1,11 @@
-| AGP  | Title | Author | Status | Track | Created |
-| - | - | - | - | - | - |
-| 18| AN Security Partner: Authio | @ganejackS | Stage VI | Finance | 2019-01-09 |
-
+---
+AGP: 18
+Title: AN Security Partner (Authio)
+Author: JackG (@ganejackS)
+Status: Stage VI
+Track: Finance
+Created: 2018-01-09
+---
 
 ## AN Security Partner: Authio
 
