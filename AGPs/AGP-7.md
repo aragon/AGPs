@@ -1,6 +1,6 @@
 ---
 AGP: 7
-Title: Flock Funding: Aragon DAC
+Title: Flock Funding for Aragon DAC
 Author: Griff Green (@thegrifft)
 Status: Rejected
 Track: Finance
