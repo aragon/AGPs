@@ -2,7 +2,7 @@
 AGP: 16
 Title: Extend AGP Vote Duration
 Author: lkngtn
-Status: Stage V
+Status: Stage VI
 Track: Meta
 Created: 2019-01-07
 ---
