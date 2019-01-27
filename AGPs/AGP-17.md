@@ -2,7 +2,7 @@
 AGP: 17
 Title: Nest 2019 Budget 
 Author: Maria Gomez (@mariapao)
-Status: Stage VI
+Status: Approved
 Track: Finance
 Created: 2018-01-09
 ---
