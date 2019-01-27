@@ -14,7 +14,7 @@ This is the procedure that the board will follow to submit their officially reco
     `keybase pgp sign -m "I hereby confirm that, as a Board Member of the Aragon Association, I agree to proposing AGP-X (with SHA-256 hash Y) to be voted under an Aragon Network vote starting YYYY-MM-DD at 00:00 UTC, and lasting for 48 hours" -c > AGP-X_approval.sig`
 
     **No vote**  
-    `keybase pgp sign -m "I hereby confirm that, as a Board Member of the Aragon Association, I disagree to proposing AGP-X (with SHA-256 hash Y) to be voted under an Aragon Network vote starting YYYY-MM-DD at 00:00 UTC, and lasting for 48 hours" -c > AGP-X_approval.sig`
+    `keybase pgp sign -m "I hereby confirm that, as a Board Member of the Aragon Association, I disagree to proposing AGP-X (with SHA-256 hash Y) to be voted under an Aragon Network vote starting YYYY-MM-DD at 00:00 UTC, and lasting for 48 hours" -c > AGP-X_disapproval.sig`
 
 4. There are two possible outcomes from the board vote:
 
