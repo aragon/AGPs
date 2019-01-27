@@ -2,7 +2,7 @@
 AGP: 14
 Title: Improve voting logistics
 Author: John Light (@john-light)
-Status: Stage VI
+Status: Approved
 Track: Meta
 Created: 2018-01-08
 ---
