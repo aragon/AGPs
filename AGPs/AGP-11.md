@@ -2,7 +2,7 @@
 AGP: 11
 Title: Title
 Author: Stefano Bernardi (@stefanobernardi)
-Status: Stage VI
+Status: Approved
 Track: Finance
 Created: 2018-01-09
 ---
