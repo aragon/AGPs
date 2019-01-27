@@ -2,7 +2,7 @@
 AGP: 18
 Title: AN Security Partner (Authio)
 Author: JackG (@ganejackS)
-Status: Stage VI
+Status: Approved
 Track: Finance
 Created: 2018-01-09
 ---
