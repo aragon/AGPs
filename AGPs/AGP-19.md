@@ -2,7 +2,7 @@
 AGP: 19
 Title: Flock Funding for Autark
 Author: Yalda Mousavinia (@stellarmagnet) and Quazia (@quazia)
-Status: Stage VI
+Status: Approved
 Track: Finance
 Created: 2018-01-09
 ---
