@@ -2,7 +2,7 @@
 AGP: 10
 Title: Community Funding DAO
 Author: anteater (anteater0x)
-Status: Stage V
+Status: Approved
 Track: Finance
 Created: 2018-12-27
 ---
