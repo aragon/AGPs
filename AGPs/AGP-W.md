@@ -1,6 +1,6 @@
 ---
 AGP: N/A
-Title: Decentralizing `aragonpm.eth`
+Title: Decentralizing aragonpm.eth
 Author: Jorge Izquierdo (@izqui)
 Status: Stage III
 Track: Association
@@ -22,7 +22,7 @@ The following changes are proposed to the `aragonpm.eth` aragonPM DAOs:
     - Create a new aragonPM registry at `a1.aragonpm.eth` controlled by Aragon One, granting 'Aragon One cold wallet' the `CREATE_REPO_ROLE` permission in the registry and setting this address as the root authority of the DAO. This registry can be used by Aragon One to publish apps before releasing them in `aragonpm.eth`.
 - Staging: Aragon One will keep control of the current staging environment, renaming it to `a1-staging` (in both https://aragonpm.com and deployments documentation). The rationale being that other teams can very easily create their own staging environments if they need one (the deployment process is documented in [aragon/deployments](https://github.com/aragon/deployments)) or use the `open.aragonpm.eth` registry that allows anyone to create their own repos.
 
-## Appendix: `aragonpm.eth` DAO structure
+## Appendix: `aragonpm.eth` DAO structure
 
 ### Current state
 
@@ -73,8 +73,7 @@ APM token holders:
 - Aragon One: 10 APM
 - Aragon Network Security Partner (at the time of deployment): 5 APM
 
-The AA multisig has the ability to change the distribution of token holders by minting and burning tokens. These changes should generally be triggered by an AGP (p.e. a new Flock team that requests APM tokens as part of their proposal) but as per AGP-1, the Aragon Association would still be able to perform these changes unilaterally (p.e. a Flock team is no longer working for the Network).
-
+The AA multisig has the ability to change the distribution of token holders by minting and burning tokens. These changes should generally be triggered by an AGP (e.g. a new Flock team that requests APM tokens as part of their proposal) but as per AGP-1, the Aragon Association would still be able to perform these changes unilaterally (e.g. a Flock team is no longer working for the Network).
 
 #### Timeline
 
