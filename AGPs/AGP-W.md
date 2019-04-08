@@ -1,6 +1,6 @@
 ---
 AGP: N/A
-Title: Decentralizing `aragonpm.eth`
+Title: Decentralizing aragonpm.eth
 Author: Jorge Izquierdo (@izqui)
 Status: Stage III
 Track: Association
