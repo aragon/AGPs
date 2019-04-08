@@ -22,7 +22,7 @@ The following changes are proposed to the `aragonpm.eth` aragonPM DAOs:
     - Create a new aragonPM registry at `a1.aragonpm.eth` controlled by Aragon One, granting 'Aragon One cold wallet' the `CREATE_REPO_ROLE` permission in the registry and setting this address as the root authority of the DAO. This registry can be used by Aragon One to publish apps before releasing them in `aragonpm.eth`.
 - Staging: Aragon One will keep control of the current staging environment, renaming it to `a1-staging` (in both https://aragonpm.com and deployments documentation). The rationale being that other teams can very easily create their own staging environments if they need one (the deployment process is documented in [aragon/deployments](https://github.com/aragon/deployments)) or use the `open.aragonpm.eth` registry that allows anyone to create their own repos.
 
-## Appendix: `aragonpm.eth` DAO structure
+## Appendix: `aragonpm.eth` DAO structure
 
 ### Current state
 
