@@ -75,7 +75,6 @@ APM token holders:
 
 The AA multisig has the ability to change the distribution of token holders by minting and burning tokens. These changes should generally be triggered by an AGP (e.g. a new Flock team that requests APM tokens as part of their proposal) but as per AGP-1, the Aragon Association would still be able to perform these changes unilaterally (e.g. a Flock team is no longer working for the Network).
 
-
 #### Timeline
 
 These changes should occur no earlier than 1 month after the Aragon 0.7 release and before the ANV3 (scheduled for July 2019).
