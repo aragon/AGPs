@@ -33,7 +33,7 @@ Aragon Flock proposal, as [stated in the Flock repo](https://github.com/aragon/f
 
 ### Organization
 
-_Name_: An Aragon DAO for now. A company / non-profit incorporated in the UE will be registered later.
+_Name_: An Aragon DAO for now. A company / non-profit incorporated in the EU will be registered later.
 
 _Website_: [aragon.black](https://aragon.black)
 
