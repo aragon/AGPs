@@ -49,7 +49,7 @@ _PGP key fingerprint_: `FA10 6F04 B3D7 5622 DEC8 2146 5BE5 69D2 78ED 3682` ([Key
 
 _Name_: Alexandre Rouxel
 
-_PGP key fingerprint_: ([Keybase](https://keybase.io/alexandrerouxel))
+_PGP key fingerprint_: `CD46 1846 D33B D18B 7C33 59E0 8C48 9F79 C0D0 20E3` ([Keybase](https://keybase.io/alexandrerouxel))
 
 _Name_: Cem Dagdelen
 
