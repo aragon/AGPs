@@ -29,6 +29,9 @@ Funding needed for operations will be then sent and managed by the Aragon Black 
 
 Aragon Flock proposal, as [stated in the Flock repo](https://github.com/aragon/flock/blob/master/teams/Aragon%20Black/2019%20-%20Q3%20%26%20Q4.md). The proposal was [pre-approved and merged](https://github.com/aragon/flock/pull/7) into the Flock repo on April 8th, 2019.
 
+Last proposal commit: https://github.com/aragon/flock/commit/0caa233e05e1abd2816560b043527aa16d8a47a2
+Proposal SHA-256 hash: b6b3aff60b86d916b9121dcfcc92acb335a780dd4e0847d782ee8d6342300c7f
+
 ## Recipient information
 
 ### Organization
