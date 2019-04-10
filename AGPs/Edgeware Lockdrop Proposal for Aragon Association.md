@@ -8,13 +8,13 @@ Created: 2019-04-04
 ---
 
 # Edgeware Lockdrop Proposal for Aragon
-A proposal to timelock funds from the Aragon multisig to an Aragon Association-controlled lockdrop contract for the purpose of participating in the Edgeware network launch.
+A proposal to approve the timelocking of funds from the Aragon multisig to an Aragon Association-controlled lockdrop contract for the purpose of participating in the Edgeware network launch, with method and amounts to be determiend by the Aragon Association.
 
 ## Address of the Transfer Recipient:
 TBD, to be created at the time of lockdrop participation.
 
 ## Amount of the Transfer: 
-Timelock 40,000 ETH for 3-months in the Edgeware Lockdrop.
+Timelock up to 40,000 ETH for 3-months in the Edgeware Lockdrop at the discretion of the Aragon Association.
 Potentially signal the remainder of the Aragon treasury.
 
 The amount to be locked can be adjusted, and the created EDG will remain under control of the Aragon community.
