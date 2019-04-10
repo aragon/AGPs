@@ -8,7 +8,7 @@ Created: 2019-04-04
 ---
 
 # Edgeware Lockdrop Proposal for Aragon
-A proposal to transfer funds from the Aragon multisig to a lockdrop contract for the purpose of participating in the Edgeware network launch.
+A proposal to timelock funds from the Aragon multisig to an Aragon Association-controlled lockdrop contract for the purpose of participating in the Edgeware network launch.
 
 ## Address of the Transfer Recipient:
 TBD, to be created at the time of lockdrop participation.
@@ -29,7 +29,7 @@ The lockdrop contract code is GNU-GPL licensed. The Edgeware node is GNU-GPL lic
 To participate in the Edgeware ‘lockdrop’ by time-locking ETH. Aragon’s participation in the lockdrop will allow Aragon to receive EDG tokens while retaining their ETH holdings. Participation in the lockdrop will also support Aragon’s exploration of Polkadot and Substrate as a next-generation platform for Aragon DAOs.
 
 ## What is Edgeware? 
-Edgeware is a WASM-Based smart contract platform blockchain built on Parity Substrate, which is being launched with the intention of becoming a Polkadot parachain. Edgeware is expressly designed to facilitate advances in on-chain governance of blockchain protocols using value-bearing networks. Governance rights are provided in the form of its native token EDG.
+Edgeware is a WASM-Based smart contract platform blockchain built on Parity Substrate, which is being launched with the intention of becoming the first smart-contract Polkadot parachain. Edgeware is expressly designed to facilitate advances in on-chain governance of blockchain protocols using value-bearing networks. Governance rights are provided in the form of its native token EDG.
 
 To obtain EDG, participants must participate in a ‘lockdrop.’
 
