@@ -31,7 +31,7 @@ We propose to continue our work securing the Aragon Network, on a retainer basis
 
 #### 1. Iterative Security Review Services
 
-In each 3 month period, we will allocate 5 weeks of 2 people "actively auditing". This may include smart contract auditing, penetration testing, application security review, or other intensive security review related work. We respectfully request a minimum of 2s week notice in advance of initiating an active audit phase.
+In each 3 month period, we will allocate 5 weeks of 2 people "actively auditing". This may include smart contract auditing, penetration testing, application security review, or other intensive security review related work. We respectfully request a minimum of 2 weeks notice in advance of initiating an active audit phase.
 
 If the full allocated time is not utilized in a given 3 month period, the difference will accumulate and carry over to another 3 month period. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
 
