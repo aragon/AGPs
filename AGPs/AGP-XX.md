@@ -30,7 +30,7 @@ Polkadot encourages active participation in the network by providing an inflatio
 In closing, there are compelling arguments in favor of Aragon's diversifying some of its crypto assets into DOTs. The Web3 Foundation has offered a sizable discount reflecting the nature of the collaboration with Aragon and most favored partner benefits.
 
 ### Aragon Support Options
-The Aragon Association is seeking the signaling by the community for the approval of closer engagement in technology collaboration and parachain development, as well as in purchasing DOTs to diversify its crypto assets. After the signaling is evaluated, the Aragon Association will determine the appropriate amount for the DOT purchase, with a maximum amount equivalent to CHF 1.5M.
+The Aragon Association is seeking the signaling by the community for the approval of closer engagement in technology collaboration and parachain development, as well as in purchasing DOTs to diversify its crypto assets. After the signaling is evaluated, the Aragon Association will determine the appropriate amount for the DOT purchase, with a maximum amount equivalent to $1.5M.
 
 ## Address of the transfer recipient
 0x5afc06c035619654927614fac6bc1c0413715e59
