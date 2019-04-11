@@ -1,8 +1,8 @@
 ---
-AGP: N/A
+AGP: 30
 Title: Futarchy Signaling Markets for AGP Votes
 Author: John Kelleher (@jpkcambridge)
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2019-04-06
 ---
@@ -53,8 +53,6 @@ Organization:
 Name: Level K
 
 Website: https://www.levelk.io/
-
-Other URL:  N/A
 
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
