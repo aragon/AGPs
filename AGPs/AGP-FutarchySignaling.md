@@ -9,7 +9,7 @@ Created: 2019-04-06
 
 ## Address of the transfer recipient
 
-TBD
+0xB320759d1A0ADbE55360a0a28a221013aA2DA4fC
 
 ## Amount of the transfer
 
@@ -23,9 +23,9 @@ TBD
 
 "Aragon is a fight for freedom.  Aragon empowers freedom by creating liberating tools that leverage decentralized technologies." - [AGP-0, The Aragon Manifesto](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-0.md)
 
-[Futarchy](http://mason.gmu.edu/~rhanson/futarchy.html), described as "Vote your Values, Bet Your Beliefs," offers a [collusion resistant](https://www.vitalik.ca/general/2019/04/03/collusion.html) way for organizations to make decisions. By using prediction markets, participants are incentivized to evaluate a decision based on a given metric.  For organizations aligned around given values, futarchy offers the promise of enabling well informed decisions without delegating power to the few.  Futarchy offers the potential to be a liberating tool, and advancements in decentralized technology are allowing it to come to fruition.  We seek to demonstrate and improve upon an implementation of futarchy, better understand futarchy in practice, and to educate the Aragon network and the public at large on the promise of Futarchy.
+[Futarchy](http://mason.gmu.edu/~rhanson/futarchy.html), described as "Vote your Values, Bet Your Beliefs," offers a [collusion resistant](https://www.vitalik.ca/general/2019/04/03/collusion.html) way for organizations to make decisions. By using prediction markets, participants are incentivized to evaluate a decision based on a given metric.  For organizations aligned around given values, futarchy offers the promise of enabling well informed decisions without delegating power to the few.  Futarchy offers the potential to be a liberating tool, and advancements in decentralized technology are allowing it to come to fruition.  We seek to demonstrate and improve upon an implementation of futarchy, better understand futarchy in practice, and to educate the Aragon network and the public at large on the promise of futarchy.
 
-Our team has been developing an [Aragon app for futarchy decision markets](https://github.com/levelkdev/futarchy-app), as part of [this NEST proposal](https://github.com/aragon/nest/issues/93). As the first use case for the futarchy app, we're planning to build "Signaling Markets" for AGP votes using ANT price as the metric.
+Our team has been developing an [Aragon app for futarchy decision markets](https://github.com/levelkdev/futarchy-app), as part of [this Nest proposal](https://github.com/aragon/nest/issues/93). As the first use case for the futarchy app, we're planning to build "Signaling Markets" for AGP votes using ANT price as the metric.
 
 The AGP Signaling Market will allow users to make bets on the price of ANT at a future date, given the outcome of each AGP decision.
 
@@ -55,10 +55,20 @@ Other URL:  N/A
 
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
-Name: TBD
-PGP key fingerprint: TBD
-Website:  TBD
-Other URL:  TBD
+Name: John Kelleher
+PGP key fingerprint: 938228474341ad442ade3986104e7f35bfe55e56
+Website:  https://twitter.com/jpkcambridge
+Other URL:  https://github.com/jpkcambridge
+
+Name: Emily Williams
+PGP key fingerprint: d17cf2aa6dd6954b43047cbf6675f31ab9c5c461
+Website: https://twitter.com/crypt0glitter
+Other URL: https://github.com/emaG3m
+
+Name: Mike Calvanese
+PGP key fingerprint: 38f51ad8fb15ab2f59a873311ee3a764efa68f67
+Website: https://twitter.com/MikeCalvanese
+Other URL: https://github.com/mikec
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
