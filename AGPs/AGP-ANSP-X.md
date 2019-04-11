@@ -33,14 +33,16 @@ Retainer for security services for a 1 year period.
 
 In each 3 month period, we will allocate 4 weeks of 2 people "actively auditing", which may include smart contract auditing, penetration testing, application security review, or other intensive security review related work to the Aragon One team. We respectfully request a 2 week notice in advance of initiating an active audit phase.
 
-If A1 does not need the full 4 week audit time allocation, we can allocate to auditing other Aragon Network projects. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
+If A1 does not need the full 4 week audit time allocation, we can allocate to auditing other Aragon Network projects, or allow that time to accumulate for another 3 month period. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
 
 
 ### Our commitment
 
 The time allocation and advanced notice outlined above are not designed to add friction, or bureaucracy to our work with A1. it Between audit periods, we will continue support, advice and engage with the Aragon One team. We understand that time estimation is difficult in software development, and we encourage caution over meeting arbitrary deadlines. 
 
-If a start date needs to be postponed, or something else needs to shift, we will make our best effort to accomodate. We currently have two excellent auditors working on Aragon. Under this retainer arrangement we will train up more excellent people on the Aragon codebase to make that kind of responsiveness possible. 
+If a start date needs to be postponed, or something else needs to shift, we will make our best effort to accomodate. We currently have two excellent auditors working on Aragon. Under this retainer arrangement we will train up more excellent people on the Aragon codebase to make that kind of responsiveness possible.
+
+We will also actively seek opportunities to enrich security knowledge and discussion across the entire Aragon Flock and community, and look forward to opportunities to work with other Flock groups.
 
 ## Recipient information
 
