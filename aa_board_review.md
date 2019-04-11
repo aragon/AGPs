@@ -5,7 +5,7 @@ As detailed in AGP-1, when an AGP moves to Stage IV the Aragon Association Board
 ## Preparation procedure
 This is what the board will do to prepare so that their votes can be verified. This only has to be done once for each Ethereum account that will be used to vote.
 
-1. Each board member will publish a PGP signed statement verifying the Ethereum account they will use to cast their vote approving or rejecting a proposal. This statement will be published in the `ethereum` sub-directory of the AGPs repo.
+1. Each board member will publish a PGP signed statement verifying the Ethereum account they will use to cast their vote approving or rejecting a proposal. This statement will be published in the `ethereum` [sub-directory](signatures/ethereum) of the AGPs repo.
 
 Example:
 
