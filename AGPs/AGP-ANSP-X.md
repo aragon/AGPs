@@ -9,7 +9,7 @@ Created: 2019-04-10
 
 ### Summary
 
-We propose to continue our work securing the Aragon Network, on a retainer basis for a 1 year period, working with the entities responsible for developing AragonOS, Aragon Apps, and other code of interest.
+We propose to continue our work securing the Aragon Network, on a retainer basis for a 6 month period, working with the entities responsible for developing AragonOS, Aragon Apps, and other code of interest.
 
 
 ## Address of the transfer recipient
@@ -23,11 +23,9 @@ We propose to continue our work securing the Aragon Network, on a retainer basis
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
-4 transfers of the amount above, payable every 3 months starting after ANV-02 has completed.
+2 transfers of the amount above, payable every 3 months starting after ANV-02 has completed.
 
 ## Purpose of the transfer
-
-Retainer for security services for a 1 year period.
 
 ### Description of Services
 
