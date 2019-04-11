@@ -1,8 +1,8 @@
 ---
-AGP: TBD
+AGP: 41
 Title: Aragon Portfolio Diversification - Acquisition of DOTs
 Author: Aragon Association (after consultation with the Web3 Foundation)
-Status: New
+Status: Stage IV
 Track: Finance
 Created: 2019-04-11
 ---
