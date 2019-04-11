@@ -1,8 +1,8 @@
 ---
-AGP: N/A
+AGP: 40
 Title: Aragon Cooperative DAO funding proposal
-Authors: Julian Brooks (@Julian) & Gustavo Segovia (@sepu85)
-Status: Stage III
+Authors: Julian Brooks (@julianbrooks) & Gustavo Segovia (@sepu85)
+Status: Stage IV
 Track: Finance
 Created: 2019-04-11
 ---
@@ -11,13 +11,13 @@ Created: 2019-04-11
 https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82
 
 ## Amount of the transfer
-15.600 DAI & 6000 ANT
+15,600 DAI & 6000 ANT
 
 ## Number and frequency of transfers if recurring
 1
 
 ## Summary
-We propose to organise, manage and drive forward the Aragon Cooperative DAO. Committed to work for the benefit of Aragon and serving our members, we aim to support the cohesion of the Aragon community overall. While leading by example to consider, produce and promote emergent Cooperative DAO principles, we are equally engaged in the overall Aragon ethos (including exploring the work and outputs taking place herein) sharing such products with the wider blockchain global ecosystem at large.
+We propose to organise, manage, and drive forward the Aragon Cooperative DAO. Committed to work for the benefit of Aragon and serving our members, we aim to support the cohesion of the Aragon community overall. While leading by example to consider, produce, and promote emergent Cooperative DAO principles, we are equally engaged in the overall Aragon ethos (including exploring the work and outputs taking place herein) and sharing such products with the wider blockchain global ecosystem at large.
 
 ## Purpose of the transfer
 Funding of the following activities and deliverables in support of the Aragon Cooperative DAO:
@@ -68,9 +68,6 @@ Organization (if any)
 Name:   Aragon Cooperative DAO
 
 Website:  https://github.com/aragoncoop/
-
-Other URL:  
-
 
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
