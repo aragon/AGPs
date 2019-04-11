@@ -9,7 +9,7 @@ This is what the board will do to prepare so that their votes can be verified. T
 
 Example:
 
-   `keybase pgp sign -m "I, Firstname Lastname, with Keybase account @examplename, hereby confirm that, as a Board Member of the Aragon Association, I will use the Ethereum account 0xExample to cast my vote approving or rejecting AGPs." -c > AGP_address_verification.sig`
+   `keybase pgp sign -m "I, Firstname Lastname, with Keybase account @examplename, hereby confirm that, as a Board Member of the Aragon Association, I will use the Ethereum account 0xExample to cast my vote approving or rejecting AGPs." -c > AGP_account_verification.sig`
 
 2. Each board member will add their designated Ethereum account to an Aragon organization set up for the board votes.
 
