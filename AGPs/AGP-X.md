@@ -1,8 +1,8 @@
 ---
-AGP: X
+AGP: 34
 Title: Flock Funding: Aragon Black
 Author: Olivier Sarrouy (@osarrouy)
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2019-04-09
 ---
@@ -17,13 +17,13 @@ Funding needed for operations will be then sent and managed by the Aragon Black 
 
 ## Amount of the transfer
 
-- \$450k paid in DAI [or any other stable assets].
-- 125k ANT.
+- $450,000 paid in DAI [or any other stable assets].
+- 125,000 ANT.
 
 ## Number and frequency of transfers
 
-- The \$450k payment will be divided in two chunks.
-- The 125k ANT payment is gonna be handled by the AA with respect to the process described [here](https://github.com/aragon/flock/pull/7#issuecomment-480275930) and [here](https://github.com/aragon/flock/pull/7#issuecomment-481013524).
+- The $450,000 payment will be divided in two chunks.
+- The 125,000 ANT payment is going to be handled by the AA with respect to the process described [here](https://github.com/aragon/flock/pull/7#issuecomment-480275930) and [here](https://github.com/aragon/flock/pull/7#issuecomment-481013524).
 
 ## Purpose of the transfer
 
