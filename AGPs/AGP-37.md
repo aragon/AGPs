@@ -1,15 +1,15 @@
 ---
-AGP: N/A
+AGP: 37
 Title: Retainer for Ongoing Aragon Network Security Provider
 Author: maurelian
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2019-04-10
 ---
 
 ### Summary
 
-We propose to continue our work securing the Aragon Network, on a retainer basis for a 6 month period, working with the entities responsible for developing AragonOS, Aragon Apps, and other code of interest.
+We propose to continue our work securing the Aragon Network, on a retainer basis for a 6 month period, working with the entities responsible for developing aragonOS, Aragon apps, and other code of interest.
 
 
 ## Address of the transfer recipient
@@ -33,7 +33,7 @@ We propose to continue our work securing the Aragon Network, on a retainer basis
 
 In each 3 month period, we will allocate 5 weeks of 2 people "actively auditing". This may include smart contract auditing, penetration testing, application security review, or other intensive security review related work. We respectfully request a minimum of 2 weeks notice in advance of initiating an active audit phase.
 
-If the full allocated time is not utilized in a given 3 month period, the difference will accumulate and carry over to another 3 month period. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
+If the full allocated time is not utilized in a given 3 month period, the difference will accumulate and carry over to another 3 month period. If Aragon One requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
 
 #### 2. Secure Development Process Advisory Services
 
@@ -43,7 +43,7 @@ We will continue offering bi-weekly calls to assess and advise on the security o
 
 #### Responsiveness
 
-The time allocation and advanced notice outlined above are not designed to add friction, or bureaucracy to our work with A1 or other teams. Between audit periods, we will continue to support, advise and engage with the Aragon One team. We understand that time estimation is difficult in software development, and we encourage caution over meeting arbitrary deadlines. 
+The time allocation and advanced notice outlined above are not designed to add friction, or bureaucracy to our work with Aragon One or other teams. Between audit periods, we will continue to support, advise and engage with the Aragon One team. We understand that time estimation is difficult in software development, and we encourage caution over meeting arbitrary deadlines. 
 
 If a start date needs to be postponed, or something else needs to shift, we will make our best effort to accomodate. We currently have two excellent auditors working on Aragon. Under this retainer arrangement we will train up more excellent people on the Aragon codebase to make that kind of responsiveness possible.
 
