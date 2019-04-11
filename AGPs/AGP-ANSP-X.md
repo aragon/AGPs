@@ -9,7 +9,8 @@ Created: 2019-04-10
 
 ### Summary
 
-We propose to continue working with the Aragon One team on a retainer basis for a 1 year period. 
+We propose to continue our work securing the Aragon Network, on a retainer basis for a 1 year period, working with the entities responsible for developing AragonOS, Aragon Apps, and other code of interest.
+
 
 ## Address of the transfer recipient
 
@@ -18,12 +19,11 @@ We propose to continue working with the Aragon One team on a retainer basis for 
 ## Amount of the transfer
 
 140,000 DAI
-20,000 ANT
 
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
-4 transfers, payable every 3 months starting after ANV-02 has completed.
+4 transfers of the amount above, payable every 3 months starting after ANV-02 has completed.
 
 ## Purpose of the transfer
 
@@ -31,9 +31,11 @@ Retainer for security services for a 1 year period.
 
 ### Description of Services
 
-In each 3 month period, we will allocate 4 weeks of 2 people "actively auditing", which may include smart contract auditing, penetration testing, application security review, or other intensive security review related work to the Aragon One team. We respectfully request a 2 week notice in advance of initiating an active audit phase.
+In each 3 month period, we will allocate 4 weeks of 2 people "actively auditing", which may include smart contract auditing, penetration testing, application security review, or other intensive security review related work. We respectfully request a 2 week notice in advance of initiating an active audit phase.
 
-If A1 does not need the full 4 week audit time allocation, we can allocate to auditing other Aragon Network projects, or allow that time to accumulate for another 3 month period. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
+We anticipate continuing to work primarily with the Aragon One team, but also may be redirected by the AA to work with any team making major improvements to the system.
+
+If not utilized in a given 3 month period, that time can accumulate for another 3 month period. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
 
 
 ### Our commitment
