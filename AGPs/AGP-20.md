@@ -15,7 +15,7 @@ Created: 4-11-2019
 
 Much of the support that Aragon received from the Ethereum community, both financially and otherwise, was because Aragon was building *on Ethereum*. Today it is becoming more clear that Aragon intends to build "AragonChain" as a parachain Polkadot, an Ethereum competitor. As many ANT holders are significant stakeholders in the Ethereum ecosystem, this quite possibly goes against their wishes. Many of us wish to see Aragon remain focused on building on Ethereum, unless consent is granted to build on Polkadot. After all, it is the ANT holders whose money is being used to fund Aragon's ongoing development.
 
-In sum, our proposal is to restrict Aragon from spending money on Polkadot development in any way shape or form. 
+In sum, our proposal is to restrict Aragon from spending money on Polkadot development in any way, shape, or form. 
 
 Note: We understand that Aragon is building using Substrate because it will make building "AragonChain" easier, but we steadfastly reject that this chain should become a parachain on Polkadot. It should be its own sovereign chain, not inheriting security from any chain other than Etheruem. Efforts are underway to ensure interoperability of Substrate chains with the Ethereum network directly (by providing wasm support and message-passing contracts), and so with a credible commitment to *only* building for Ethereum, we are willing to consider continuing to fund the exploration of the Substrate technology for AragonChain. 
 
