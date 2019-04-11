@@ -18,7 +18,7 @@ We propose to continue our work securing the Aragon Network, on a retainer basis
 
 ## Amount of the transfer
 
-140,000 DAI
+120,000 DAI
 
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
@@ -31,20 +31,32 @@ Retainer for security services for a 1 year period.
 
 ### Description of Services
 
-In each 3 month period, we will allocate 4 weeks of 2 people "actively auditing", which may include smart contract auditing, penetration testing, application security review, or other intensive security review related work. We respectfully request a 2 week notice in advance of initiating an active audit phase.
+#### 1. Iterative Security Review Services
 
-We anticipate continuing to work primarily with the Aragon One team, but also may be redirected by the AA to work with any team making major improvements to the system.
+In each 3 month period, we will allocate 5 weeks of 2 people "actively auditing". This may include smart contract auditing, penetration testing, application security review, or other intensive security review related work. We respectfully request a minimum of 2s week notice in advance of initiating an active audit phase.
 
-If not utilized in a given 3 month period, that time can accumulate for another 3 month period. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
+If the full allocated time is not utilized in a given 3 month period, the difference will accumulate and carry over to another 3 month period. If A1 requires more time, we will charge the prorated fee in subsequent voting periods, or through the proposed [ANSP Engagement Policy](https://forum.aragon.org/t/draft-agp-for-anv-02-ansp-engagement-policy/750).
 
+#### 2. Secure Development Process Advisory Services
+
+We will continue offering bi-weekly calls to assess and advise on the security of development processes, with the objective of enabling security, agility, and consistency in the release schedule.
 
 ### Our commitment
 
-The time allocation and advanced notice outlined above are not designed to add friction, or bureaucracy to our work with A1. it Between audit periods, we will continue support, advice and engage with the Aragon One team. We understand that time estimation is difficult in software development, and we encourage caution over meeting arbitrary deadlines. 
+#### Responsiveness
+
+The time allocation and advanced notice outlined above are not designed to add friction, or bureaucracy to our work with A1 or other teams. Between audit periods, we will continue to support, advise and engage with the Aragon One team. We understand that time estimation is difficult in software development, and we encourage caution over meeting arbitrary deadlines. 
 
 If a start date needs to be postponed, or something else needs to shift, we will make our best effort to accomodate. We currently have two excellent auditors working on Aragon. Under this retainer arrangement we will train up more excellent people on the Aragon codebase to make that kind of responsiveness possible.
 
 We will also actively seek opportunities to enrich security knowledge and discussion across the entire Aragon Flock and community, and look forward to opportunities to work with other Flock groups.
+
+#### Transparency
+
+We will engage with the community, to improve their awareness of security health in the Aragon Network by the following channels:
+* Attendance in bi-weekly all-devs calls
+* Monthly reporting on our activities and outcomes in the Aragon Forum
+* Public reports on findings from each active audit phase
 
 ## Recipient information
 
