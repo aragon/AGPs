@@ -4,7 +4,7 @@ Title: Aragon Portfolio Diversification - Acquisition of DOTs
 Author: Aragon Association (after consultation with the Web3 Foundation)
 Status: New
 Track: Finance
-Created: 2019-04-10
+Created: 2019-04-11
 ---
 
 # Aragon Portfolio Diversification - Acquisition of DOTs
