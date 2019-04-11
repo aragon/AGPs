@@ -1,7 +1,7 @@
 ---
-AGP: TBD
+AGP: 43
 Title: ANSP Engagement Policy
-Author: ganejacks, wadealexc
+Author: @ganejacks, @wadealexc
 Status: Stage III
 Track: Association
 Created: 2019-04-11
@@ -10,7 +10,7 @@ Created: 2019-04-11
 ## Description of desired Association policy change
 
 ### Proposed Change
-Give the Aragon Association the discretionary authority to source security partners and procure their services outside of the Aragon network voting cycle.
+Give the Aragon Association (AA) the discretionary authority to source security partners and procure their services outside of the Aragon network voting cycle.
 
 This authority does not preclude the submission and execution of security partner proposals through the current AGP process. Rather, it creates a new, flexible avenue for security partners to provide services to the Aragon network on an as-needed basis.
 
@@ -42,7 +42,7 @@ The following is an example of the process by which an engagement would occur fo
 
 The operations of any security partners should conform to Aragon’s norm of transparency. 
 - The AA should include spending on security services in Quarterly Transparency Reports 
-- Security review reports should be responsibly disclosed and archived on the Aragon Wiki
+- Security review reports should be responsibly disclosed and archived on the [Aragon Wiki](https://wiki.aragon.org)
 - Security partners should endeavor to provide regular updates to the community on their engagements
 
 ## Motivation for changing this Association policy
