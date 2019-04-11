@@ -1,5 +1,5 @@
 ---
-AGP: 20
+AGP: 42
 Title: Keep Aragon Focused on Ethereum, not Polkadot
 Author: Ameen Soleimani (@ameensol)
 Status: Draft
@@ -7,7 +7,7 @@ Track: Finance
 Created: 4-11-2019
 ---
 
-# AGP-20: Keep Aragon Focused on Ethereum, not Polkadot
+# AGP-42: Keep Aragon Focused on Ethereum, not Polkadot
 
 **Version 0.1**
 
