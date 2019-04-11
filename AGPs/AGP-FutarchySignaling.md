@@ -48,26 +48,38 @@ We are requesting $30,000 funding for:
 
 ## Recipient information
 
-Organization (if any)  
+Organization:
+
 Name: Level K
+
 Website: https://www.levelk.io/
+
 Other URL:  N/A
 
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
 Name: John Kelleher
+
 PGP key fingerprint: 938228474341ad442ade3986104e7f35bfe55e56
+
 Website:  https://twitter.com/jpkcambridge
+
 Other URL:  https://github.com/jpkcambridge
 
 Name: Emily Williams
+
 PGP key fingerprint: d17cf2aa6dd6954b43047cbf6675f31ab9c5c461
+
 Website: https://twitter.com/crypt0glitter
+
 Other URL: https://github.com/emaG3m
 
 Name: Mike Calvanese
+
 PGP key fingerprint: 38f51ad8fb15ab2f59a873311ee3a764efa68f67
+
 Website: https://twitter.com/MikeCalvanese
+
 Other URL: https://github.com/mikec
 
 ## License
