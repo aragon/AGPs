@@ -60,7 +60,7 @@ We request that Aragon Association participates in the network launch via the lo
 The amount of ETH locked from the multisig could be any amount out of the Aragon Treasury, but this is something that the community should discuss!
 
 ## Recipient Information: 
-Organization: Aragon Association
+Organization: Aragon Association  
 Name: Aragon Association Multisig-initiated EDG Lockdrop Contract
 
 ## Managing Team Member: 
