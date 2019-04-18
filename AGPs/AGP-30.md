@@ -2,7 +2,7 @@
 AGP: 30
 Title: Futarchy Signaling Markets for AGP Votes
 Author: John Kelleher (@jpkcambridge)
-Status: Stage IV
+Status: Rejected
 Track: Finance
 Created: 2019-04-06
 ---
