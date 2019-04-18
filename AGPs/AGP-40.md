@@ -2,7 +2,7 @@
 AGP: 40
 Title: Aragon Cooperative DAO funding proposal
 Authors: Julian Brooks (@julianbrooks) & Gustavo Segovia (@sepu85)
-Status: Stage IV
+Status: Stage V
 Track: Finance
 Created: 2019-04-11
 ---
