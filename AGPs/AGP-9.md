@@ -2,7 +2,7 @@
 AGP: 9
 Title: The Separation of Church, State, and Network
 Author: anteater (@anteater0x)
-Status: Stage IV
+Status: Stage V
 Track: Association
 Created: 2018-12-27
 ---
