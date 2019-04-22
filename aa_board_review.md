@@ -12,6 +12,7 @@ Example:
    `keybase pgp sign -m "I, Firstname Lastname, with Keybase account @examplename, hereby confirm that, as a Board Member of the Aragon Association, I will use the Ethereum account 0xExample to cast my vote approving or rejecting AGPs." -c > AGP_account_verification.sig`
 
 2. Each board member will add their designated Ethereum account to an Aragon organization set up for the board votes.
+- Note: The Aragon organization currently used for the Aragon Association Board of Directors AGP Vote is [https://mainnet.aragon.org/#/associationboard.aragonid.eth/0xc9cae3ba406c96f4a6e92aea68b8589781222cbe](https://mainnet.aragon.org/#/associationboard.aragonid.eth/0xc9cae3ba406c96f4a6e92aea68b8589781222cbe)
 
 ## Vote procedure
 This is the procedure that the board will follow to submit their officially recorded votes. This has to be done for each Aragon Association Board of Directors AGP vote.

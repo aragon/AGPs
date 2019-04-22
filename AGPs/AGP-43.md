@@ -1,8 +1,8 @@
 ---
 AGP: 43
-Title: ANSP Engagement Policy
-Author: @ganejacks, @wadealexc
-Status: Stage III
+Title: ANSP Enagement Policy
+Author: JackG (@ganejacks), Alex Wade (@wadealexc)
+Status: Stage V
 Track: Association
 Created: 2019-04-11
 ---
