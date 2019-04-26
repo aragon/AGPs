@@ -17,7 +17,7 @@ Much of the support that Aragon received from the Ethereum community, both finan
 
 In sum, our proposal is to restrict Aragon from spending money on Polkadot development in any way, shape, or form. 
 
-Note: We understand that Aragon is building using Substrate because it will make building "AragonChain" easier, but we steadfastly reject that this chain should become a parachain on Polkadot. It should be its own sovereign chain, not inheriting security from any chain other than Etheruem. Efforts are underway to ensure interoperability of Substrate chains with the Ethereum network directly (by providing wasm support and message-passing contracts), and so with a credible commitment to *only* building for Ethereum, we are willing to consider continuing to fund the exploration of the Substrate technology for AragonChain. 
+Note: We understand that Aragon is building using Substrate because it will make building "AragonChain" easier, but we steadfastly reject that this chain should become a parachain on Polkadot. It should be its own sovereign chain, not inheriting security from any chain other than Ethereum. Efforts are underway to ensure interoperability of Substrate chains with the Ethereum network directly (by providing wasm support and message-passing contracts), and so with a credible commitment to *only* building for Ethereum, we are willing to consider continuing to fund the exploration of the Substrate technology for AragonChain. 
 
 ### Impact on Funds Already Spent
 
