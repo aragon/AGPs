@@ -2,7 +2,7 @@
 AGP: 28
 Title: Decentralizing aragonpm.eth
 Author: Jorge Izquierdo (@izqui)
-Status: Stage V
+Status: Approved
 Track: Association
 Created: 2019-04-03
 ---
