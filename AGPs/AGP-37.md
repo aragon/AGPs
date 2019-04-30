@@ -1,8 +1,8 @@
 ---
 AGP: 37
 Title: Retainer for Ongoing Aragon Network Security Provider
-Author: maurelian
-Status: Stage V
+Author: maurelian (@maurelian)
+Status: Rejected
 Track: Finance
 Created: 2019-04-10
 ---
