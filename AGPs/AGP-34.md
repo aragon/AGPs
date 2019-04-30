@@ -2,7 +2,7 @@
 AGP: 34
 Title: Flock Funding for Aragon Black
 Author: Olivier Sarrouy (@osarrouy)
-Status: Stage V
+Status: Approved
 Track: Finance
 Created: 2019-04-09
 ---
