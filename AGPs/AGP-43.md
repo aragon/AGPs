@@ -2,7 +2,7 @@
 AGP: 43
 Title: ANSP Engagement Policy
 Author: JackG (@ganejacks), Alex Wade (@wadealexc)
-Status: Stage V
+Status: Approved
 Track: Association
 Created: 2019-04-11
 ---

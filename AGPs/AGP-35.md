@@ -2,7 +2,7 @@
 AGP:  35
 Title:  Edgeware Lockdrop Participation
 Author: Thom Ivy (@ThomIvy)
-Status: Stage V
+Status: Approved
 Track: Finance
 Created: 2019-04-04
 ---
