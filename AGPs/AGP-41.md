@@ -7,7 +7,7 @@ Track: Finance
 Created: 2019-04-11
 ---
 
-# Aragon Portfolio Diversification - Acquisition of DOTs
+# AGP-41: Aragon Portfolio Diversification - Acquisition of DOTs
 
 ## Summary
 A range of events has occurred over the last few months which have strengthened the ties between Aragon and Polkadot. As a result, we uncovered a number of new opportunities for collaboration between Aragon and Polkadot, as described here.
