@@ -7,6 +7,8 @@ Track: Finance
 Created: 2019-04-11
 ---
 
+# AGP-40: Aragon Cooperative DAO funding proposal
+
 ## Address of the transfer recipient
 https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82
 
