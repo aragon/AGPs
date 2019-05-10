@@ -7,7 +7,7 @@ Track: Finance
 Created: 2019-04-09
 ---
 
-# Flock Funding: Aragon Black
+# AGP-34: Flock Funding for Aragon Black
 
 ## Address of the transfer recipient
 
