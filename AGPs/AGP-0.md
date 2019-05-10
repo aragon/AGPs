@@ -7,7 +7,7 @@ Track: Meta
 Created: 2018-05-08
 ---
 
-# The Aragon Manifesto
+# AGP-0: The Aragon Manifesto
 
 ![The Aragon Manifesto](../images/AGP-0/manifesto.jpg)
 
