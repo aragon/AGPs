@@ -7,6 +7,8 @@ Track: Association
 Created: YYYY-MM-DD
 ---
 
+# Insert title like "AGP-X: Example title" here
+
 ## Description of desired Association policy change
 
 ## Motivation for changing this Association policy
