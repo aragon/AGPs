@@ -7,6 +7,8 @@ Track: Association
 Created: 2018-12-27
 ---
 
+# AGP-8: Migrating off Alphabet Inc. services
+
 ## Description of desired Association policy change
 
 The Aragon Association will close its accounts on all Alphabet Inc. (GOOGL, GOOG) or Alphabet Inc.-operated (e.g. Google) services by July 1, 2019 and require all Flock teams to do the same. Any Flock teams that still have accounts on Alphabet Inc. or Alphabet Inc.-operated services after July 1, 2019 will not be eligible for funding from the Aragon Association or the Aragon Network. The Aragon Association and Aragon Flock teams will also not purchase any hardware sold by Alphabet Inc. or Alphabet Inc.-operated services.

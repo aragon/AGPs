@@ -7,6 +7,8 @@ Track: Finance
 Created: 2019-04-10
 ---
 
+# AGP-37: Retainer for Ongoing Aragon Network Security Provider
+
 ### Summary
 
 We propose to continue our work securing the Aragon Network, on a retainer basis for a 6 month period, working with the entities responsible for developing aragonOS, Aragon apps, and other code of interest.

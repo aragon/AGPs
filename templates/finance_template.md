@@ -7,6 +7,8 @@ Track: Finance
 Created: YYYY-MM-DD
 ---
 
+# Insert title like "AGP-X: Example title" here
+
 ## Address of the transfer recipient
 
 ## Amount of the transfer

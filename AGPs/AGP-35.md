@@ -7,7 +7,8 @@ Track: Finance
 Created: 2019-04-04
 ---
 
-# Edgeware Lockdrop Proposal for Aragon
+# AGP-35: Edgeware Lockdrop Participation
+
 A proposal to approve the timelocking of funds from the Aragon multisig to an Aragon Association-controlled lockdrop contract for the purpose of participating in the Edgeware network launch, with method and amounts to be determined by the Aragon Association.
 
 ## Address of the Transfer Recipient:

@@ -7,6 +7,8 @@ Track: Proclamation
 Created: YYYY-MM-DD
 ---
 
+# Insert title like "AGP-X: Example title" here
+
 ## Proclamation text
 
 

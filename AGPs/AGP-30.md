@@ -7,6 +7,8 @@ Track: Finance
 Created: 2019-04-06
 ---
 
+# AGP-30: Futarchy Signaling Markets for AGP Votes
+
 ## Address of the transfer recipient
 
 0xB320759d1A0ADbE55360a0a28a221013aA2DA4fC

@@ -7,6 +7,8 @@ Track: Association
 Created: 2018-12-27
 ---
 
+# AGP-9: The Separation of Church, State, and Network
+
 ## Description of desired Association policy change
 
 The Aragon Association shall not endorse or celebrate any religion or religious holiday, or nation or national holiday, other than official Aragon holidays.

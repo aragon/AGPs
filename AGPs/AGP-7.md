@@ -7,6 +7,8 @@ Track: Finance
 Created: 2018-01-09
 ---
 
+# AGP-7: Flock Funding for Aragon DAC
+
 ## Address of the transfer recipient
 
 0x2b44a157d69cad4842f022bd09d099936e8a12b7 

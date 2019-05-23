@@ -7,6 +7,8 @@ Track: Meta
 Created: YYYY-MM-DD
 ---
 
+# Insert title like "AGP-X: Example title" here
+
 ## Instructions
 
 _This section can be removed when you submit your AGP._

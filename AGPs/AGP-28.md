@@ -7,6 +7,8 @@ Track: Association
 Created: 2019-04-03
 ---
 
+# AGP-28: Decentralizing aragonpm.eth
+
 ## Motivation for changing this Association policy
 
 When Aragon One planned the Aragon 0.6 release, it was internally thought of as a soft-launch. Even though it was the mainnet deployment, the main aragonPM registry (`aragonpm.eth`) in both the rinkeby and mainnet environments was controlled by a cold key that Aragon One held. This has given us the ability to perform releases at any time, and act quick in case an issue were to be found.
