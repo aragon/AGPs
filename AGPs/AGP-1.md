@@ -33,7 +33,7 @@ During Stage III AGP Editors will review proposals for formatting, legibility, a
 
 At a high level, the AGP-1 workflow looks like this:
 
-![](../images/AGP-1/AGP-1_1-2.png)
+![](../images/AGP-1/AGP-1_1-2-1.png)
 
 ### Stage I: Select AGP Track
 Before you spend time working on a proposal, make sure the proposal complies with AGP-1 and has a chance of passing review by the AGP Editors and your peers. Review the AGP tracks and their requirements then select the track that you think is best for your proposal. If your proposal meets the requirements, it has a much greater chance of being accepted by AGP Editors and approved by Aragon Network voters.
