@@ -121,10 +121,10 @@ If a vote on an AGP produces a Rejected result, then the AGP must revert to Stag
 ## Aragon Network Vote Cycles
 Aragon Network vote cycles take place quarterly on the following days, starting at 16:00 UTC time and lasting for 48 hours:
 
-* Fourth Thursday of January
-* Fourth Thursday of April
-* Fourth Thursday of July
-* Fourth Thursday of October
+* Second Wednesday of March
+* Second Wednesday of June
+* Second Wednesday of September
+* Second Wednesday of December
 
 **Support required**  
 With the exception of Meta track proposals, the minimum support required for approval is >50% of all votes cast, an “absolute majority”. The minimum acceptance quorum required for approval is >0% (at least one positive vote needs to be cast). Votes are token-weighted, so 10^-18 ANT (the smallest possible fraction of one ANT) equals one vote, and at least 10^-18 ANT is required to vote.
