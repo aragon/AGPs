@@ -33,7 +33,7 @@ During Stage III AGP Editors will review proposals for formatting, legibility, a
 
 At a high level, the AGP-1 workflow looks like this:
 
-![](../images/AGP-1/AGP-1-1-1-0.png)
+![](../images/AGP-1/AGP-1_1-2.png)
 
 ### Stage I: Select AGP Track
 Before you spend time working on a proposal, make sure the proposal complies with AGP-1 and has a chance of passing review by the AGP Editors and your peers. Review the AGP tracks and their requirements then select the track that you think is best for your proposal. If your proposal meets the requirements, it has a much greater chance of being accepted by AGP Editors and approved by Aragon Network voters.
@@ -102,7 +102,7 @@ To make a Meta track change, you must:
 4. Submit the new file from step 2 as a pull request to the AGPs repo. This will be the AGP pull request. If the AGP is approved by ANT holders, the pull request created in step 1 will be merged. If the proposal is rejected and withdrawn, the pull request created in step 1 will be closed.
 
 ### Stage IV: Community Review
-After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three calendar weeks before the next Aragon Network Vote cycle begins and lasts for one week. Draft AGPs must be submitted as a pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote. All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
+After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three weeks before the next Aragon Network vote begins and lasts for one week. Draft AGPs must be submitted as a pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote. All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
 
 During the Community Review period, the draft AGP author will have a chance to respond to feedback and make changes to their proposal based on the feedback they have received to increase the likelihood of the proposal passing. At the end of the Community Review period, AGP Editors will perform a final review of the proposal.
 
@@ -117,7 +117,7 @@ After a proposal in Stage IV has been thoroughly reviewed, you may finalize your
 ### Stage V: Final Proposal
 An AGP in Stage V is the final version that will appear on the ballot during the next Aragon Network vote. AGPs that move from Stage IV to Stage V are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage VI. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
 
-The Association board review session begins two weeks before the next Aragon Network vote is scheduled to begin and lasts for one calendar week.
+The Stave V Association board review session begins two weeks before the next Aragon Network vote is scheduled to begin and lasts for one week.
 
 ### Stage VI: Aragon Network Vote
 All AGPs that have moved to Stage VI since the last Aragon Network vote and have been approved by the Association board are included on the ballot in the current vote. During the vote, Aragon Network voters will review proposals on the ballot and cast their votes.
@@ -147,7 +147,7 @@ The Association can call an emergency Aragon Network vote or re-schedule a vote 
 * [Aragon Project](https://www.linkedin.com/company/aragonproject/) LinkedIn account
 * [/r/AragonProject](https://www.reddit.com/r/aragonproject/) subreddit
 
-If the Aragon Association approves re-scheduling a vote, the new start date of the vote must be no more than 14 calendar days later than the previous start date of the vote. The Aragon Association cannot approve re-scheduling the same vote more than twice.
+If the Aragon Association approves re-scheduling a vote, the new start date of the vote must be no more than 14 days later than the previous start date of the vote. The Aragon Association cannot approve re-scheduling the same vote more than twice.
 
 ## AGP Editors
 AGP Editors are experienced and active members of the Aragon community selected by the Association to manage the AGP workflow. AGP Editors are not gatekeepers to the proposal system. AGP Editors exist to make proposals submitted to the AGP repo easier to review.
