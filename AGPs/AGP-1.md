@@ -117,7 +117,7 @@ After a proposal in Stage IV has been thoroughly reviewed, you may finalize your
 ### Stage V: Final Proposal
 An AGP in Stage V is the final version that will appear on the ballot during the next Aragon Network vote. AGPs that move from Stage IV to Stage V are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage VI. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
 
-The Stave V Association board review session begins two weeks before the next Aragon Network vote is scheduled to begin and lasts for one week.
+The Stage V Association board review session begins two weeks before the next Aragon Network vote is scheduled to begin and lasts for one week.
 
 ### Stage VI: Aragon Network Vote
 All AGPs that have moved to Stage VI since the last Aragon Network vote and have been approved by the Association board are included on the ballot in the current vote. During the vote, Aragon Network voters will review proposals on the ballot and cast their votes.
