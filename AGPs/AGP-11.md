@@ -1,13 +1,13 @@
 ---
 AGP: 11
-Title: Title
+Title: Aragon Association 2019 Budget
 Author: Stefano Bernardi (@stefanobernardi)
 Status: Approved
 Track: Finance
 Created: 2018-01-09
 ---
 
-# Aragon finance proposal: Aragon Association 2019 Budget
+# AGP-11: Aragon Association 2019 Budget
 
 
 ## Summary

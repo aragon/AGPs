@@ -7,6 +7,8 @@ Track: Proclamation
 Created: 2019-01-08
 ---
 
+# AGP-12: Aragon holiday
+
 ## Proclamation text
 
 The Aragon Network declares its national holiday on February 10th, called *Fight for freedom Day*.

@@ -2,10 +2,12 @@
 AGP: 9
 Title: The Separation of Church, State, and Network
 Author: anteater (@anteater0x)
-Status: Rejected
+Status: Approved
 Track: Association
 Created: 2018-12-27
 ---
+
+# AGP-9: The Separation of Church, State, and Network
 
 ## Description of desired Association policy change
 

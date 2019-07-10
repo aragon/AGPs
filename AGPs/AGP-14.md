@@ -7,6 +7,8 @@ Track: Meta
 Created: 2018-01-08
 ---
 
+# AGP-14: Improve voting logistics
+
 ## File changed (AGP-0 or AGP-1)
 
 AGP-1

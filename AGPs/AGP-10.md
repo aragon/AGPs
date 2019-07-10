@@ -7,6 +7,8 @@ Track: Finance
 Created: 2018-12-27
 ---
 
+# AGP-10: Community Funding DAO
+
 ## Address of the transfer recipient
 
 TBD
