@@ -7,7 +7,7 @@ Track: Finance
 Created: 2018-12-18
 ---
 
-# Aragon Flock proposal: Aragon One
+# AGP-5: Aragon Flock proposal for Aragon One
 
 ## Address of the transfer recipient
 We request funds to be sent to the multisig `0xa41a8ce739a0ac33db3d60917b8c327bac506349`. This multisig will be used for the cold storage of received funds.

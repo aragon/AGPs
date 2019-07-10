@@ -7,6 +7,8 @@ Track: Meta
 Created: 2019-01-07
 ---
 
+# AGP-16: Extend AGP Vote Duration
+
 ## File changed (AGP-0 or AGP-1)
 
 AGP-1
