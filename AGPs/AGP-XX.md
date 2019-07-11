@@ -9,7 +9,7 @@ Created: 2019-07-10
 
 # Frame Finance Proposal
 
-[Frame](https://frame.sh) is an open accounts platform for the web. It lives at the OS-level and isn’t dependent on a browser or extension store. It also works with any type of dapp be it web, desktop or command line. It was built to deliver truly decentralized and unstoppable account and application infrastructure. One of our main goals since starting Frame has been to support the Aragon ecosystem with this platform and to handle the account and provider needs of the Aragon stack.
+[Frame](https://frame.sh) is an open source accounts platform for the web. It lives at the OS-level and isn’t dependent on a browser or extension store. It also works with any type of dapp be it web, desktop or command line. It was built to deliver truly decentralized and unstoppable account and application infrastructure. One of our main goals since starting Frame has been to support the Aragon ecosystem with this platform and to handle the account and provider needs of the Aragon stack.
 
 As a team, we've had great success in the [Aragon Nest](https://github.com/aragon/nest) program delivering on our milestones and releasing mainnet ready account and key management tools along with easy-to-use provider interfaces. We released our mainnet-ready version of Frame earlier this year at Aracon 2019. We're committed to the Aragon ecosystem and we're confident our work can support DAO usability and adoption.
 
