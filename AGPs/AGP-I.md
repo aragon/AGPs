@@ -40,9 +40,7 @@ Accordingly, 25% of this ANT allocation will be vested every year, as such:
   
 ## Purpose of the transfer
 
-Aragon Flock proposal, as stated in the Flock pull request:
-
-* Latest commit: https://github.com/aragon/flock/pull/21/commits/0b86a605a6fbb790cefd3dfc924d03414ce30144
+Aragon Flock proposal, as [stated in the Flock repo](https://github.com/aragon/flock/blob/master/teams/Autark/2019_ANV-3.md). The proposal was [pre-approved and merged](https://github.com/aragon/flock/pull/21#pullrequestreview-260649052) into the Flock repo on July 11th, 2019.
 
 
 ## Recipient information
