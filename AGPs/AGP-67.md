@@ -1,8 +1,8 @@
 ---
-AGP: N/A
+AGP: 67
 Title: 2019 Aragon Events Multisig Budget
 Author: John Light (@john-light)
-Status: Stage II
+Status: Stage IV
 Track: Finance
 Created: 2019-07-09
 ---
@@ -32,7 +32,7 @@ The Aragon Events Multisig was set up to fund the sponsorship of Aragon communit
 
 ### Record of Aragon community event expenses so far in 2019
 
-| Date | Event	| Expense | Amount | Currency | CHF Rate	| CHF Total | 
+| Date | Event	| Expense | Amount | Currency | CHF Rate	| CHF Total |
 |:------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |2019-02-26 | COALA Foundation Paris meetup	| Sponsorship | 2000 |	EUR |	1.13485 |	2269.70 |
 2019-03-06 | DGOV Assembly Paris | Sponsorship |	800 |	EUR	|	1.13388 |	907.10 |
