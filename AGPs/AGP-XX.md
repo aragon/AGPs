@@ -18,7 +18,7 @@ Nest DAO: https://mainnet.aragon.org/#/nest/0x4cbabbe13cc4b0c724e7dcecd6ae56ae19
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
-A one-off transfer
+1
 
 ## Purpose of the transfer
 
