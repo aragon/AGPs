@@ -1,8 +1,8 @@
 ---
-AGP: L
+AGP: 74
 Title: Single-purpose native mobile app for Aragon voting
 Author: Paul Cowgill (@pcowgill)
-Status: Stage III
+Status: Stage IV
 Track: Proclamation
 Created: 2019-07-11
 ---
