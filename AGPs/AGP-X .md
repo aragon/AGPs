@@ -21,9 +21,9 @@ Up until now, the Aragon Association has been in charge of running the Nest prog
 3. Selecting Nest teams and respectively allocating grants
 4. Following up on grantees, monitoring their deliverables, and ensuring coordination between grantees and the rest of the network
 
-The Aragon Association is proposing to put the Nest DAO in charge of  "3. Selecting Nest teams and respectively allocating grants" and to update the grant allocation process accordingly. The most recent specification for the new Nest grant allocation reflecting this new proposed process can be found here: https://forum.aragon.org/t/agp-proposal-for-a-new-nest-grant-allocation-process/998.
+This AGP aims at putting the Nest DAO in charge of  "3. Selecting Nest teams and respectively allocating grants" and to update the grant allocation process accordingly. The most recent description of this new process can be found here: https://github.com/aragon/nest/blob/master/Nest%20DAO%20Governance/Nest%20DAO%20specification%20at%202019-11-07.md. 
 
-In order to address potential unexpected issues that could arise during the review and implementation of the specification given above, the Aragon Association wishes to keep the discretion to decide on potential changes made to it.
+In order to address potential unexpected issues that could arise during the review and implementation phase of the new process, the Aragon Association wishes to keep the flexibility to update and adjust it as necessary. This will be done in collaboration with freshly onboarded Nest DAO members (see [membership for the Nest DAO](https://github.com/aragon/nest/blob/master/Nest%20DAO%20Governance/Nest%20DAO%20specification%20at%202019-11-07.md#membership-for-the-nest-dao)) and made transparent to the Aragon Community through a post on the Aragon Forum.
 
 
 ## License
