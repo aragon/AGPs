@@ -27,7 +27,7 @@ The funds received will be managed by the [Nest program](https://github.com/arag
 
 - 500,000 DAI  to cover the cost of their operations
 - 100,000 DAI to cover the cost of audits of successful projects
-- ANT300K to reward grantees and invite them to participate actively in Aragon
+- 300,000 ANT to reward grantees and invite them to participate actively in Aragon
 
 #### Following up on the [AGP-17](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-17.md) budget
 In the first half of 2019, the Nest program allocated 3 grants. Considering the current pipeline of high quality proposals, it is expected by the Aragon Association that all remaining funds will have dried up by ANV#3.
