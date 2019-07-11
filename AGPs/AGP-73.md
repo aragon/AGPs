@@ -1,13 +1,13 @@
 ---
-AGP: tbd
+AGP: 73
 Title: Flock Funding for Autark
 Author: Yalda Mousavinia (@stellarmagnet)
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2019-07-11
 ---
 
-# AGP-I: Flock Funding for Autark
+# AGP-73: Flock Funding for Autark
 
 ## Address of the transfer recipient
 
