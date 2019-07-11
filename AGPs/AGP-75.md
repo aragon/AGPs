@@ -1,8 +1,8 @@
 ---
-AGP: tbd
+AGP: 75
 Title: The Aragon Governance Survey Process
 Author: Yalda Mousavinia (@stellarmagnet)
-Status: Stage III
+Status: Stage IV
 Track: Proclamation
 Created: 2019-07-11
 ---
@@ -26,7 +26,7 @@ A `surveys` repo will be created in the `@aragon` organization on Github, where 
 An initial governance process has been proposed above. This process can be amended by submitting an AGP that modifies the Survey app in the `governance.aragonid.eth` organization.
 
 ## Motivation for writing this proclamation
-The Survey app allows for questions which are not strictly yes or no, which can be important in assessing the views of the Aragon Network in a more meaningful way. 
+The Survey app allows for questions which are not strictly yes or no, which can be important in assessing the views of the Aragon Network in a more meaningful way.
 
 ## Contributors
 Thanks to @john-light and @lkngtn for contributions.
