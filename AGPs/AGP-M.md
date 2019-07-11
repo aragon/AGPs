@@ -1,0 +1,42 @@
+---
+AGP: tbd
+Title: The Aragon Governance Survey Process
+Author: Yalda Mousavinia (@stellarmagnet)
+Status: Stage III
+Track: Proclamation
+Created: 2019-07-11
+---
+
+
+# AGP-XX: The Aragon Governance Survey Process
+**Version 1.0**
+
+
+To improve Aragon Network's governance capabilities, the Survey App will be installed to the `governance.aragonid.eth` organization.
+
+Surveys are non-binding will be useful for gaining ANT holder sentiment on AGP pre-proposals, product roadmaps, amongst other use cases.
+
+
+
+### Survey Voting Cycle
+Aragon Network Surveys will occur on a rolling basis and last for 28 days. As surveys are non-binding, the Minimum Participation Percentage is 0%.
+
+### Committee
+Having a curation committee ("Committee") is important to ensure that surveys are worded in the most logical ways and to prevent spamming the Survey app.
+
+The Committee will have four initial members that are granted permission to create surveys, with one member each from Aragon Association, Aragon One, Aragon Black, and Autark. Committee members will be assigned by each team at their choosing. These members will review applicants for a possible 5th member which is an Aragon community member, unaffiliated with the 4 teams.
+
+### Curation
+A `surveys` repo will be created in the `@aragon` organization on Github, where anyone can post Survey Requests by creating a New Issue in the repo. The survey will be added in the next cycle if the request gets at least two Thumbs Up emojis (👍) from the Committee. Committee members cycle through the responsibility of creating the surveys.
+
+### Updating this Process
+An initial governance process has been proposed above. This process can be amended by submitting an AGP that modifies the Survey App in the `governance.aragonid.eth` organization.
+
+## Motivation for writing this proclamation
+The Survey app allows for questions which are not strictly yes or no, which can be important in assessing the views of the Aragon Network in a more meaningful way. 
+
+## Contributors
+Thanks to @john-light and @lkngtn for contributions.
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
