@@ -7,7 +7,7 @@ Track: Proclamation
 Created: 2019-07-11
 ---
 
-# AGP-L: Single-purpose native mobile app for Aragon voting
+# AGP-74: Single-purpose native mobile app for Aragon voting
 
 ## Proclamation text
 Aragon should have a single-purpose native mobile app (not a PWA, not a web app in a mobile dapp browser app, and not a mini-app inside of an app) for the Voting app in Aragon DAOs. It should support notifications at points of interest such as when new votes are created, votes are ending soon, votes have flipped, and votes have been finalized. In the case of censorship by Apple in the App Store or Google in the Play Store, the experience should downgrade gracefully to voting via the traditional web-based methods (there are at least a couple strategies to achieve this).
