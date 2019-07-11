@@ -12,7 +12,7 @@ Nest DAO: https://mainnet.aragon.org/#/nest/0x4cbabbe13cc4b0c724e7dcecd6ae56ae19
 
 ## Amount of the transfer
 
-$600k in DAI 
+600,000 DAI 
 
 ANT300k
 
