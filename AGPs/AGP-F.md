@@ -21,7 +21,7 @@ Up to $2,000,000.
 Up to 24 monthly transfers of $83,333.33 each. Contributions can be made for up to three months
 at a time, but without allowing a month to pass after any of the individual
 scheduled contributions. These recurring transfers can be stopped at the
-discretion of either the Aragon Association or Aragon token holders.
+discretion of either the Aragon Association or Aragon Network Token holders.
 
 ## Purpose of the transfer
 
