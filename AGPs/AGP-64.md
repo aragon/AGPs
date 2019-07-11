@@ -7,7 +7,7 @@ Track: Proclamation
 Created: 2019-07-08
 ---
 
-# Support Quiet Ending Voting
+# AGP-64: Support Quiet Ending Voting
 
 ## Proclamation text
 
