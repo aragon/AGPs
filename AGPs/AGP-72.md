@@ -1,8 +1,8 @@
 ---
-AGP:
+AGP: 72
 Title: Frame Finance Proposal
-Author: Frame
-Status:
+Author: Frame @floating
+Status: Stage IV
 Track: Finance
 Created: 2019-07-10
 ---
