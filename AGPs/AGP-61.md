@@ -7,7 +7,7 @@ Track: Meta
 Created: 2019-05-23
 ---
 
-# AGP-B: Modify Aragon Network Fiscal Year
+# AGP-61: Modify Aragon Network Fiscal Year
 
 ## File changed (AGP-0 or AGP-1)
 
