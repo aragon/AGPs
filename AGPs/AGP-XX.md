@@ -1,7 +1,7 @@
 
 | AGP | Title | Author | Status | Track   | Created |
 |-----|-------|---------------------------|--------|---------|---------|
-| XX  | Nest budget |   louisgrx |      | Finance | 2019-07-10       |
+| XX  | Nest 2019 Budget Extension |   louisgrx |      | Finance | 2019-07-10       |
 
 
 # AGP-XX: Nest 2019 Budget Extension
