@@ -1,10 +1,10 @@
 
 | AGP | Title | Author | Status | Track   | Created |
 |-----|-------|---------------------------|--------|---------|---------|
-| XX  | Nest 2019 Budget Extension |   louisgrx |      | Finance | 2019-07-10       |
+| 71  | Nest 2019 Budget Extension | Louis Giraux (@louisgrx) | Stage IV | Finance | 2019-07-10 |
 
 
-# AGP-XX: Nest 2019 Budget Extension
+# AGP-71: Nest 2019 Budget Extension
 
 ## Address of the transfer recipient
 
@@ -46,7 +46,7 @@ Finally, while many things remain to be done to make Nest the most appealing of 
 **The new funding requested in this AGP is necessary for Nest to run efficiently, at least until ANV-4.**
 
 #### The Nest DAO
-Provided AGP-XX passes, the Nest DAO will have full control over the grant amounts (in DAI/ANT) and the selection of grantees. Otherwise, the Aragon Association will continue running the program.
+Provided AGP-71 passes, the Nest DAO will have full control over the grant amounts (in DAI/ANT) and the selection of grantees. Otherwise, the Aragon Association will continue running the program.
 
 
 ## Recipient information
