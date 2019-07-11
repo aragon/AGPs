@@ -14,7 +14,7 @@ Nest DAO: https://mainnet.aragon.org/#/nest/0x4cbabbe13cc4b0c724e7dcecd6ae56ae19
 
 600,000 DAI 
 
-ANT300k
+300,000 ANT
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
