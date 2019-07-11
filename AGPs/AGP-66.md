@@ -1,13 +1,13 @@
 ---
-AGP: N/A
+AGP: 66
 Title: Panvala Launch Partnership
-Author: Niran Babalola (niran)
-Status: Stage III
+Author: Niran Babalola (@niran)
+Status: Stage IV
 Track: Finance
 Created: 2019-07-09
 ---
 
-# Panvala Launch Partnership
+# AGP-66: Panvala Launch Partnership
 
 ## Address of the transfer recipient
 The address of Panvala's token capacitor smart contract will be determined when
