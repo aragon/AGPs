@@ -12,9 +12,7 @@ Created: 2019-07-11
 **Version 1.0**
 
 
-To improve Aragon Network's governance capabilities, the Survey App will be installed to the `governance.aragonid.eth` organization.
-
-Surveys are non-binding will be useful for gaining ANT holder sentiment on AGP pre-proposals, product roadmaps, amongst other use cases.
+To improve Aragon Network's governance capabilities, the Survey App will be installed to the `governance.aragonid.eth` organization. Surveys are non-binding and will be useful for gaining ANT holder sentiment on AGP pre-proposals, product roadmaps, amongst other use cases.
 
 
 
