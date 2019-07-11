@@ -19,10 +19,8 @@ To improve Aragon Network's governance capabilities, the Survey App will be inst
 ### Survey Voting Cycle
 Aragon Network Surveys will occur on a rolling basis and last for 28 days. As surveys are non-binding, the Minimum Participation Percentage is 0%.
 
-### Committee
-Having a curation committee ("Committee") is important to ensure that surveys are worded in the most logical ways and to prevent spamming the Survey app.
-
-The Committee will have four initial members that are granted permission to create surveys, with one member each from Aragon Association, Aragon One, Aragon Black, and Autark. Committee members will be assigned by each team at their choosing. These members will review applicants for a possible 5th member which is an Aragon community member, unaffiliated with the 4 teams.
+### Curation Committee
+A curation committee ("Committee") will be established to ensure that Surveys are worded accurately and to prevent spamming. The Committee will have four initial members that are granted permission to create surveys, with one member each from Aragon Association, Aragon One, Aragon Black, and Autark. Committee members will be assigned by each team at their choosing. These members will review applicants for a possible 5th member which is an Aragon community member, unaffiliated with the 4 teams.
 
 ### Curation
 A `surveys` repo will be created in the `@aragon` organization on Github, where anyone can post Survey Requests by creating a New Issue in the repo. The survey will be added in the next cycle if the request gets at least two Thumbs Up emojis (👍) from the Committee. Committee members cycle through the responsibility of creating the surveys.
