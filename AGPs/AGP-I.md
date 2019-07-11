@@ -2,7 +2,7 @@
 AGP: tbd
 Title: Flock Funding for Autark
 Author: Yalda Mousavinia (@stellarmagnet)
-Status: Stage II
+Status: Stage III
 Track: Finance
 Created: 2019-07-11
 ---
