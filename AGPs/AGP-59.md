@@ -7,7 +7,7 @@ Track: Meta
 Created: 2019-05-23
 ---
 
-# AGP-A: Community Review Period
+# AGP-59: Community Review Period
 
 ## File changed (AGP-0 or AGP-1)
 
