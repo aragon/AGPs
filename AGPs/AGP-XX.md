@@ -25,7 +25,7 @@ Nest DAO: https://mainnet.aragon.org/#/nest/0x4cbabbe13cc4b0c724e7dcecd6ae56ae19
 #### Use of funds
 The funds received will be managed by the [Nest program](https://github.com/aragon/nest) and allocated to grantees. 
 
-- $500K DAI  to cover the cost of their operations
+- 500,000 DAI  to cover the cost of their operations
 - $100K DAI to cover the cost of audits of successful projects
 - ANT300K to reward grantees and invite them to participate actively in Aragon
 
