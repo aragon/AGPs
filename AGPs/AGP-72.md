@@ -1,7 +1,7 @@
 ---
 AGP: 72
 Title: Frame Finance Proposal
-Author: Frame @floating
+Author: Jordan Muir (@floating)
 Status: Stage IV
 Track: Finance
 Created: 2019-07-10
