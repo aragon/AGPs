@@ -5,7 +5,7 @@
 
 
 
-# "AGP-X: Decentralizing Nest"
+# "AGP-X: Decentralize Nest"
 
 ## Description of desired Association policy change
 
