@@ -1,7 +1,11 @@
-
-| AGP | Title | Author | Status | Track   | Created |
-|-----|-------|---------------------------|--------|---------|---------|
-| 71  | Nest 2019 Budget Extension | Louis Giraux (@louisgrx) | Stage IV | Finance | 2019-07-10 |
+---
+AGP: 71
+Title: Nest 2019 Budget Extension
+Author: Louis Giraux (@louisgrx)
+Status: Stage V
+Track: Finance
+Created: 2019-07-10
+---
 
 
 # AGP-71: Nest 2019 Budget Extension
