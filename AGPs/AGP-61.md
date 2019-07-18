@@ -2,7 +2,7 @@
 AGP: 61
 Title: Modify Aragon Network Fiscal Year
 Author: John Light (@john-light)
-Status: Stage IV
+Status: Rejected
 Track: Meta
 Created: 2019-05-23
 ---
