@@ -2,7 +2,7 @@
 AGP: 59
 Title: Community Review Period
 Author: John Light (@john-light)
-Status: Stage IV
+Status: Stage V
 Track: Meta
 Created: 2019-05-23
 ---
