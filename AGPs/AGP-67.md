@@ -2,7 +2,7 @@
 AGP: 67
 Title: 2019 Aragon Events Multisig Budget
 Author: John Light (@john-light)
-Status: Stage IV
+Status: Stage V
 Track: Finance
 Created: 2019-07-09
 ---

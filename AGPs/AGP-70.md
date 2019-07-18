@@ -1,8 +1,11 @@
-
-| AGP | Title | Author | Status | Track   | Created |
-|-----|-------|---------------------------|--------|---------|---------|
-| 70 | Decentralize Nest |  Louis Giraux (@louisgrx) | Stage IV | Association | 2019-07-10 |
-
+---
+AGP: 70
+Title: Decentralize Nest
+Author: Louis Giraux (@louisgrx)
+Status: Stage V
+Track: Association
+Created: 2019-07-10
+---
 
 
 # AGP-70: Decentralize Nest

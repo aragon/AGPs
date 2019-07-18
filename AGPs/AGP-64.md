@@ -2,7 +2,7 @@
 AGP: 64
 Title: Support Quiet Ending Voting
 Author: John Light (@john-light)
-Status: Stage IV
+Status: Stage V
 Track: Proclamation
 Created: 2019-07-08
 ---
