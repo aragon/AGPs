@@ -2,7 +2,7 @@
 AGP: 66
 Title: Panvala Launch Partnership
 Author: Niran Babalola (@niran)
-Status: Stage IV
+Status: Rejected
 Track: Finance
 Created: 2019-07-09
 ---
