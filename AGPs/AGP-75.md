@@ -2,7 +2,7 @@
 AGP: 75
 Title: The Aragon Governance Survey Process
 Author: Yalda Mousavinia (@stellarmagnet)
-Status: Stage V
+Status: Approved
 Track: Proclamation
 Created: 2019-07-11
 ---
