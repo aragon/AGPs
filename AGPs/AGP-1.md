@@ -44,7 +44,7 @@ There are four tracks that an AGP can be categorized into. Select the one you th
 * Finance: proposals for transferring funds from the Association multisig
 * Meta: proposals for changing AGP-0 or AGP-1 (“changing the way things are changed”)
 * Proclamations: proposals for making a public statement on behalf of the Aragon Network
-* Flock: proposals for joining the Aragon Flock program
+* Flock: proposals to join the Aragon Flock program
 
 Proposals that cannot be categorized into one of these tracks will likely be denied by AGP Editors. At the discretion of AGP Editors, a proposal may be categorized as “Other” until a new track is approved as part of a Meta AGP.
 
@@ -75,19 +75,21 @@ Proposals made to the Meta track must affect changes to AGP-0 or AGP-1. The Asso
 Proposals made to the Proclamations track must be consistent with the Aragon Manifesto.
 * E.g. “The Aragon Network declares February 10th to be Aragon Day.”
 
-**Flock**
-Proposals made to the Flock track must be made by a team which has the intention to become a Flock team. Proposals for this track follow a different timeline and must be submitted to the AGP repository and on the Aragon Forum at 16:00 UTC time, this at least two weeks before the beginning of the community review period.
+**Flock**  
+Proposals made to the Flock track must be submitted by teams wanting to become a Flock team.
+
+Proposals made to the Flock Track must be submitted to the AGP repository at least two weeks before the beginning of Stage IV, 16:00 UTC time:
 
 * Second Thursday of January
 * Second Thursday of April
 * Second Thursday of July
 * Second Thursday of October
 
-Flock proposals are demanding to shape up and require a significant preparation and engagement with the Aragon Ecosystem before final submissions.
+A given Flock proposal needs to be approved by the Aragon Association before it can be moved to Stage IV by AGP Editors. In order to approve a Flock Track proposal, the Aragon Association will create a PR consisting in a PGP signature with a SHA-256 hash of the raw application text at the time of approval.
 
-A given Flock proposal needs to be approved by the Aragon Association before it can be moved to Stage IV by AGP Editors. To do so, the Aragon Association should create a PR with to the AGP in question. It consists in a PGP signature from the Aragon Association with a SHA-256 hash of the raw application text at the time of signature.
+Flock proposals are demanding to shape up and require a significant preparation and engagement. More information on the Flock program can be find in the Flock section of the Aragon Wiki.
 
-AGPs submitted to the Flock Track and approved by ANT holders remain subject to the Aragon Flock program policies regarding their upgradability.
+AGPs submitted to the Flock Track and approved by ANT holders remain subject to the Aragon Flock program policies. The Flock program is facilitated by the Aragon Association.
 
 ### Stage II: Pre-proposal
 During Stage II you should seek feedback on your AGP idea by sharing it with your peers in the Aragon community and soliciting their feedback. Examples of appropriate venues to share your AGP idea include:
