@@ -85,7 +85,7 @@ Proposals made to the Flock track must be submitted by teams wanting to join the
 
 Any Flock proposal needs to be approved by the Aragon Association before it can be moved to Stage IV by AGP Editors. In order to approve a Flock Track proposal, the Aragon Association will create a PR consisting in a PGP signature with a SHA-256 hash of the raw application text at the time of approval.
 
-Flock proposals are demanding to shape up and require a significant preparation and engagement. More information on the Flock program can be find in the Flock section of the Aragon Wiki.
+Flock proposals are demanding to shape up and require a significant preparation and engagement. More information on the Flock program can be found in the Flock section of the Aragon Wiki.
 
 AGPs submitted to the Flock Track and approved by ANT holders remain subject to the Aragon Flock program policies. The Flock program is facilitated by the Aragon Association.
 
