@@ -76,7 +76,7 @@ Proposals made to the Proclamations track must be consistent with the Aragon Man
 * E.g. “The Aragon Network declares February 10th to be Aragon Day.”
 
 **Flock**  
-Proposals made to the Flock track must be submitted by teams wanting to become a Flock team. They must be submitted to the AGP repository at least two weeks before the beginning of Stage IV at 16:00 UTC time. This is:
+Proposals made to the Flock track must be submitted by teams wanting to join the Flock program. They must be submitted to the AGP repository at least two weeks before the beginning of Stage IV at 16:00 UTC time. This is:
 
 * Second Thursday of January
 * Second Thursday of April
