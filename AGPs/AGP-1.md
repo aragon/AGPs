@@ -9,7 +9,7 @@ Created: 2018-10-12
 
 # AGP-1: The Aragon Governance Proposal Process
 
-**Version 1.1**
+**Version 1.2**
 
 ## What is an AGP?
 AGP stands for Aragon Governance Proposal. An AGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the Aragon Network. All AGPs must be consistent with the goals and values put forth in [AGP-0](AGP-0.md) (the Aragon Manifesto) and compliant with the requirements outlined in this document, AGP-1. The AGP author is responsible for building consensus within the community for their AGP and documenting dissenting opinions.
@@ -25,14 +25,15 @@ Proposals follow this workflow:
 * Stage I: Select AGP Track
 * Stage II: Pre-proposal
 * Stage III: Draft Proposal
-* Stage IV: Final Proposal
-* Stage V: Aragon Network Vote
+* Stage IV: Community Review
+* Stage V: Final Proposal
+* Stage VI: Aragon Network Vote
 
 During Stage III AGP Editors will review proposals for formatting, legibility, and compliance with AGP-1, referring to AGP-1 as the basis for accepting, denying, or requesting modifications to a proposal. The role of AGP Editors is further described in the AGP Editors section.
 
 At a high level, the AGP-1 workflow looks like this:
 
-![](../images/AGP-1/AGP-1-1-1-0.png)
+![](../images/AGP-1/AGP-1_1-2-1.png)
 
 ### Stage I: Select AGP Track
 Before you spend time working on a proposal, make sure the proposal complies with AGP-1 and has a chance of passing review by the AGP Editors and your peers. Review the AGP tracks and their requirements then select the track that you think is best for your proposal. If your proposal meets the requirements, it has a much greater chance of being accepted by AGP Editors and approved by Aragon Network voters.
@@ -83,15 +84,7 @@ During Stage II you should seek feedback on your AGP idea by sharing it with you
 Be open-minded and respectful of all feedback you receive. Adjust your proposal to address serious concerns as they come up to increase the odds of your proposal passing review in later stages.
 
 ### Stage III: Draft
-After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Template section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
-
-* If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP). The AGP Editor will not unreasonably deny assigning a number to the AGP.
-* Reasons for denying an AGP number and closing the pull request include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
-
-Once the draft pull request has been submitted to the AGP repo, you may submit follow-up commits with further changes to your draft until such point as you believe the AGP to be mature and ready to proceed to Stage IV. After a proposal in Stage III has been thoroughly reviewed, you may request that an AGP Editor moves the proposal from Stage III to Stage IV. If you do not request to move the proposal to Stage IV before Stage IV is scheduled to begin, AGP Editors will consider the proposal withdrawn and close the pull request when Stage IV begins.
-
-* If agreeable, the AGP Editor will move the proposal from Stage III to Stage IV by updating the status in the AGP.
-* A request to move the proposal from Stage III to Stage IV will be denied if material changes are still expected to be made to the draft. No changes can be made to an AGP while it is in Stage IV or V.
+After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Templates section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
 
 **Templates**  
 Below is a list of AGP templates for each track. Copy the template for the track your AGP is in, fill it out, and submit the pull request with your AGP for review. Sections marked as “required” in the template must be completed. Note that all proposals must be licensed CC-0.
@@ -108,18 +101,31 @@ To make a Meta track change, you must:
 3. Add a link to the pull request created in step 1 to the new file created in step 2.
 4. Submit the new file from step 2 as a pull request to the AGPs repo. This will be the AGP pull request. If the AGP is approved by ANT holders, the pull request created in step 1 will be merged. If the proposal is rejected and withdrawn, the pull request created in step 1 will be closed.
 
-### Stage IV: Final Proposal
-An AGP in Stage IV is the final version that will appear on the ballot during the next Aragon Network vote cycle. AGPs that move from Stage III to Stage IV are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage V. Approval or rejection of an AGP during Stage IV is made at the discretion of the Association board.
+### Stage IV: Community Review
+After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three weeks before the next Aragon Network vote begins and lasts for one week. Draft AGPs must be submitted as a pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote. All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
 
-The Association board review session **begins** two weeks before the next Aragon vote cycle is scheduled to begin and **ends** one week before the next vote cycle is scheduled to begin.
+During the Community Review period, the draft AGP author will have a chance to respond to feedback and make changes to their proposal based on the feedback they have received to increase the likelihood of the proposal passing. At the end of the Community Review period, AGP Editors will perform a final review of the proposal.
 
-### Stage V: Aragon Network Vote
-All AGPs that have moved to Stage V since the last Aragon Network vote cycle and have been approved by the Association board are included on the ballot in the current vote cycle. During the vote cycle, Aragon Network voters will review proposals on the ballot and cast their votes.
+* If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP). The AGP Editors will not unreasonably deny assigning a number to the AGP.
+* Reasons for denying an AGP number and closing the pull request include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
 
-If a vote on an AGP produces a Rejected result, then the AGP must revert to Stage III or be withdrawn by the author. If a vote on an AGP produces an Approved result, then the AGP will either be executed automatically by the Aragon Network or else dutifully executed by a manager designated in the AGP (or designated by the Association board if no manager is designated in the AGP). Any pull requests referenced in a Meta track proposal approved in Stage V will be be merged by an AGP Editor, and the result of the Aragon Network vote will be recorded in the corresponding AGP file by an AGP Editor.
+After a proposal in Stage IV has been thoroughly reviewed, you may finalize your proposal and request that an AGP Editor moves the proposal from Stage IV to Stage V. If you do not finalize the proposal and request to move the proposal to Stage V before Stage V is scheduled to begin, AGP Editors will consider the proposal withdrawn and close the pull request when Stage V begins.
 
-## Aragon Network Vote Cycles
-Aragon Network vote cycles take place quarterly on the following days, starting at 16:00 UTC time and lasting for 48 hours:
+* If agreeable, the AGP Editor will move the proposal from Stage IV to Stage V by updating the status in the AGP.
+* A request to move the proposal from Stage IV to Stage V will be denied if material changes are still expected to be made to the draft. No changes can be made to an AGP while it is in Stage V or VI.
+
+### Stage V: Final Proposal
+An AGP in Stage V is the final version that will appear on the ballot during the next Aragon Network vote. AGPs that move from Stage IV to Stage V are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage VI. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
+
+The Stage V Association board review session begins two weeks before the next Aragon Network vote is scheduled to begin and lasts for one week.
+
+### Stage VI: Aragon Network Vote
+All AGPs that have moved to Stage VI since the last Aragon Network vote and have been approved by the Association board are included on the ballot in the current vote. During the vote, Aragon Network voters will review proposals on the ballot and cast their votes.
+
+If a vote on an AGP produces a Rejected result, then the status of the AGP will be updated to "Rejected" and no further action is necessary. If a vote on an AGP produces an Approved result, then the AGP will either be executed automatically by the Aragon Network or else dutifully executed by a manager designated in the AGP (or designated by the Association board if no manager is designated in the AGP). Any pull requests referenced in a Meta track proposal approved in Stage VI will be merged by an AGP Editor, and the result of the Aragon Network vote will be recorded in the corresponding AGP file by an AGP Editor.
+
+## Aragon Network Votes
+Aragon Network votes take place quarterly on the following days, starting at 16:00 UTC time and lasting for 48 hours:
 
 * Fourth Thursday of January
 * Fourth Thursday of April
@@ -135,13 +141,13 @@ For Meta track proposals, the minimum support required for approval is >66.66666
 The Association can call an emergency Aragon Network vote or re-schedule a vote at any time with minimum 48 hours notice by a unanimous approval vote of the Association board. In case of emergency, immediately following approval by the board, the Association will make a best effort to notify ANT holders of the start date and time of the vote using these communication channels:
 
 * The [Emergency Votes folder](https://github.com/aragon/AGPs/tree/master/emergency_votes)
-* Aragon [email newsletter](https://one.us15.list-manage.com/subscribe/post?u=a590aa3843a54b079d48e6e18&id=e81a44c4bd)
+* Aragon Network [vote alerts newsletter](http://eepurl.com/gh26_b)
 * [#announcements channel](https://aragon.chat/channel/announcements) in Aragon Chat
 * [@AragonProject](https://twitter.com/aragonproject) Twitter account
 * [Aragon Project](https://www.linkedin.com/company/aragonproject/) LinkedIn account
 * [/r/AragonProject](https://www.reddit.com/r/aragonproject/) subreddit
 
-If the Aragon Association approves re-scheduling a vote, the new start date of the vote must be no longer than 14 calendar days later than the previous start date of the vote. The Aragon Association cannot approve re-scheduling the same vote more than twice.
+If the Aragon Association approves re-scheduling a vote, the new start date of the vote must be no more than 14 days later than the previous start date of the vote. The Aragon Association cannot approve re-scheduling the same vote more than twice.
 
 ## AGP Editors
 AGP Editors are experienced and active members of the Aragon community selected by the Association to manage the AGP workflow. AGP Editors are not gatekeepers to the proposal system. AGP Editors exist to make proposals submitted to the AGP repo easier to review.
@@ -149,13 +155,13 @@ AGP Editors are experienced and active members of the Aragon community selected 
 AGP Editors have two responsibilities:
 
 * Review proposals
-* Move proposals from Stage III through to Stage IV
+* Move proposals from Stage IV through to Stage V
 
 **Review proposals**  
 AGP Editors review proposals and accept, deny, or request modifications to them based on formatting, legibility, and compliance with AGP-1.
 
-**Move proposals from Stage III through to Stage IV**  
-After a proposal author submits a pull request with their proposal in Stage III, an AGP Editor will review the proposal to make sure it is compliant with AGP-1. If so, the AGP Editor will assign an AGP number to the proposal. After a proposal in Stage III has been thoroughly reviewed, the author can request that an AGP Editor moves the proposal from Stage III to Stage IV.
+**Move proposals from Stage IV through to Stage V**  
+After a proposal author submits a pull request with their proposal in Stage III and has it reviewed by the community in Stage IV, an AGP Editor will review the proposal to make sure it is compliant with AGP-1. If so, the AGP Editor will assign an AGP number to the proposal. After a proposal in Stage IV has been thoroughly reviewed, the author can request that an AGP Editor moves the proposal from Stage IV to Stage V.
 
 The current AGP Editors are:
 
