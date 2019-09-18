@@ -44,7 +44,6 @@ There are four tracks that an AGP can be categorized into. Select the one you th
 * Finance: proposals for transferring funds from the Association multisig
 * Meta: proposals for changing AGP-0 or AGP-1 (“changing the way things are changed”)
 * Proclamations: proposals for making a public statement on behalf of the Aragon Network
-* Flock: proposals to join the Aragon Flock program
 
 Proposals that cannot be categorized into one of these tracks will likely be denied by AGP Editors. At the discretion of AGP Editors, a proposal may be categorized as “Other” until a new track is approved as part of a Meta AGP.
 
@@ -75,15 +74,6 @@ Proposals made to the Meta track must affect changes to AGP-0 or AGP-1. The Asso
 Proposals made to the Proclamations track must be consistent with the Aragon Manifesto.
 * E.g. “The Aragon Network declares February 10th to be Aragon Day.”
 
-**Flock**  
-Proposals made to the Flock track must be submitted by teams desiring to join the Flock program. They must be submitted to the AGP repository **at least two weeks** before the beginning of Stage IV at 16:00 UTC time.
-
-Any Flock proposal needs to be approved by the Aragon Association before it can be moved to Stage IV by AGP Editors. In order to approve a Flock Track proposal, the Aragon Association will create a PR consisting in a PGP signature with a SHA-256 hash of the raw application text at the time of approval.
-
-Flock proposals are demanding to shape up and require heavy preparations and discussions with the Aragon community. More information on the Flock program can be found in the Flock section of the Aragon Wiki.
-
-AGPs submitted to the Flock Track and approved by ANT holders remain subject to the Aragon Flock program policies. The Flock program is facilitated by the Aragon Association.
-
 ### Stage II: Pre-proposal
 During Stage II you should seek feedback on your AGP idea by sharing it with your peers in the Aragon community and soliciting their feedback. Examples of appropriate venues to share your AGP idea include:
 
@@ -103,7 +93,6 @@ Below is a list of AGP templates for each track. Copy the template for the track
 * [Finance](../templates/finance_template.md)
 * [Meta](../templates/meta_template.md)
 * [Proclamations](../templates/proclamation_template.md)
-* [Flock](../templates/flock_template.md)
 
 To make a Meta track change, you must:
 
