@@ -52,13 +52,13 @@ In addition to the requirement that all AGPs must be consistent with AGP-0, each
 **Association**  
 Proposals made to the Association track must affect one or more of the following:
 
-* Association-owned assets, excluding funds held in the [Association multisig](https://wiki.aragon.org/documentation/multisigs/association/)
+* Association-owned assets, excluding funds held in the [Association multisig](https://wiki.aragon.org/association/multisigs/overview/)
   * E.g. “Should the Aragon trademark be dedicated to the public domain?”
 * Association policies
   * E.g. “Should the Aragon Code of Conduct be updated to include a community-wide ban on Carlos Matos memes?”
 
 **Finance**  
-Proposals made to the Finance track must affect the movement of assets held by the [Association multisig](https://wiki.aragon.org/documentation/multisigs/association/). The Association will have discretion over which multisig transfers must go through the AGP process.
+Proposals made to the Finance track must affect the movement of assets held by the [Association multisig](https://wiki.aragon.org/association/multisigs/overview/). The Association will have discretion over which multisig transfers must go through the AGP process.
 
 * All code and content funded through the AGP process must be released under one of the following licenses:
   * Creative Commons (CC0, CC-BY, CC-SA, CC-BY-SA)

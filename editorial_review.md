@@ -51,7 +51,7 @@ After merging an AGP into the AGPs repo, the status of an AGP will be updated up
 ### 5. Record vote outcome
 The outcome of the Aragon Network Vote is recorded in the same file created in the [votes](votes) folder to record the final ballot. Links to the Voting apps used are also included in this file. See for example the record for [Aragon Network Vote #1](votes/2019-01-24-AN-Vote-1.md). The blockchain will of course remain the official reference record regarding the outcome of any ANT vote.
 
-- Approved AGPs should also be listed in the [Governance page](https://wiki.aragon.org/documentation/governance/) of the Aragon wiki.
+- Approved AGPs should also be listed in the [Governance page](https://wiki.aragon.org/network/governance/overview/) of the Aragon wiki.
 
 ### 6. (Meta-track only) Merge proposed Amendment PR
 
