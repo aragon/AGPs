@@ -68,7 +68,7 @@ Proposals made to the Finance track must affect the movement of assets held by t
   
 _Finance track budget_
 
-The total amount funded by Finance track AGPs shall not exceed 5% of the market value of the Association / Aragon Network treasury or 250,000 DAI, whichever is greater, in a given quarterly Aragon Network vote cycle. Recurring transfers approved in previous vote cycles shall be deducted from this budget as described below. The market value of the treasury, and spending relative to that, shall be measured in DAI at the time a spending proposal is reviewed for approval.
+The total amount funded by Finance track AGPs shall not exceed 5% of the market value of the Association / Aragon Network treasury or 250,000 DAI, whichever is greater, in a given quarterly Aragon Network vote cycle. Recurring transfers approved in previous vote cycles shall be deducted from this budget as described below. The market value of the treasury, and spending relative to that, shall be measured in DAI at the time an attempt is made to process an approved Finance track proposal as described below.
 
 For any Aragon Network vote ballot, approved Finance track proposals will be processed in the following order:
 
