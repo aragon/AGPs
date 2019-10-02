@@ -53,6 +53,8 @@ ScoutDAO
   - More projects shipping from NestDAO 
   - Cheaper and faster than monolithic Flock proposals
 
+More details can be found in the [ScoutDAO draft document](https://github.com/scout-dao/dao/blob/master/scoutdao-draft.md).
+
 ## Recipient information
 
 Organization (if any)  
