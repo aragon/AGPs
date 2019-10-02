@@ -28,7 +28,7 @@ This proposal is a sponsorship to allow us to keep growing the 1Hive DAO, reward
 
 ## Address of the transfer recipient
 
-[Mainnet DAO Agent Address] (vault.onehive.eth)
+1Hive Mainnet DAO Agent Address: `address TBD`
 
 ## Amount of the transfers
 
@@ -49,6 +49,13 @@ The funds will be controlled by 1Hive's core membership (Bees), with the intenti
 3) Provide discretionary funding to incubate Aragon related projects that may eventually request additional funding through Nest or the AGP process. 
 
 The transfer amount may be modified or revoked by a subsequent proposal with ANT holder support at each ANV. 
+
+## Recipient information
+
+### 1Hive DAO
+- Name: 1Hive 
+- Website: https://1hive.org/
+- GitHub: https://github.com/1hive/
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
