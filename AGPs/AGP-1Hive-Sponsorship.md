@@ -48,7 +48,7 @@ The funds will be controlled by 1Hive's core membership (Bees), with the intenti
 2) Back Honey (the 1Hive rewards token) so that community contributors that are nominated for weekly allocations have the option to redeem Honey for DAI.
 3) Provide discretionary funding to incubate Aragon related projects that may eventually request additional funding through Nest or the AGP process. 
 
-The transfer amount may be modified or revoked by a subsequent proposal with ANT holder support at each ANV. 
+This is intended to be a recurring sponsorship. The transfer amount may be modified or revoked by a subsequent proposal with ANT holder support at each ANV. 
 
 ## Recipient information
 
