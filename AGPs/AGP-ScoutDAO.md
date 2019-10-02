@@ -16,6 +16,7 @@ ScoutDAO (DAO vault address)
 ## Amount of the transfer
 
 250k DAI
+50k ANT
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
