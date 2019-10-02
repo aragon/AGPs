@@ -1,3 +1,5 @@
+
+
 ---
 AGP: 1
 Title: The Aragon Governance Proposal Process
@@ -84,7 +86,14 @@ During Stage II you should seek feedback on your AGP idea by sharing it with you
 Be open-minded and respectful of all feedback you receive. Adjust your proposal to address serious concerns as they come up to increase the odds of your proposal passing review in later stages.
 
 ### Stage III: Draft
-After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Templates section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
+
+If an AGP discussion is open on the Aragon Forum or the Aragon AGP GitHub repo, the person who started that discussion has the first claim on submission of a formal AGP around that idea. This claim on the AGP is only valid from the time the issue/thread is opened until the next ANV.
+
+If it seems like discussions around an open thread/issue have been abandoned, and the author still has a claim on AGP submission, you need to get permission from that author before submitting an AGP yourself for the idea.
+
+After you have asked the Aragon community whether an idea is available for you to create an AGP, has any chance of support, and you have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Templates section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
+
+Collaboration is not a zero-sum game. This is what makes being a member of the Aragon community so attractive, rewarding, and enriching. To ensure that we cultivate a healthy and collaborative environment all AGP authors are required to fill out a “Contributions and Prior Work” section. This allows authors to add attribution info to AGPs in a clear and unambiguous manner. If you are the sole originator of an idea and it immaculately came into your mind without any input or feedback from the broader Aragon community, then you can say so in the "Contributions and Prior Work" section.
 
 **Templates**  
 Below is a list of AGP templates for each track. Copy the template for the track your AGP is in, fill it out, and submit the pull request with your AGP for review. Sections marked as “required” in the template must be completed. Note that all proposals must be licensed CC-0.
@@ -104,15 +113,22 @@ To make a Meta track change, you must:
 ### Stage IV: Community Review
 After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three weeks before the next Aragon Network vote begins and lasts for one week. Draft AGPs must be submitted as a pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote. All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
 
-During the Community Review period, the draft AGP author will have a chance to respond to feedback and make changes to their proposal based on the feedback they have received to increase the likelihood of the proposal passing. At the end of the Community Review period, AGP Editors will perform a final review of the proposal.
+During the Community Review period, the draft AGP author will have a chance to respond to feedback and make changes to their proposal based on the feedback they have received to increase the likelihood of the proposal passing. 
+
+If anyone feels that they are not given due credit where credit is due they can request this change in the AGP review period. This request must be accompanied by proof of contribution. It is up to the AGP reviewers to determine if this claim is valid, and if so, add the contributor to the "Contributions and Prior Work" section of the AGP.
+
+At the end of the Community Review period, AGP Editors will perform a final review of the proposal.
 
 * If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP). The AGP Editors will not unreasonably deny assigning a number to the AGP.
+
 * Reasons for denying an AGP number and closing the pull request include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
 
 After a proposal in Stage IV has been thoroughly reviewed, you may finalize your proposal and request that an AGP Editor moves the proposal from Stage IV to Stage V. If you do not finalize the proposal and request to move the proposal to Stage V before Stage V is scheduled to begin, AGP Editors will consider the proposal withdrawn and close the pull request when Stage V begins.
 
 * If agreeable, the AGP Editor will move the proposal from Stage IV to Stage V by updating the status in the AGP.
 * A request to move the proposal from Stage IV to Stage V will be denied if material changes are still expected to be made to the draft. No changes can be made to an AGP while it is in Stage V or VI.
+
+
 
 ### Stage V: Final Proposal
 An AGP in Stage V is the final version that will appear on the ballot during the next Aragon Network vote. AGPs that move from Stage IV to Stage V are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage VI. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
