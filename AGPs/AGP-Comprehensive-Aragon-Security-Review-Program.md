@@ -13,7 +13,7 @@ Created: 2019-10-02
 
 This proposal is to expand the [Aragon Security Review](https://github.com/aragon/security-review/) program to include all Nest and Flock projects. This will allow developers to focus on building thier applications. It will also allow the Aragon Association to build relationships with auditors, reducing time and money spent on security audits overall. This is essential for Aragon to be able to provide professional and trusted solutions for organizations on a global scale.
 
-Aragon app developers (Nest or Flock) would be required to submit documentation along with a frozen codebase to the AA. At that point the AA would reveiw and, if satisfactory, hand off the project to a security partnet. The security partner would then review, present findings, and provie suggestions for improvement. The Aragon app developers would then need to incorporate all suggestions provided by the security partner before receiving their ANT bonus.
+Aragon app developers (Nest or Flock) would be required to submit documentation along with a frozen codebase to the AA. At that point the AA would reveiw and, if satisfactory, hand off the project to a security partnet. The security partner would then review, present findings, and provie suggestions for improvement. The Aragon app developers would then need to incorporate all critical suggestions provided by the security partner before receiving their ANT bonus. 
 
 ## Motivation for changing this Association policy
 
