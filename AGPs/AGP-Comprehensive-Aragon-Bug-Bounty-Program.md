@@ -9,8 +9,6 @@ Created: 2019-10-02
 
 # AGP-X: Comprehensive Aragon Bug Bounty Program
 
-This proposal is inspired by @stellarmagnet's post on [Upgrading the Bug Bounty program](https://forum.aragon.org/t/upgrading-the-bug-bounty-program-potential-agp/562). Ideas are easy, but shipping a polished, secure, and usable app to production is hard. Thank you for bringing this up and starting the conversation! :) 
-
 ## Description of desired Association policy change
 
 This proposal is to create a comprehensive [Bug Bounty Program](https://wiki.aragon.org/dev/bug_bounty/) for all funded Aragon applications and tooling. 
@@ -52,3 +50,7 @@ Aragon is trying to attract talent and users. Having the worlds easiest to build
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+<hr>
+
+> This proposal is inspired by @stellarmagnet's post on [Upgrading the Bug Bounty program](https://forum.aragon.org/t/upgrading-the-bug-bounty-program-potential-agp/562). Ideas are easy, but shipping a polished, secure, and usable app to production is hard. Thank you for bringing this up and starting the conversation! :) 
