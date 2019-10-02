@@ -15,7 +15,7 @@ This proposal is to create a comprehensive [Bug Bounty Program](https://wiki.ara
 
 ### Bug Bounty Scope
 
-The scope of the [Aragon Association Bug Bounty Program](https://wiki.aragon.org/dev/bug_bounty/) will be expanded to make all Nest grantees and Flock team applications eligible. Applications will only be accepted into the bug bounty program if they have undergone a security audit, incorporated all security audit recommendations, and shipped to mainnet. 
+The scope of the [Aragon Association Bug Bounty Program](https://wiki.aragon.org/dev/bug_bounty/) will be expanded to make all Nest grantees and Flock team applications eligible. Applications will only be accepted into the bug bounty program if they have undergone a security audit, incorporated all critical security audit recommendations, and shipped to mainnet. 
 
 ### Bug Bounty Levels
 
