@@ -24,7 +24,7 @@ ScoutDAO (DAO vault address)
 
 ## Purpose of the transfer
 
-Fund ScoutDAO operations to help the Aragon community validate ideas, get more devs working on the Aragon stack, and increase the value of Aragon as a platform.
+Create ScoutDAO to help the Aragon community validate ideas, get more devs working on the Aragon stack, and increase the value of Aragon as a platform.
 
 ### The Problem / Background
 
