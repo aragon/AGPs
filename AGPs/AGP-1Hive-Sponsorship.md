@@ -1,4 +1,3 @@
-
 ---
 AGP: TBD
 Title: 1Hive Sponsorship Proposal 
