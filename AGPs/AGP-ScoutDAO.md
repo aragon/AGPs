@@ -57,24 +57,30 @@ More details can be found in the [ScoutDAO draft document](https://github.com/sc
 
 ## Recipient information
 
+```
 Organization (if any)  
 Name: ScoutDAO
 Website: n/a
 Other URL: https://github.com/scout-dao 
+```
 
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
+```
 Name: burrrata
 PGP key fingerprint: FFB0474A8164B4B7 
 Website: burrrata.ch/website
 GitHub: https://github.com/burrrata
 Aragon Forum: https://forum.aragon.org/u/burrrata
+```
 
+```
 Name: Joe Charlesworth
 PGP key fingerprint:  
 Website: www.prediction.vc
 GitHub: https://github.com/joeycharlesworth
 Aragon Forum: https://forum.aragon.org/u/joeycharlesworth
+```
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
