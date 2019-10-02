@@ -1,7 +1,7 @@
 ---
 AGP: TBD
 Title: 1Hive Sponsorship Proposal 
-Authors: lkngtn (@lkngtn), burrrata (@burrrata), 1hive team (@1hive on keybase)
+Authors: 1hive team (@1hive on keybase), burrrata (@burrrata), lkngtn (@lkngtn)
 Status: Draft
 Track: Finance
 Created: 2019-09-24
