@@ -13,12 +13,12 @@ Created: 2019-09-24
 
 [1Hive](https://1hive.org) is a DAO operating on Aragon. We have multiple initiatives in progress, all of which aim to make Aragon more useful for everyone. Our dream is to support the commons so that open source communities can thrive.
 
-We are a relatively young DAO that only come into existence 4 months ago. In that short time we have initiated several projects, one of which has gone on to receive a nest grant. 
+We are a relatively young DAO that only came into existence 4 months ago. In that short time we have initiated several projects, one of which has gone on to receive a nest grant. 
 - [Dandelion](https://1hive.org/blog/2019/08/31/dandelion-overview) - MolochDAO on Aragon ([Nest grantee](https://github.com/aragon/nest/issues/168)).
 - [Apiary](https://apiary.1hive.org) - Like a block explorer, but for Aragon DAOs.
 - [Flora](https://devpost.com/software/flora-sidechain-discount-transactions-q8usv3) - Fast, cheap, and secure sidechain for Aragon DAOs.
 - [Conviction Voting](https://forum.aragon.org/t/conviction-voting-on-aragon-cf-dao-proposal/1195) - Continuous signaling of DAOs sentiment for proposal funding.
-- [Credao](https://devpost.com/software/credao) - Meriticratic reputation for any DAO or community.
+- [Credao](https://devpost.com/software/credao) - Meritocratic reputation for any DAO or community.
 
 These projects are here today because of the 1Hive community. We have taken great care to design, build, and maintain our DAO so that projects like these are possible. We would like to request a sponsorship from Aragon to support the 1Hive DAO. 
 
