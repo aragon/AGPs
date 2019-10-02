@@ -19,7 +19,7 @@ ScoutDAO (DAO vault address)
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
-1, but maybe more
+1, but maybe more if the amount of successful projects is higher than expectations.
 
 ## Purpose of the transfer
 
