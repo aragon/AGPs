@@ -18,7 +18,7 @@ We are a relatively young DAO that only come into existence 4 months ago. In tha
 - [Apiary](https://apiary.1hive.org) - Like a block explorer, but for Aragon DAOs.
 - [Flora](https://devpost.com/software/flora-sidechain-discount-transactions-q8usv3) - Fast, cheap, and secure sidechain for Aragon DAOs.
 - [Conviction Voting](https://forum.aragon.org/t/conviction-voting-on-aragon-cf-dao-proposal/1195) - Continuous signaling of DAOs sentiment for proposal funding.
-- [Credao](https://devpost.com/software/credao) - Meriticratic reputation for any DAO or community.
+- [Credao](https://devpost.com/software/credao) - Meritocratic reputation for any DAO or community.
 
 These projects are here today because of the 1Hive community. We have taken great care to design, build, and maintain our DAO so that projects like these are possible. We would like to request a sponsorship from Aragon to support the 1Hive DAO. 
 
