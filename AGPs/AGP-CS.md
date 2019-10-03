@@ -56,7 +56,7 @@ Other URL: www.github.com/ChainSafe
 Fill out the following information for each individual team member who will be managing funds from this transfer:
 
 Name: Gregory Markou
-PGP key fingerprint: TBD
+PGP key fingerprint: 00BA 1344 6C1B 51D8 C730  131B EE32 8DC9 AD61 010C
 Website: www.chainsafe.io
 Other URL: www.github.com/GregTheGreek
 
