@@ -48,8 +48,6 @@ Deliverables from this project:
 
 ## Recipient information
 
-TBD
-
 Organization (if any)  
 Name: ChainSafe Systems
 Website: www.chainsafe.io
