@@ -50,14 +50,14 @@ For each payout cycle, there is a determined “pot” of total earnings that wi
 
 **Blacklist**
 
-It's possible that the KPI mechanism can be gamed, for example the popularity metric could be manipulated by creating a bunch of organization and installing a bunch of otherwise unpopular applications. For the purposes of our initial pilot, rather than try an engineer un-gameable metric, we propose that we can rely on the community to report potential abuse and the discretion of Pinion Studio LLC to manage a blacklist for the purpose of excluding recipients that are suspected to be trying to maliciously manipulate payout amounts. In the future, this role could be decentralized by leveraging the Aragon Court.
+It's possible that the KPI mechanism can be gamed, for example the popularity metric could be manipulated by creating a bunch of organization and installing a bunch of otherwise unpopular applications. For the purposes of our initial pilot, rather than try an engineer un-gameable metric, we propose that we can rely on the community to report potential abuse and the discretion of Pinion to manage a blacklist for the purpose of excluding recipients that are suspected to be trying to maliciously manipulate payout amounts. In the future, this role could be decentralized by leveraging the Aragon Court.
 
 **Initial and Ongoing Execution**
 
-In order for the to execute on this program, This proposal includes a one-time 50K DAI budget for development effort related to surfacing these metrics to the community and preparing the initial launch of the app mining program.
+This proposal includes a one-time 50K DAI budget for Pinion to execute on the development and documentation effort related to surfacing these metrics to the community and preparing the initial launch of the app mining program.
 
-If approved, Pinion Studio LLC would:
+If approved, Pinion would:
     - Work with [Apiary](apiary.1hive.org) to create a dashboard that includes these metrics and make the Aragon App Score publicly and easily accessible to the Aragon community.
     - Provide documentation via PRs to hack.aragon.org for application developers to participate in the program
-    - Assist the association in preparing communications around the launch of Aragon's App Mining program
+    - Assist the AA and/or teams responsible for Aragon communications in preparing communications for the launch of Aragon's App Mining program
     - Coordinate with the AA to execute payments each quarter to eligible recipients based on calculated Aragon App Scores
