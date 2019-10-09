@@ -37,7 +37,7 @@ Aragon One has worked with ChainSafe Systems on a feasibility study on what the 
 
 Feasibility report: TBD (to be made public ahead of the AGP phase V transition)
 
-The report goes indepth between the current leading staking chains: Polkadot and Cosmos. Throughout the report comparisons are made based on Aragon specific optimizations, and cross-chain communication.
+The report goes in-depth between the current leading staking chains: Polkadot and Cosmos. Throughout the report comparisons are made based on Aragon-specific optimizations, and cross-chain communication.
 
 Deliverables from this project:
 
