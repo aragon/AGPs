@@ -29,7 +29,7 @@ However, Ethereum may not be the best platform for all Aragon use cases. Some Ar
 
 On top of this, we are seeing increased development and user experience costs [resulting from changes in the Ethereum protocol that break Aragon organizations](https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon).
 
-Building a sovereign layer 1 protocol owned and operated by the Aragon community will ensure that we can keep enhancing Aragon, and even introduce protocol changes that make running decentralized organizations easier and cheaper. This way we can offer Aragon organizations another option parallel to Ethereum, with different security, cost and performance trade-offs. The idea is for this chain to be heavily focused and optimized for the Aragon use case, so other heavyweight use cases that are currently clogging the Ethereum network wouldn't necessarily have any incentives to run on the Aragon Chain.
+Building a sovereign layer 1 protocol owned and operated by the Aragon community will ensure that we can continue enhancing Aragon, and even introduce protocol changes that make running decentralized organizations easier and cheaper. This way we can offer Aragon organizations another option parallel to Ethereum, with different security, cost, and performance trade-offs. The idea is for this chain to be heavily focused and optimized for the Aragon use case, so other heavyweight use cases that are currently clogging the Ethereum network wouldn't necessarily have any incentives to run on the Aragon Chain.
 
 The Aragon Chain will be an EVM compatible Proof of Stake blockchain whose native staking token is derived from ANT (in a similar fashion as the Aragon Court's ANJ).
 
