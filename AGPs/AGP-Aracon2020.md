@@ -11,7 +11,7 @@ Created: 2019-10-01
 
 ## Address of the transfer recipient
 
-- An ad-hoc Aracon DAO, or the Events DAO
+- An ad-hoc AraCon DAO, or the Events DAO. The Aragon Association will provide an address.
 
 ## Amount of the transfer
 
