@@ -9,10 +9,11 @@ Created: 2019/10/2
 
 # AGP-Frame: Flock Funding for Frame
 ## Address of the Transfer Recipient
-We request funds to be sent to our Aragon DAO: [`frame.aragonid.eth`](https://mainnet.aragon.org/#/frame.aragonid.eth)
+We request funds to be sent to our Aragon DAO: [`frame.aragonid.eth`](https://mainnet.aragon.org/#/frame.aragonid.eth) 0xe30b0d5168dfd8d92bc511e814de14e3757c775e
 
 ## Amount of Transfer
 284,000 DAI
+50,000 ANT per year for the next 4 years with a 1 year cliff
 
 ## Number of Transfers
 1
@@ -28,7 +29,7 @@ To cover our operation costs, Frame requests:
 * 284,000 DAI to cover 26 weeks of operating costs for 5 full-time employees and contractors
 * 50,000 ANT per year for the next 4 years as an alignment package (with a 1 year cliff)
 
-### [Read Our Full Proposal!](https://github.com/aragon/flock/blob/master/teams/Frame/Q4-2109%20%26%20Q1-2020.md)
+### [Read Our Full Proposal!](https://github.com/aragon/flock/blob/f76b23144789ff37eb3bf3721ce02d0647d236d5/teams/Frame/Q4-2109%20%26%20Q1-2020.md)
 
 ## Recipient Information
 Organization: Frame
