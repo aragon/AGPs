@@ -13,6 +13,7 @@ We request funds to be sent to our Aragon DAO: [`frame.aragonid.eth`](https://ma
 
 ## Amount of Transfer
 284,000 DAI
+
 50,000 ANT per year for the next 4 years with a 1 year cliff
 
 ## Number of Transfers
