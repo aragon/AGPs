@@ -74,7 +74,7 @@ For any Aragon Network vote ballot, approved Finance track proposals will be pro
 
 - First, process proposals that either reduce a previously approved recurring transfer amount by 10% or more or completely cancel a previously approved recurring transfer.
 
-- Then, attempt to debit any ongoing recurring transfers from this quarter’s budget, except ongoing recurring transfers whose amount has been increased in the most recent vote cycle.
+- Then, attempt to debit any ongoing recurring transfers from this quarter’s budget, except ongoing recurring transfers whose amount has been increased in the most recent vote cycle. Ongoing recurring transfers shall be processed in descending order based on the absolute approval percentage of the proposals when they were approved in their respective Aragon Network vote.
 
 - Finally, attempt to process approved Finance track AGPs, that either make new transfers or increase previously approved recurring transfers, in descending order based on absolute approval percentage. Each processed proposal will be debited against this quarter’s remaining budget, and if there is not enough budget available for a proposal when it attempts to be processed then processing will fail and the approved transfer will not be made. An attempt will then be made to process the next approved proposal until there are no more remaining approved proposals to process.
 
