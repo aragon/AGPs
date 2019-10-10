@@ -11,6 +11,7 @@ Created: 2019-10-02
 
 ## File changed (AGP-0 or AGP-1)
 
+AGP-1
 ## Link to proposed change
 
 https://github.com/aragon/AGPs/pull/102
