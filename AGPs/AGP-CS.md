@@ -11,11 +11,11 @@ Created: 2019-10-03
 
 ## Address of the transfer recipient
 
-TBD
+0xfc6eBB0F689674b18f90dA73658072155e98ea5B
 
 ## Amount of the transfer
 
-Upon community review, a better estimate can be made based on the needs and requirements from the community.
+A total of $x, will be allocated to the Aragon Chain. Invoices will be sent to the Aragon Association, and compensation will be at their discretion.
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
@@ -35,7 +35,7 @@ The Aragon Chain will be an EVM-compatible Proof of Stake blockchain whose nativ
 
 Aragon One has worked with ChainSafe Systems on a feasibility study on what the most fitting technology for building the Aragon Chain is. We are now certain of the way forward and it's ready to get into the specification and development phase.
 
-Feasibility report: TBD (to be made public ahead of the AGP phase V transition)
+Feasibility report: [PDF](https://github.com/ChainSafe/AGP-Report/blob/master/Aragon%20Feasability%20Report%20-%20Oct%209%2C%202019.pdf)
 
 The report goes in-depth between the current leading staking chains: Polkadot and Cosmos. Throughout the report comparisons are made based on Aragon-specific optimizations, and cross-chain communication.
 
