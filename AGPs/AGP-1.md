@@ -72,7 +72,7 @@ The total amount funded by Finance track AGPs shall not exceed 5% of the market 
 
 For any Aragon Network vote ballot, approved Finance track proposals will be processed in the following order:
 
-- First, process proposals that reduce or eliminate a previously approved recurring transfer.
+- First, process proposals that either reduce a previously approved recurring transfer amount by 10% or more or completely cancel a previously approved recurring transfer.
 
 - Then, attempt to debit any ongoing recurring transfers from this quarter’s budget, except ongoing recurring transfers whose amount has been increased in the most recent vote cycle.
 
