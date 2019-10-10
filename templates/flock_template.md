@@ -17,7 +17,7 @@ Created: YYYY-MM-DD
 
 *In order to be submitted to the Community Review stage of the AGP process, the above application must satisfy the Flock track AGP timeline. Its scope and structure must also match the way the Flock program operates.*
 
-*If so, the Aragon Association will create a pull request containing PGP signature as specified in the Flock track process of AGP-1*
+*If so, the Aragon Association will pre-approve it by providing the team with a PGP signed message that should be included in the AGP as specified in the Flock track process of AGP-1*
 
 
 ## License
