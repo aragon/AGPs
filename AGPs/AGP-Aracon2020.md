@@ -31,7 +31,7 @@ Unused funds will be returned to the Aragon Association's multisig (`0xcafe1a77.
 
 - An internal DAO managed by the Aragon Association
 
-# Aracon 2020
+# AraCon 2020
 
 ## Dates
 We are aiming for the month of June 2020 
