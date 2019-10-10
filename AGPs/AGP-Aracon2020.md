@@ -53,7 +53,7 @@ We are planning on switching a bit the format. 2019 was a 2 day event, and while
 This should help reduce the costs associated with the venue and the food.
 
 ## Organizers
-We have been lucky to be able to re-confirm the 2019 organizer, Lucija Matic, who would be ready to take care of the full organization of the conference, with the help of the Aragon team.
+We have been lucky to be able to re-confirm the 2019 organizer, Lucija Matic, who would be ready to take care of the full organization of the conference, with help from other community members.
 
 ## Budget 
 We have also budgeted what it would cost, based on the costs we had this year and the proposed changes in the Agenda.
