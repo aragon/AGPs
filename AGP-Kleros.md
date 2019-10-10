@@ -36,7 +36,7 @@ Kleros is a decentralized autonomous organization (DAO) providing arbitration se
 <div style="text-align:center"><img width="115" alt="t2crlogo" src="https://user-images.githubusercontent.com/8873352/63350320-1eed1080-c355-11e9-8b53-e6b20c98814c.png"></div>
 
 
-The [Token² Curated registry](https://tokens.kleros.io), which is a registry of tokens where Kleros jurors solve disputes about token specifics (Project Name, Logo, Ticker and network address). It is made to prevent scam tokens (tokens impersonating projects and giving wrong addresses) and to provide a way for dapps to access a list of tokens and for people to certify information about token characteristics. It is currently used by [Ethfinex](http://ethfinex.com/) in their listing process and has processed more than 1000 ETH of deposits.
+The [Token² Curated registry](https://tokens.kleros.io), which is a registry of tokens where Kleros jurors solve disputes about token specifics (Project Name, Logo, Ticker and network address). It is made to prevent scam tokens (tokens impersonating projects and giving wrong addresses) and to provide a way for dapps to access a list of tokens and for people to certify information about token characteristics. It has been used by [Ethfinex](http://ethfinex.com/) (rebranding as DeversiFi) in their listing process and has processed more than 2000 ETH of deposits.
 
 
 <img width="96" alt="escrow" src="https://user-images.githubusercontent.com/8873352/63358327-c4f34780-c362-11e9-9c11-b3cfa1cea68a.png">
@@ -63,7 +63,8 @@ Kleros was also used during the [Doges On Trial](https://dogesontrial.dog) exper
 
 The [initial Aragon paper](https://github.com/aragon/whitepaper/tree/v1#appendix-a-decentralized-arbitration-system-for-the-aragon-network) mentioned building a decentralized arbitration system as part of network services. This initial paper proposed a model different from Kleros.
 
-Recently Aragon members proposed to create a court based on Kleros with minor modifications (see this [*post*](https://forum.aragon.org/t/aragon-court-v1/691) and [*github*](https://github.com/aragon/whitepaper)). The proposal is similar to Kleros in both its high level functioning and technical nature.
+Recently Aragon members proposed to create a court based on Kleros with minor modifications (see this [*post*](https://forum.aragon.org/t/aragon-court-v1/691) and [*github*](https://github.com/aragon/whitepaper)). The proposal is similar to Kleros in both its high level functioning and technical nature. It is currently in [Research and Development stage](https://github.com/aragon/aragon-court).
+
 
 ### Arguments
 
