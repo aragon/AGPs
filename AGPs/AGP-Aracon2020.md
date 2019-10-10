@@ -7,7 +7,7 @@ Track: Finance
 Created: 2019-10-01
 ---
 
-# AGP-AC: Aracon 2020
+# AGP-AC: AraCon 2020
 
 ## Address of the transfer recipient
 
