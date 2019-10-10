@@ -1,13 +1,13 @@
 ---
-AGP: N/A
+AGP: 106
 Title: Develop and launch Aragon Chain
 Author: Aidan Hyman & Gregory Markou
-Status: Stage III
+Status: Stage V
 Track: Finance
 Created: 2019-10-03
 ---
 
-# Develop and launch Aragon Chain
+# AGP-106: Develop and launch Aragon Chain
 
 ## Address of the transfer recipient
 
@@ -15,7 +15,7 @@ Created: 2019-10-03
 
 ## Amount of the transfer
 
-A total of $500,000, will be allocated to the Aragon Chain. Invoices will be sent to the Aragon Association, and compensation will be at their discretion.
+A total of $500,000 USD will be allocated to the Aragon Chain. Invoices will be sent to the Aragon Association, and compensation will be at their discretion.
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
