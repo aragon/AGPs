@@ -20,9 +20,7 @@ In exchange, Aragon would provide a mix of ETH/DAI/ANT. This can be provided to 
 
 The exact amount of tokens to be put in the bonded curve or to be exchanged need to be determined by an agreement of both Aragon and Kleros.
 
-The Aragon Association and the Kleros Cooperative will negotiate an agreement. This agreement and the discussion process will be fully transparent and will be proposed to vote on both Aragon and Kleros governance. This can take the form of multiple deals, each providing funding and additional PNK to the bonded curve.
-
-Each will be the subject of a governance proposal in both Kleros and Aragon using the Aragon dapp.
+The Aragon Association and the Kleros Cooperative will negotiate an agreement. This agreement and the discussion process will be fully transparent and will be proposed to vote on both Aragon and Kleros governance. This can take the form of multiple deals, each providing funding and additional PNK to the bonded curve. Each will be the subject of a governance proposal in both Kleros and Aragon using the Aragon dapp.
 
 
 ## Motivation for writing this proclamation
