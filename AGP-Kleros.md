@@ -12,7 +12,7 @@ Created: 2019-09-20
 
 ## Proclamation text
 
-Aragon will work with Kleros for their court system.
+Aragon will work with Kleros for its court system.
 
 A part of the Kleros native token (PNK) would be minted to be put in an ANT bonded curve (this could use some of the work of Aragon Black on batched bonded curves). To avoid gas wars, there will be some initialization period for this bonded curve where everyone can deposit ANT.
 
