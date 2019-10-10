@@ -1,7 +1,7 @@
 ---
 AGP: Y
 Title: Aragon Network Budget
-Author: anteater (@anteater0x)
+Author: anteater (@anteater0x), Luke Duncan (@lkngtn)
 Status: Stage III
 Track: Meta
 Created: 2019-10-02
