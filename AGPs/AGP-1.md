@@ -84,7 +84,7 @@ During Stage II you should seek feedback on your AGP idea by sharing it with you
 Be open-minded and respectful of all feedback you receive. Adjust your proposal to address serious concerns as they come up to increase the odds of your proposal passing review in later stages.
 
 ### Stage III: Draft
-After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a pull request to the AGP repo. Use a template from the Templates section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
+After you have asked the Aragon community whether an idea has any chance of support and have received sufficient feedback to feel confident going forward, you can create a draft AGP as a draft pull request to the AGP repo. Use a template from the Templates section below to ensure you are including all the necessary information. The draft AGP file should be given a temporary name, which the AGP Editor will rename when the AGP is assigned a number.
 
 **Templates**  
 Below is a list of AGP templates for each track. Copy the template for the track your AGP is in, fill it out, and submit the pull request with your AGP for review. Sections marked as “required” in the template must be completed. Note that all proposals must be licensed CC-0.
@@ -97,19 +97,19 @@ Below is a list of AGP templates for each track. Copy the template for the track
 To make a Meta track change, you must:
 
 1. Create and submit a pull request changing either AGP-0 or AGP-1.
-2. In a _separate_ pull request, create a new file in the AGPs folder of the AGPs repo.
+2. In a _separate_ draft pull request, create a new file in the AGPs folder of the AGPs repo.
 3. Add a link to the pull request created in step 1 to the new file created in step 2.
 4. Submit the new file from step 2 as a pull request to the AGPs repo. This will be the AGP pull request. If the AGP is approved by ANT holders, the pull request created in step 1 will be merged. If the proposal is rejected and withdrawn, the pull request created in step 1 will be closed.
 
 ### Stage IV: Community Review
-After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three weeks before the next Aragon Network vote begins and lasts for one week. Draft AGPs must be submitted as a pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote. All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
+After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three weeks before the next Aragon Network vote begins and lasts for one week. Draft AGPs must be submitted as a draft pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote. All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
 
 During the Community Review period, the draft AGP author will have a chance to respond to feedback and make changes to their proposal based on the feedback they have received to increase the likelihood of the proposal passing. At the end of the Community Review period, AGP Editors will perform a final review of the proposal.
 
 * If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP). The AGP Editors will not unreasonably deny assigning a number to the AGP.
 * Reasons for denying an AGP number and closing the pull request include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
 
-After a proposal in Stage IV has been thoroughly reviewed, you may finalize your proposal and request that an AGP Editor moves the proposal from Stage IV to Stage V. If you do not finalize the proposal and request to move the proposal to Stage V before Stage V is scheduled to begin, AGP Editors will consider the proposal withdrawn and close the pull request when Stage V begins.
+After a proposal in Stage IV has been thoroughly reviewed, you may finalize your proposal by making any final changes and mark the pull request as "Ready to review", changing the draft pull request to a ready pull request. If you do not finalize the proposal and change the pull request from "draft" to "ready to review" before Stage V is scheduled to begin, AGP Editors will consider the proposal withdrawn and close the pull request when Stage V begins.
 
 * If agreeable, the AGP Editor will move the proposal from Stage IV to Stage V by updating the status in the AGP.
 * A request to move the proposal from Stage IV to Stage V will be denied if material changes are still expected to be made to the draft. No changes can be made to an AGP while it is in Stage V or VI.
