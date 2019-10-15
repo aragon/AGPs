@@ -102,7 +102,9 @@ To make a Meta track change, you must:
 4. Submit the new file from step 2 as a pull request to the AGPs repo. This will be the AGP pull request. If the AGP is approved by ANT holders, the pull request created in step 1 will be merged. If the proposal is rejected and withdrawn, the pull request created in step 1 will be closed.
 
 ### Stage IV: Community Review
-After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three weeks before the next Aragon Network vote begins and lasts for one week. Draft AGPs must be submitted as a draft pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote. All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
+After an AGP has been submitted as a draft to the AGPs repo, it must undergo a Community Review period that starts three weeks before the next Aragon Network vote begins and lasts for one week. Draft AGPs must be submitted as a draft pull request to the AGPs repo before the Community Review period begins to be considered for the next Aragon Network vote.`*` All draft AGPs that have an open pull request at the time the Community Review begins will automatically be moved to Stage IV for consideration.
+
+`*` If a draft AGP pull request is accidentally submitted as a ready pull request instead of a draft pull request, the author should put [DRAFT] in the title of the pull request.
 
 During the Community Review period, the draft AGP author will have a chance to respond to feedback and make changes to their proposal based on the feedback they have received to increase the likelihood of the proposal passing. At the end of the Community Review period, AGP Editors will perform a final review of the proposal.
 
