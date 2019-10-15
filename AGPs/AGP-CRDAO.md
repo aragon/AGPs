@@ -11,12 +11,11 @@ Created: 2019-10-01
 
 ## Address of the transfer recipient
 
-TBD, but will be the Vault of the CRDAO
+`0xaC3Dbb1302a2319AD9A4359247597f585d75e52C`
 
 ## Amount of the transfer
 
 12,000 ANT
-- 1000 ANT for every week between this upcoming AGP (fourth Thursday of October) and the next AGP (fourth Thursday of January)
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
@@ -26,7 +25,7 @@ TBD, but will be the Vault of the CRDAO
 
 The CRDAO will reward contributions to the Aragon ecosystem with small amounts of ANT. Its purpose is to reward people for contributions they do and encourage them to do more voluntarily without necessarily an expectation of specific remuneration. it differs from CFDAO in that recipients do not apply for funds, CRDAO rewards are recognition for service to the Aragon Community.
 
-CRDAO will have a fixed weekly budget. This will provide a runway from this AGP to the next. The budget will be divided amongst nominated Aragon community members using Autarks Dot Voting app. The reward policy will be based on the [1Hive model](https://1hive.org/contribute/allocations-payroll), however a key difference being that any member of the Aragon forum can nominate anyone else, but it is up to the DAO members to actually vote on those nominations. 
+CRDAO will have a fixed weekly budget of 1000 ANT. 1000 ANT will be distributed via the CRDAO as long as sufficient ANT remains in the CRDAO vault. Once Autark's Dot Voting and Allocations apps are published to mainnet, the CRDAO weekly ANT budget will be divided among nominated Aragon community members using Dot voting and Allocations. The reward policy will be based on the [1Hive model](https://1hive.org/contribute/allocations-payroll), however a key difference being that any member of the Aragon forum will be able nominate anyone else, but it is up to the DAO members to actually vote on those nominations. 
 
 Details on the proposed structure, settings, and usage of the CRDAO can be found in the CRDAO GitHub organization:
 - [CRDAO GitHub Org](https://github.com/crdao)
@@ -44,7 +43,7 @@ Organization (if any)
 Name: Community Rewards DAO
 Website: https://github.com/crdao
 
-Funds will go directly to the DAO's vault. Burrrata and Aaron will be responsible for creating the DAO. Community members will be asked to inspect and audit the DAO before funds are transferred to ensure permissions are set correctly according to the CRDAO-Outline.
+Funds will be transferred to an Ethereum address controlled by burrrata. Once Autark's Dot Voting and Allocations apps are published to mainnet the CRDAO will be built and funds will be transferred to the DAO's vault. Burrrata and Aaron will be responsible for creating and managing the DAO. Community members will be asked to inspect and audit the DAO before funds are transferred to ensure permissions are set correctly according to the CRDAO-Outline.
 
 Name: aaronfosterreal
 PGP key fingerprint: 66AF0356A1D09F61
