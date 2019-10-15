@@ -28,7 +28,7 @@ This proposal is a sponsorship to allow us to keep growing the 1Hive DAO, reward
 
 ## Address of the transfer recipient
 
-1Hive Mainnet DAO Agent Address: `address TBD`
+1Hive Mainnet DAO Vault Address: `0x9213737fbb72d8f924fca55d508ae2c004413d64`
 
 ## Amount of the transfers
 
