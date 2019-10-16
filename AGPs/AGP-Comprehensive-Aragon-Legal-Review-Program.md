@@ -18,7 +18,7 @@ Fund up to five hours of legal council for every Aragon application funded by th
 ## Motivation for changing this Association policy
 Aragon apps are cool. Aragon apps are fun. Aragon apps are, legally compliant?
 
-Aragon exists to allow anyone anywhere to organize freely. Just passing votes and making decisions is fairly non controversial. When money is attached to those votes, things are different. In many parts of the world there are strict rules as to what you can and cannot do with money. This is currently a legally grey area as tokens may or may not be classified as money, commodities, securities, or even other things depending on your jurisdiction. This is frustrating and nerve-racking for Aragon application developers.
+Aragon exists to allow anyone anywhere to organize freely. Just passing votes and making decisions is fairly non-controversial. When money is attached to those votes, things are different. In many parts of the world there are strict rules as to what you can and cannot do with money. This is currently a legally grey area as tokens may or may not be classified as money, commodities, securities, or even other things depending on your jurisdiction. This is frustrating and nerve-racking for Aragon application developers.
 
 Just like applications receive security audits, they could also receive a legal audit. Having legal council before shipping applications to mainnet would improve the experience of building and shipping Aragon applications. This would help developers sleep sound at night. It would also increase consumer confidence in Aragon applications. This would help organizations and users understand what they can and cannot use Aragon applications for.
 
