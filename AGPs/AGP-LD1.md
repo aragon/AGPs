@@ -46,7 +46,7 @@ To compute the DAI value of an organizations treasury we would use the *default 
 
 To compute the # of transactions involving an application we would simply examine the blockchain.   
 
-For each payout cycle, there is a determined “pot” of total earnings that will get paid to apps. The top app gets paid 20% of the total pot. So, for a pot of 100K ANT, the top app receives 20K ANT. The next app gets paid 20% of the remaining pot. The remaining pot is 80K, and 20% of that is 16K ANT. This process continues until every app has been paid or the payout amount is bellow 200 ANT whichever comes first.
+For each payout cycle, there is a determined “pot” of total earnings that will get paid to apps. The top app gets paid 20% of the total pot. So, for a pot of 100K ANT, the top app receives 20K ANT. The next app gets paid 20% of the remaining pot. The remaining pot is 80K, and 20% of that is 16K ANT. This process continues until either every app has been paid or the payout amount is below 200 ANT, whichever comes first.
 
 **Blacklist**
 
