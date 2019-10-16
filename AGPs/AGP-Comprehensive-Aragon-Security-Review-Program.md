@@ -32,7 +32,7 @@ Aragon is trying to attract talent and users. Having the world's easiest to buil
 
 The Aragon Association is spending millions of dollars on Flock teams and hundreds of thousands of dollars on Nest projects. Security audits help to protect that investment. Aragon DAOs currently hold hundreds of thousands of dollars in their vaults, and soon more organizations will be using Aragon DAOs to manage millions. It is essential that projects funded via the Aragon Association treasury funds are secure, otherwise no one will use them.
 
-Augmenting the Aragon Security Review program will allow developers to focus on building their applications. It will also allow the Aragon Association to build relationships with trusted security partners in order reducing time and money spent on security audits overall. This is essential for Aragon to be able to provide professional and trusted solutions for organizations on a global scale.
+Augmenting the Aragon Security Review program will allow developers to focus on building their applications. It will also allow the Aragon Association to build relationships with trusted security partners in order to reduce time and money spent on security audits overall. This is essential for Aragon to be able to provide professional and trusted solutions for organizations on a global scale.
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
