@@ -23,7 +23,7 @@ Furthermore, in the recent [1Hive Dandelion Orgs Nest grant](https://github.com/
 
 Speaking of developers building on Aragon, the Aragon community is now shipping more projects through Aragon One, Autark, Aragon Black, and the Nest program. These apps are amazing and could unlock tons of value, but only if people use them…
 
-People are wary of DAOs because of “the DAO” hack. For people to trust (and thus use) Aragon we need to go above and beyond to prove that the Aragon platform, and all major releases of Aragon apps, are secure. This is easier said than done.
+People are wary of DAOs because of “The DAO” hack. For people to trust (and thus use) Aragon we need to go above and beyond to prove that the Aragon platform, and all major releases of Aragon apps, are secure. This is easier said than done.
 - Security audits are not perfect. Even with an audit all you know is what was reported. They might have missed something.
 - Security audits are highly technical and the process is opaque to people who are not involved in the Ethereum security community.
 - Security audits are expensive. Having strategic and financial help to navigate that negotiation is extremely important!
