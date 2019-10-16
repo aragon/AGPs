@@ -2,7 +2,7 @@
 AGP: N/A
 Title:  Community Rewards DAO
 Author: Aaron Foster (`@pythonpete32`) & Burrrata (`@burrrata`)
-Status: Stage III
+Status: Stage IV 
 Track: Finance
 Created: 2019-10-01
 ---
