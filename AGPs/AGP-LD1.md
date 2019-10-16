@@ -31,7 +31,7 @@ A core value proposition of Aragon is that it is a platform which allows users t
 
 At the moment there is no incentive to do this outside of one-off grants. There has been discussion to create monetization models for the eventual release of the App Center, but currently such a system doesn't yet exist, and even if it did the number of users of Aragon is small enough that such a market may not be attractive enough to bring top talent into the space. Users will come if there are high quality apps, but if there are no users, no high quality apps will be built and maintained.
 
-To remedy this I propose we bootstrap the supply side by allocating funds and distributing them to Aragon Application developers based on agreed upon KPIs. We can combine multiple KPIs into an **Aragon App Score**, which we can use to rank applications and then use the ranking to distribute funding to maintainers on a periodic basic.
+To remedy this I propose we bootstrap the supply side by allocating funds and distributing them to Aragon application developers based on agreed upon KPIs. We can combine multiple KPIs into an **Aragon App Score**, which we can use to rank applications and then use the ranking to distribute funding to maintainers on a periodic basic.
 
 **The following weighted KPIs would be used to create the Aragon App Score:**
 
