@@ -22,3 +22,7 @@ This proposal is to change the Association Policy on rejecting these types of pr
 ## Motivation for changing this Association policy
 
 Both Flock and Nest are useful programs, and it may be reasonable to divert Finance proposals that would be a good fit to those programs away from the AGP process. However, doing significantly reduces the flexibility and power of Finance Track AGPs. This proposal gives ANT holders an opportunity to weigh in on this policy change, rejecting this proposal would indicate that ANT holders would like the AA to continue to reject proposals if they would otherwise fit into Flock, Nest or a similar program, and approving this proposal would require the AA the to change this policy of rejecting on the basis that a proposal could potentially go through Flock, Nest or a similar program.
+
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
