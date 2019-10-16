@@ -59,5 +59,5 @@ This proposal includes a one-time 50K DAI budget for Pinion to execute on the de
 If approved, Pinion would:
     - Work with [Apiary](apiary.1hive.org) to create a dashboard that includes these metrics and make the Aragon App Score publicly and easily accessible to the Aragon community.
     - Provide documentation via PRs to hack.aragon.org for application developers to participate in the program
-    - Assist the AA and/or teams responsible for Aragon communications in preparing communications for the launch of Aragon's App Mining program
+    - Assist the Aragon Association ("AA") and/or teams responsible for Aragon communications in preparing communications for the launch of Aragon's App Mining program
     - Coordinate with the AA to execute payments each quarter to eligible recipients based on calculated Aragon App Scores
