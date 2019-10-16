@@ -21,7 +21,7 @@ Created: 2019-10-02
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
 Quarterly transfers of 100K ANT with no expiration date, beginning after ANV-5 and due the week after each ANV.
-One time transfer of 50K DAI for initial execution and launch of the App Mining program.
+One-time transfer of 50K DAI for initial execution and launch of the App Mining program.
 
 ## Purpose of the transfer
 
