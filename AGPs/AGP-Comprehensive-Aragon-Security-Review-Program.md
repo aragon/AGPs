@@ -11,7 +11,7 @@ Created: 2019-10-02
 
 ## Description of desired Association policy change
 
-This proposal is to expand the [Aragon Security Review](https://github.com/aragon/security-review/) program to include all projects funded by the AA via AGPs, the Nest program, or the Flock program..
+This proposal is to expand the [Aragon Security Review](https://github.com/aragon/security-review/) program to include all projects funded by the Aragon Association via AGPs, the Nest program, or the Flock program.
 
 Projects would be required to submit a frozen codebase along with documentation detailing the problem the project solves from a high level, a detailed description of how the project works, and what each function in the codebase is supposed to do. At that point the Aragon Security Review team would review the project and, if satisfactory, hand off the project to a security partner. The security partner would then review the project, present findings, and provide suggestions for improvement. The Aragon project would then need to incorporate all major and critical suggestions provided by the security partner before shipping the project to end users and/or receiving any funding (ANT, DAI, or any denomination) related to finishing the project.
 
