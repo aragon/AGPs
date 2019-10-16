@@ -15,7 +15,7 @@ Created: 2019-10-02
 
 ## Amount of the transfer
 
-100K ANT
+100,000 ANT
 50K DAI
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
