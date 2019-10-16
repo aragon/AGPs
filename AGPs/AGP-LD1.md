@@ -40,7 +40,7 @@ To remedy this I propose we bootstrap the supply side by allocating funds and di
 | Utility    | Sum of (# of transactions involving an application ) | 30%  |
 | Value weighted utility    | Sum of (# of transactions involving an application * DAI value of organization's treasury) | 30%    |
 | Popularity    | Sum of (# of installations) | 10%  |
-| Value weighted Popularity    | Sum of (# of installations *  DAI value of organization's treasury) | 30% |
+| Value-weighted popularity    | Sum of (# of installations *  DAI value of organization's treasury) | 30% |
 
 To compute the DAI value of an organizations treasury we would use the *default vault* and compute the DAI value of ETH, ANT, and DAI held by the organization.
 
