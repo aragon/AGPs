@@ -27,7 +27,7 @@ One-time transfer of 50K DAI for initial execution and launch of the App Mining 
 
 To fund an "Aragon App Mining" program that rewards developers for creating and maintaining Aragon applications. The policy is inspired by [Blockstack's App Mining program](https://app.co/mining).
 
-A core value proposition of Aragon is that it is a platform which allows users to pull from a library of modular and composable applications to create and operate an organization on-chain. In order to attract application developers to the platform we need to provide a stable opportunity that encourages entrepreneurial developers to understand user needs, develop applications, ship them to mainnet, and to continue to maintain and improve them over time.
+A core value proposition of Aragon is that it is a platform that allows users to pull from a library of modular and composable applications to create and operate an organization on-chain. In order to attract application developers to the platform we need to provide a stable opportunity that encourages entrepreneurial developers to understand user needs, develop applications, ship them to mainnet, and to continue to maintain and improve them over time.
 
 At the moment there is no incentive to do this outside of one-off grants. There has been discussion to create monetization models for the eventual release of the App Center, but currently such a system doesn't yet exist, and even if it did the number of users of Aragon is small enough that such a market may not be attractive enough to bring top talent into the space. Users will come if there are high quality apps, but if there are no users, no high quality apps will be built and maintained.
 
