@@ -10,7 +10,7 @@ Created: 2019-10-02
 # AGP-X: Aragon Comprehensive Legal Review Program
 
 ## Description of desired Association policy change
-Fund up to 3-5 hours of legal council for every Aragon application funded by the Aragon Association via an AGP, the Nest program, or the Flock program. This council would cover the following points:
+Fund up to five hours of legal council for every Aragon application funded by the Aragon Association via an AGP, the Nest program, or the Flock program. This council would cover the following points:
 - if developers would be held liable for shipping the application
 - if users would be held liable for using the application, and if so what use cases would fall under what rules
 - creating a disclaimer that can be attached to Aragon apps releasing developers of any liabilities and informing users to do their own research
