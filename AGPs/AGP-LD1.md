@@ -38,7 +38,7 @@ To remedy this I propose we bootstrap the supply side by allocating funds and di
 | KPI | Formula | Weight |
 | -------- | -------- | -------- |
 | Utility    | Sum of (# of transactions involving an application ) | 30%  |
-| Value weighted utility    | Sum of (# of transactions involving an application * DAI value of organization's treasury) | 30%    |
+| Value-weighted utility    | Sum of (# of transactions involving an application * DAI value of organization's treasury) | 30%    |
 | Popularity    | Sum of (# of installations) | 10%  |
 | Value-weighted popularity    | Sum of (# of installations *  DAI value of organization's treasury) | 30% |
 
