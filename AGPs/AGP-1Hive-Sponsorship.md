@@ -58,5 +58,5 @@ This is intended to be a recurring sponsorship. The transfer amount may be modif
 - GitHub: https://github.com/1hive/
 
 ## License
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/). 
 
