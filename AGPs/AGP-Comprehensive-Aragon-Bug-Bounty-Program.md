@@ -30,7 +30,7 @@ The Aragon Association Bug Bounty program would change to the following:
 A cap of $1,000,000 will be set for the program. This will allow Aragon to provide meaningful rewards for bug bounties while also limiting total liabilities for the Aragon Association. In the event that total liability of the Aragon Association Bug Bounty program exceeds $1,000,000 then the Aragon Association will select which projects are covered. This selection will be based on the usage and utility of projects covered by the program.
 
 ## Motivation for changing this Association policy
-Aragon is now shipping more apps through A1, Autark, Aragon Black, and the Nest program. These apps are amazing and could unlock tons of value, but only if people use them…
+Aragon is now shipping more apps through Aragon One, Autark, Aragon Black, and the Nest program. These apps are amazing and could unlock tons of value, but only if people use them…
 
 People are wary of DAOs because of “The DAO” hack. For people to trust (and thus use) Aragon we need to go above and beyond to prove that the Aragon platform, and all major releases of Aragon apps, are secure. This is easier said than done.
 - Security audits are not perfect. Even with an audit all you know is what was reported. They might have missed something.
