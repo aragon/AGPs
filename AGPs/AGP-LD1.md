@@ -54,7 +54,7 @@ It's possible that the KPI mechanism can be gamed, for example the popularity me
 
 **Initial and Ongoing Execution**
 
-This proposal includes a one-time 50K DAI budget for Pinion to execute on the development and documentation effort related to surfacing these metrics to the community and preparing the initial launch of the app mining program.
+This proposal includes a one-time 50K DAI budget for Pinion to execute on the development and documentation effort related to surfacing these metrics to the community and preparing the initial launch of the App Mining program.
 
 If approved, Pinion would:
     - Work with the community to determine KPIs and process for determining the Aragon App Score so that it can be implemented before the next ANV. The initial app mining payout is scheduled to begin after ANV-5 giving the community a chance to adjust the budget and confirm the Aragon App Score if the community desires.
