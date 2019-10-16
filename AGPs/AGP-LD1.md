@@ -25,7 +25,7 @@ One time transfer of 50K DAI for initial execution and launch of the App Mining 
 
 ## Purpose of the transfer
 
-To fund an "Aragon App Mining" program which rewards developers for creating and maintaining Aragon applications. The policy is inspired by [Blockstack's App Mining program](https://app.co/mining).
+To fund an "Aragon App Mining" program that rewards developers for creating and maintaining Aragon applications. The policy is inspired by [Blockstack's App Mining program](https://app.co/mining).
 
 A core value proposition of Aragon is that it is a platform which allows users to pull from a library of modular and composable applications to create and operate an organization on-chain. In order to attract application developers to the platform we need to provide a stable opportunity that encourages entrepreneurial developers to understand user needs, develop applications, ship them to mainnet, and to continue to maintain and improve them over time.
 
