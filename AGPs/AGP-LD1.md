@@ -11,7 +11,7 @@ Created: 2019-10-02
 
 ## Address of the transfer recipient
 
-TBD: 0xe0d11d5a1982f64ff1d36cd8c2bd315dea127d66 (Agent of pinion.aragonid.eth)
+0xe0d11d5a1982f64ff1d36cd8c2bd315dea127d66 (Agent of pinion.aragonid.eth)
 
 ## Amount of the transfer
 
