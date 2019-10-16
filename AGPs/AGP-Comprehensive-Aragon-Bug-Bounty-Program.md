@@ -27,6 +27,8 @@ The Aragon Association Bug Bounty program would change to the following:
 - Medium (CVSS 4.0 - 6.0): $10,000 - $25,000
 - Low (CVSS 1.0 - 3.9): $5000 - $10,000
 
+A cap of $1,000,000 will be set for the program. This will allow Aragon to provide meaningful rewards for bug bounties while also limiting total liabilities for the Araogn Association. In the event that total liability of the Aragon Association Bug Bounty program exceeds $1,000,000 the Aragon Association will select which projects are covered. This selection will be based on the usage and utility of projects covered by the program.
+
 ## Motivation for changing this Association policy
 Aragon is now shipping more apps through A1, Autark, Aragon Black, and the Nest program. These apps are amazing and could unlock tons of value, but only if people use them…
 
