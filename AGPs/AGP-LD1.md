@@ -50,7 +50,7 @@ For each payout cycle, there is a determined “pot” of total earnings that wi
 
 **Blacklist**
 
-It's possible that the KPI mechanism can be gamed, for example the popularity metric could be manipulated by creating a bunch of organization and installing a bunch of otherwise unpopular applications. For the purposes of our initial pilot, rather than try an engineer un-gameable metric, we propose that we can rely on the community to report potential abuse and the discretion of Pinion to manage a blacklist for the purpose of excluding recipients that are suspected to be trying to maliciously manipulate payout amounts. In the future, this role could be decentralized by leveraging the Aragon Court.
+It's possible that the KPI mechanism can be gamed, for example the popularity metric could be manipulated by creating a bunch of organizations and installing a bunch of otherwise unpopular applications. For the purposes of our initial pilot, rather than try to engineer an un-gameable metric, we propose that we can rely on the community to report potential abuse and the discretion of Pinion to manage a blacklist for the purpose of excluding recipients that are suspected to be trying to maliciously manipulate payout amounts. In the future, this role could be decentralized by leveraging the Aragon Court.
 
 **Initial and Ongoing Execution**
 
