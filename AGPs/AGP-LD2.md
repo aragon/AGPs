@@ -11,7 +11,7 @@ Created: 2019-10-02
 
 ## Description of desired Association policy change
 
-During ANV-3 AGP-72 was rejected by the Association with the following reasoning:
+During ANV-3, AGP-72 was rejected by the Aragon Association ("the Association", or simply "the AA") with the following reasoning:
 
 > Historically, the Aragon Association board has been rejecting Finance Track AGPs that could fit in the Nest or Flock grant programs instead. The Nest and Flock programs are the only two ways the Aragon Association currently manages grants programs, and to fund something outside of them, when they could fit there, would create a bad precedent. Should there be a need for a different funding mechanism for specific projects, an AGP should be created to set the guidelines, budget and governance for such a program.
 
