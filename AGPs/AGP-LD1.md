@@ -33,7 +33,7 @@ At the moment there is no incentive to do this outside of one-off grants. There 
 
 To remedy this I propose we bootstrap the supply side by allocating funds and distributing them to Aragon application developers based on agreed upon KPIs. We can combine multiple KPIs into an **Aragon App Score**, which we can use to rank applications and then use the ranking to distribute funding to maintainers on a periodic basic.
 
-**The following weighted KPIs would be used to create the Aragon App Score:**
+**The following weighted KPIs are not final and intended for illustration purposes:**
 
 | KPI | Formula | Weight |
 | -------- | -------- | -------- |
@@ -57,6 +57,7 @@ It's possible that the KPI mechanism can be gamed, for example the popularity me
 This proposal includes a one-time 50K DAI budget for Pinion to execute on the development and documentation effort related to surfacing these metrics to the community and preparing the initial launch of the app mining program.
 
 If approved, Pinion would:
+    - Work with the community to determine KPIs and process for determining the Aragon App Score so that it can be implemented before the next ANV. The initial app mining payout is scheduled to begin after ANV-5 giving the community a chance to adjust the budget and confirm the Aragon App Score if the community desires.
     - Work with [Apiary](apiary.1hive.org) to create a dashboard that includes these metrics and make the Aragon App Score publicly and easily accessible to the Aragon community.
     - Provide documentation via PRs to hack.aragon.org for application developers to participate in the program
     - Assist the Aragon Association ("AA") and/or teams responsible for Aragon communications in preparing communications for the launch of Aragon's App Mining program
