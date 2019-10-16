@@ -17,7 +17,7 @@ During ANV-3, AGP-72 was rejected by the Aragon Association ("the Association", 
 
 Source: https://forum.aragon.org/t/agp-reviews-for-anv-3-by-the-aragon-associations-board/1117
 
-This proposal is to change the Association Policy on rejecting these types of proposals on this basis. It would still allow the Association to use its discretion on approving or rejecting proposals, but proposals should not be rejected on the basis that they would otherwise fit into a different program that is outside of the AGP process.
+This proposal is to change the Association policy on rejecting these types of proposals on this basis. It would still allow the Association to use its discretion on approving or rejecting proposals, but proposals should not be rejected on the basis that they would otherwise fit into a different program that is outside of the AGP process.
 
 ## Motivation for changing this Association policy
 
