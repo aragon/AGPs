@@ -25,7 +25,7 @@ Unused funds will be returned to the Aragon Association's multisig (`0xcafe1a77.
 
 ## Purpose of the transfer
 
-- To fund the development of Aracon 2020
+- To fund the execution of AraCon 2020
 
 ## Recipient information
 
