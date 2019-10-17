@@ -1,13 +1,13 @@
 ---
-AGP: X
+AGP: 84
 Title: Adding a Flock track to AGP-1
 Author: @louisgrx
-Status: Stage
+Status: Stage V
 Track: Meta
 Created: 2019-09-18
 ---
 
-# Adding a Flock track to AGP-1
+# AGP-84: Adding a Flock track to AGP-1
 
 ## File changed (AGP-0 or AGP-1)
 
