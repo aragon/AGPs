@@ -30,7 +30,7 @@ To cover our operation costs, Frame requests:
 * 284,000 DAI to cover 26 weeks of operating costs for 5 full-time employees and contractors
 * 50,000 ANT per year for the next 4 years as an alignment package (with a 1 year cliff)
 
-### [Read Our Full Proposal!](https://github.com/aragon/flock/blob/f76b23144789ff37eb3bf3721ce02d0647d236d5/teams/Frame/Q4-2109%20%26%20Q1-2020.md)
+### [Read Our Full Proposal!](https://github.com/aragon/flock/blob/cbe6743263e5549ba8c97237b17e43c37fb015a4/teams/Frame/Q4-2109%20%26%20Q1-2020.md)
 
 ## Recipient Information
 Organization: Frame
