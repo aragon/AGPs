@@ -11,7 +11,7 @@ Created: 2019-10-02
 
 ## Description of desired Association policy change
 
-The Aragon Association will reward AGP authors and contributors with ANT at the end of every ANV cycle after ANT votes have been finalized and announced. The ANT rewards will be:
+The Aragon Association ("AA") will reward AGP authors and contributors with ANT at the end of every Aragon Network Vote ("ANV") cycle after ANT votes have been finalized and announced. The ANT rewards will be:
 - 300 ANT to be split between any listed authors of an AGP that is approved by the AA for an upcoming ANV.
 - 200 ANT to be split between any listed contributors of an AGP that is approved by the AA for an upcoming ANV.
 - 300 ANT to be split between any listed authors of an AGP that is approved by ANT voters.
