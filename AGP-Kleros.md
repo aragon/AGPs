@@ -3,7 +3,7 @@ AGP: N/A
 Title: Common court with Kleros
 Author: Clément Lesaege
 (@clesaege)
-Status: Stage III
+Status: Stage IV
 Track: Proclamation
 Created: 2019-09-20
 ---
