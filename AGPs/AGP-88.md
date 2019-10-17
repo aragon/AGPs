@@ -1,13 +1,13 @@
 ---
-AGP: N/A
+AGP: 88
 Title:  Community Rewards DAO
 Author: Aaron Foster (`@pythonpete32`) & Burrrata (`@burrrata`)
-Status: Stage IV 
+Status: Stage V 
 Track: Finance
 Created: 2019-10-01
 ---
 
-# AGP X: Community Rewards DAO
+# AGP 88: Community Rewards DAO
 
 ## Address of the transfer recipient
 
