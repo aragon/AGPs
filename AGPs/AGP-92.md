@@ -1,13 +1,14 @@
 ---
-AGP: ?
+AGP: 92
 Title: Flock Funding for Frame
 Author: Jordan Muir (@floating)
-Status: Pending
+Status: Stage V
 Track: Finance
-Created: 2019/10/2
+Created: 2019-10-02
 ---
 
-# AGP-Frame: Flock Funding for Frame
+# AGP-92: Flock Funding for Frame
+
 ## Address of the Transfer Recipient
 We request funds to be sent to our Aragon DAO: [`frame.aragonid.eth`](https://mainnet.aragon.org/#/frame.aragonid.eth) 0xe30b0d5168dfd8d92bc511e814de14e3757c775e
 
