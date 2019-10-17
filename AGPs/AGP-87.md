@@ -1,13 +1,13 @@
 ---
-AGP: N/A
+AGP: 87
 Title: AraCon 2020
 Author: @stefanobernardi
-Status: Stage III
+Status: Stage V
 Track: Finance
 Created: 2019-10-01
 ---
 
-# AGP-AC: AraCon 2020
+# AGP-87: AraCon 2020
 
 ## Address of the transfer recipient
 
