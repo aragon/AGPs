@@ -1,6 +1,6 @@
 ---
 AGP: N/A
-Title: Aracon 2020
+Title: AraCon 2020
 Author: @stefanobernardi
 Status: Stage III
 Track: Finance
