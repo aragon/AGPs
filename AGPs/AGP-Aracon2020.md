@@ -15,7 +15,7 @@ Created: 2019-10-01
 
 ## Amount of the transfer
 
-- Up to €295k equivalent of DAI
+- Up to €295,000 equivalent of DAI
 
 ## Number and frequency of transfers if recurring
 
