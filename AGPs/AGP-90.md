@@ -1,13 +1,13 @@
 ---
-AGP: TBD
+AGP: 90
 Title: 1Hive Sponsorship Proposal 
 Authors: 1Hive Team (@1hive on keybase), burrrata (@burrrata), lkngtn (@lkngtn)
-Status: Stage IV
+Status: Stage V
 Track: Finance
 Created: 2019-09-24
 ---
 
-# AGP-TBD: 1Hive Sponsorship Proposal
+# AGP-90: 1Hive Sponsorship Proposal
 
 ### Summary
 
