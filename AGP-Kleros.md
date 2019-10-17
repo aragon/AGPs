@@ -99,7 +99,7 @@ For Aragon, network effects among DAOs are not currently strong enough to contro
 
 #### Good relations and compatibilities
 
-Even if an Aragon team planned to fork Kleros, relations are still good as those plans gave appropriate credit to the Kleros team. Kleros and Aragon teams met at multiple events. Kleros and Aragon communities tends to have similar views and visions (Kleros is composed of legal tech enthusiast and of DAO enthusiasts).
+Even if an Aragon team planned to fork Kleros, relations are still good as those plans gave appropriate credit to the Kleros team. Kleros and Aragon teams met at multiple events. Kleros and Aragon communities tend to have similar views and visions (Kleros is composed of legal tech enthusiast and of DAO enthusiasts).
 
 Both teams ask token holders to vote on project direction/updates and aim toward full decentralization of both the network and developing teams.
 
