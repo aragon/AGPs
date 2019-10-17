@@ -29,7 +29,7 @@ The Aragon Association and the Kleros Cooperative will negotiate an agreement. T
 
 #### Kleros presentation
 
-Kleros is a decentralized autonomous organization (DAO) providing arbitration services. It is useful for Curated Registries, Oracles and Escrow use cases. It has been live on the mainnet since August 2018 and had its last release in March 2019 allowing specialized courts. It has handled 80 disputes and currently has 3 applications connected to it:
+Kleros is a decentralized autonomous organization (DAO) providing arbitration services. It is useful for Curated Registries, Oracles, and Escrow use cases. It has been live on the mainnet since August 2018 and had its last release in March 2019 allowing specialized courts. It has handled 80 disputes and currently has 3 applications connected to it:
 
 <div style="text-align:center"><img width="115" alt="t2crlogo" src="https://user-images.githubusercontent.com/8873352/63350320-1eed1080-c355-11e9-8b53-e6b20c98814c.png"></div>
 
