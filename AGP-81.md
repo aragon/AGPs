@@ -1,14 +1,14 @@
 ---
-AGP: N/A
+AGP: 81
 Title: Common court with Kleros
 Author: Clément Lesaege
 (@clesaege)
-Status: Stage IV
+Status: Stage V
 Track: Proclamation
 Created: 2019-09-20
 ---
 
-# AGP-XX: Common court with Kleros
+# AGP-81: Common court with Kleros
 
 ## Proclamation text
 
