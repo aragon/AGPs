@@ -38,7 +38,7 @@ This proposal is a sponsorship to allow us to keep growing the 1Hive DAO, reward
 
 ## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
 
-Periodic transfers of the amount above, payable every quarter after each ANV has completed.
+Recurring transfers of the amount above, with no expiration date, payable every quarter after each ANV has completed.
 
 ## Purpose of the transfer
 
