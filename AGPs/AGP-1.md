@@ -78,7 +78,7 @@ Proposals made to the Proclamations track must be consistent with the Aragon Man
 **Flock**  
 Proposals made to the Flock track must be submitted by teams desiring to join the Flock program. They must be submitted to the AGP repository **at least two weeks** before the beginning of Stage IV at 16:00 UTC time.
 
-Flock proposals need to be approved by the Aragon Association before they can be moved to Stage IV by AGP Editors. In order to pre-approve a Flock track proposal, the Aragon Association will provide the team a PGP signed message of the SHA-256 hash of the raw application text at the time of approval. In case the proposal changes during the Community Review period, the Aragon Association won't need to re-sign the proposal as it was already pre-approved.
+Flock proposals need to be approved by the Aragon Association before they can be moved to Stage IV by AGP Editors. In order to pre-approve a Flock track proposal, the Aragon Association will provide the team a PGP-signed message of the SHA-256 hash of the raw application text at the time of approval. In case the proposal changes during the Community Review period, the Aragon Association won't need to re-sign the proposal as it was already pre-approved.
 
 Flock proposals are demanding to shape up and require heavy preparations and discussions with the Aragon community. More information on the Flock program can be found in the Flock section of the Aragon Wiki.
 
