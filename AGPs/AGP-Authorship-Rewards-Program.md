@@ -26,7 +26,7 @@ The following example shows what an AGP `Author` section with 2 co-authors and 2
 
 ANT rewards will be split equally between all AGP authors. If a community member has contributed a lot they can be listed as a co-author and the authorship reward can be split between co-authors. Overall, this AGP aims to encourage collaboration by rewarding and recognizing community members who contribute to AGP conversations.
 
-If an AGP author lists contributors, ANT rewards will be split equally between all contributors equally. While this does not account for the fact that some contributors will have done more work than others, it keeps things simple and is a major step forward from the current situation.
+If an AGP author lists contributors, ANT rewards will be split between all contributors equally. While this does not account for the fact that some contributors will have done more work than others, it keeps things simple and is a major step forward from the current situation.
 
 In order to receive authorship or contributor rewards, authors and/or contributors must provide an Ethereum address where they wish to receive authorship or contributor ANT rewards.
 
