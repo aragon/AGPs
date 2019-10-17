@@ -111,7 +111,7 @@ Overall, Kleros and Aragon teams/communities are pretty much aligned.
 
 #### Connected dapps potential
 
-There are a multitude of Arbitrable dapps required by the ecosystem (identity DAO, translation dapp, ENS domain curation, see [*a more extensive list there*](https://github.com/kleros/hackathon/blob/master/Arbitrable%20Dapp%20Ideas.pdf)). Most of them also require a governance mechanism. There are a lot of projects which could benefit from both Kleros and Aragon. Those could be created/bootstrapped by both teams.
+There are a multitude of Arbitrable dapps required by the ecosystem (identity DAO, translation dapp, ENS domain curation, see [*a more extensive list there*](https://github.com/kleros/hackathon/blob/master/Arbitrable%20Dapp%20Ideas.pdf)). Most of them also require a governance mechanism. There are a lot of projects that could benefit from both Kleros and Aragon. Those could be created/bootstrapped by both teams.
 
 #### Common work on governance
 
