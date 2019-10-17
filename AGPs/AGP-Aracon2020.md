@@ -21,7 +21,7 @@ Created: 2019-10-01
 
 - One-time transfer
 Unused funds will be returned to the Aragon Association's multisig (`0xcafe1a77e84698c83ca8931f54a755176ef75f2c`)
-- Fiat expenses would be incurred by the Association and reimbursed by the DAO to the AA DAO
+- Fiat expenses would be incurred by the Aragon Association and reimbursed by the newly created AraCon DAO to the currently used AA DAO (https://mainnet.aragon.org/#/association)
 
 ## Purpose of the transfer
 
