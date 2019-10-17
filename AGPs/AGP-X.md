@@ -19,7 +19,7 @@ https://github.com/aragon/AGPs/pull/83
 
 ## Motivation for making this change
 
-The Flock application process and the AGP process are currently separate which can create a confusing flow for applicants, AGP editors and the Aragon Association.
+The Flock application process and the AGP process are currently separate which can create a confusing flow for applicants, AGP Editors, and the Aragon Association.
 
 The changes proposed in this PR aim at improving applicant UX by merging the Flock process into AGP-1 and creating a Flock Track.
 
