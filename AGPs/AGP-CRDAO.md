@@ -23,7 +23,7 @@ Created: 2019-10-01
 
 ## Purpose of the transfer
 
-The CRDAO will reward contributions to the Aragon ecosystem with small amounts of ANT. Its purpose is to reward people for contributions they do and encourage them to do more voluntarily without necessarily an expectation of specific remuneration. it differs from CFDAO in that recipients do not apply for funds, CRDAO rewards are recognition for service to the Aragon Community.
+The CRDAO will reward contributions to the Aragon ecosystem with small amounts of ANT. Its purpose is to reward people for contributions they do and encourage them to do more voluntarily without necessarily an expectation of specific remuneration. It differs from CFDAO in that recipients do not apply for funds, CRDAO rewards are recognition for service to the Aragon community.
 
 CRDAO will have a fixed weekly budget of 1000 ANT. 1000 ANT will be distributed via the CRDAO as long as sufficient ANT remains in the CRDAO vault. Once Autark's Dot Voting and Allocations apps are published to mainnet, the CRDAO weekly ANT budget will be divided among nominated Aragon community members using Dot voting and Allocations. The reward policy will be based on the [1Hive model](https://1hive.org/contribute/allocations-payroll), however a key difference being that any member of the Aragon forum will be able nominate anyone else, but it is up to the DAO members to actually vote on those nominations. 
 
