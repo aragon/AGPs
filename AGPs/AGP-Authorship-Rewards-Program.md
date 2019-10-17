@@ -36,7 +36,7 @@ Aragon is a decentralized governance platform. AGPs are the foundation of Aragon
 
 To address this we need to reward AGP authors. They are doing the Aragon community a service by engaging in discussions, packaging ideas into AGPs, receiving community feedback on those AGPs, modifying AGPs based on that feedback, and then moving AGPs through the various stages of the ANV process. Again, this takes a lot of work and time, but it's important because AGPs are one of the most important aspects of the Aragon community.
 
-Passing the community review and Aragon Association review periods disqualifies any completely spammy proposals. If an AGP makes it through both review periods it could be assumed that it is adding some value to the community. If an AGP Passes in an Aragon Network Vote that clearly shows that ANT holders appreciate the proposal and want the value that it creates. AGP authors and contributors do a lot of work to provide this value to the Aragon network and they should be rewarded accordingly.
+Passing the community review and Aragon Association review periods disqualifies any completely spammy proposals. If an AGP makes it through both review periods it could be assumed that it is adding some value to the community. If an AGP is approved in an Aragon Network Vote that clearly shows that ANT holders appreciate the proposal and want the value that it creates. AGP authors and contributors do a lot of work to provide this value to the Aragon network and they should be rewarded accordingly.
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
