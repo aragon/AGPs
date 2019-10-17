@@ -76,7 +76,7 @@ The only significant change would be to charge a subscription fee to organizatio
 
 #### Kleros community is open to change and experimentations
 
-Creating a new system when the community of a previous system is reluctant to change (as happened with Bitcoin and Ethereum) makes sense as it is the only way to innovate. But Kleros community is not reluctant to change. It is open to cryptoeconomic experiments which can be used to test proposed changes before implementing them at a larger scale. Note that most changes will be consensual and may not require extensive testing (most tweaks proposed by aragon members fit into this category).
+Creating a new system when the community of a previous system is reluctant to change (as happened with Bitcoin and Ethereum) makes sense as it is the only way to innovate. But Kleros community is not reluctant to change. It is open to cryptoeconomic experiments that can be used to test proposed changes before implementing them at a larger scale. Note that most changes will be consensual and may not require extensive testing (most tweaks proposed by Aragon members fit into this category).
 
 #### No benefits from competition to the ecosystem
 
