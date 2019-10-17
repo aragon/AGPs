@@ -17,7 +17,7 @@ The Aragon Association ("AA") will reward AGP authors and contributors with ANT 
 - 300 ANT to be split between any listed authors of an AGP that is approved by ANT voters.
 - 200 ANT to be split between any listed contributors of an AGP that is approved by ANT voters.
 
-To receive authorship rewards AGP authors must include an Ethereum address which can receive the ANT ERC-20 token in the proposal. This can be added to the `Author` section in the header of the AGP. Names and addresses listed in the `Author` section of the header should be treated as authors or co-authors in regards to AGP authorship rewards.
+To receive authorship rewards AGP authors must include an Ethereum address that can receive the ANT ERC-20 token in the proposal. This can be added to the `Author` section in the header of the AGP. Names and addresses listed in the `Author` section of the header should be treated as authors or co-authors in regards to AGP authorship rewards.
 
 To receive contributor rewards AGP authors must also include a list of contributors and their Ethereum addresses. This can be added to the `Author` section in the header of the AGP, however, it must be specified that these are contributors and not main authors. All names and addresses in the `Author` section will be treated as co-authors unless otherwise marked as co-authors. If AGP authors do not list contributors in an AGP, then the contributor rewards will simply not be paid out. The AGP author will not be paid more.
 
