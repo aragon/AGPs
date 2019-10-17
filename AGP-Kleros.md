@@ -95,7 +95,7 @@ Centralized platforms often use an attract-extract strategy.
 
 Decentralization is [*supposed to solve this problem*](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e). But it won’t if even decentralized platforms try to compete with their users.
 
-For Aragon, network effects among DAOs are not currently strong enough to control the ecosystem, so users are not bound to stay on Aragon. If Aragon were to compete with them, they could migrate their governance to other DAO platforms (DAOstack, MolochDAO forks or even develop their own) in order to avoid reinforcing a competitor. This would also scare would be users, as even if Aragon does not act as a competitor now, it could be in the future if it has a history of doing such things.
+For Aragon, network effects among DAOs are not currently strong enough to control the ecosystem, so users are not bound to stay on Aragon. If Aragon were to compete with them, they could migrate their governance to other DAO platforms (DAOstack, MolochDAO forks, or even develop their own) in order to avoid reinforcing a competitor. This would also scare would-be users, as even if Aragon does not act as a competitor now, it could be in the future if it has a history of doing such things.
 
 #### Good relations and compatibilities
 
