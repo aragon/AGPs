@@ -20,7 +20,7 @@ Created: 2019-10-01
 ## Number and frequency of transfers if recurring
 
 - One-time transfer
-Unused funds will be returned to the Aragon Association's multisig (`0xcafe1a77...`)
+Unused funds will be returned to the Aragon Association's multisig (`0xcafe1a77e84698c83ca8931f54a755176ef75f2c`)
 - Fiat expenses would be incurred by the Association and reimbursed by the DAO to the AA DAO
 
 ## Purpose of the transfer
