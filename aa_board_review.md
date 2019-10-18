@@ -1,6 +1,6 @@
 # Aragon Association Board of Directors AGP Vote Procedure
 
-As detailed in AGP-1, when an AGP moves to Stage IV the Aragon Association Board of Directors will review the final draft AGP and vote to either reject the proposal or approve it and add it to the ballot of AGPs that will be voted on by ANT holders during the next Aragon Network Vote.
+As detailed in AGP-1, when an AGP moves to Stage V the Aragon Association Board of Directors will review the final draft AGP and vote to either reject the proposal or approve it and add it to the ballot of AGPs that will be voted on by ANT holders during the next Aragon Network Vote.
 
 ## Preparation procedure
 This is what the board will do to prepare so that their votes can be verified. This only has to be done once for each Ethereum account that will be used to vote.
@@ -17,9 +17,9 @@ Example:
 ## Vote procedure
 This is the procedure that the board will follow to submit their officially recorded votes. This has to be done for each Aragon Association Board of Directors AGP vote.
 
-1. After AGP Editors move an AGP to Stage IV, the AGP will be added to the agenda for the next Aragon Association Board of Directors AGP vote.
+1. After AGP Editors move an AGP to Stage V, the AGP will be added to the agenda for the next Aragon Association Board of Directors AGP vote.
 
-2. During the Stage IV review time, the board members will download the raw version of the AGP as identified by the last commit when the status was changed to Stage IV and review the AGP in full.
+2. During the Stage V review time, the board members will download the raw version of the AGP as identified by the last commit when the status was changed to Stage V and review the AGP in full.
 
 Example:
 
@@ -35,6 +35,6 @@ Example:
 
 4. There are two possible outcomes from the board vote:
 
-    - If the board unanimously agrees to put the AGP to a vote, then an AGP Editor will update the AGP status to Stage V and it will be added to the list of AGPs that will be voted on during the next ANT vote cycle, located in the current votes file within the [votes folder](https://github.com/aragon/AGPs/tree/master/votes) in the AGPs repo. 
+    - If the board unanimously agrees to put the AGP to a vote, then an AGP Editor will update the AGP status to Stage VI, merge the proposal's pull request, and the AGP will be added to the list of AGPs that will be voted on during the next Aragon Network vote. This list is located in the current vote file within the [votes folder](https://github.com/aragon/AGPs/tree/master/votes) in the AGPs repo. 
 
-    - If the board disagrees or unanimously rejects the proposal, then an AGP Editor will update the AGP status to Rejected.
+    - If the board disagrees or unanimously rejects the proposal, then an AGP Editor will update the AGP status to Rejected and close the proposal's pull request.
