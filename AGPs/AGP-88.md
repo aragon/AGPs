@@ -27,7 +27,7 @@ The CRDAO will reward contributions to the Aragon ecosystem with small amounts o
 
 CRDAO will have a fixed weekly budget of 1000 ANT. 1000 ANT will be distributed via the CRDAO as long as sufficient ANT remains in the CRDAO vault. Once Autark's Dot Voting and Allocations apps are published to mainnet, the CRDAO weekly ANT budget will be divided among nominated Aragon community members using Dot voting and Allocations. The reward policy will be based on the [1Hive model](https://1hive.org/contribute/allocations-payroll), however a key difference being that any member of the Aragon forum will be able nominate anyone else, but it is up to the DAO members to actually vote on those nominations. 
 
-In the even that the Autark Open Enterprise Dot Voting and Allocations applications are cancelled or do not ship to mainnet within 6 months of this AGP being approved, ANT funds will be returned to the Aragon Association.
+In the event that the Autark Open Enterprise Dot Voting and Allocations applications are cancelled or do not ship to mainnet within six months of this AGP being approved, ANT funds will be returned to the Aragon Association.
 
 Details on the proposed structure, settings, and usage of the CRDAO can be found in the CRDAO GitHub organization:
 - [CRDAO GitHub Org](https://github.com/crdao)
