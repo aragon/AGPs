@@ -2,7 +2,7 @@
 AGP: 90
 Title: 1Hive Sponsorship Proposal 
 Authors: 1Hive Team (@1hive on keybase), burrrata (@burrrata), lkngtn (@lkngtn)
-Status: Stage V
+Status: Approved
 Track: Finance
 Created: 2019-09-24
 ---
