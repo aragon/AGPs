@@ -2,7 +2,7 @@
 AGP: 88
 Title:  Community Rewards DAO
 Author: Aaron Foster (`@pythonpete32`) & Burrrata (`@burrrata`)
-Status: Stage V 
+Status: Approved
 Track: Finance
 Created: 2019-10-01
 ---

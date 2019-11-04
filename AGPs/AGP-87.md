@@ -1,8 +1,8 @@
 ---
 AGP: 87
 Title: AraCon 2020
-Author: @stefanobernardi
-Status: Stage V
+Author: Stefano Bernardi (@stefanobernardi)
+Status: Rejected
 Track: Finance
 Created: 2019-10-01
 ---

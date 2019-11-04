@@ -1,8 +1,8 @@
 ---
 AGP: 84
 Title: Adding a Flock track to AGP-1
-Author: @louisgrx
-Status: Stage V
+Author: Louis Giraux (@louisgrx)
+Status: Rejected
 Track: Meta
 Created: 2019-09-18
 ---
