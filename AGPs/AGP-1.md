@@ -65,6 +65,30 @@ Proposals made to the Finance track must affect the movement of assets held by t
   * GPL
   * AGPL
   * MIT
+  
+_Finance track budget_
+
+The total amount funded by Finance track AGPs shall not exceed 5% of the market value of the Association / Aragon Network treasury or 250,000 DAI, whichever is greater, in a given quarterly Aragon Network vote cycle. Recurring transfers approved in previous vote cycles shall be deducted from this budget as described below. The market value of the treasury, and spending relative to that, shall be measured in DAI at the closing time of every ANV.
+
+For any Aragon Network vote ballot, approved Finance track proposals will be processed in the following order:
+
+- First, process proposals that either reduce a previously approved recurring transfer amount by 10% or more or completely cancel a previously approved recurring transfer.
+
+- Then, attempt to debit any ongoing recurring transfers from this quarter’s budget, except ongoing recurring transfers whose amount has been increased in the most recent vote cycle. Ongoing recurring transfers shall be processed in descending order based on the absolute approval percentage of the proposals when they were approved in their respective Aragon Network vote.
+
+- Finally, attempt to process approved Finance track AGPs, that either make new transfers or increase previously approved recurring transfers, in descending order based on absolute approval percentage. Each processed proposal will be debited against this quarter’s remaining budget, and if there is not enough budget available for a proposal when it attempts to be processed then processing will fail and the approved transfer will not be made. An attempt will then be made to process the next approved proposal until there are no more remaining approved proposals to process. Proposals that fail to be processed due to budget constraints must go through the AGP process and be voted on again in a future Aragon Network vote.
+
+_Example budget scenario_
+
+The budget this quarter is 1 million DAI. There are two ongoing recurring transfers of 20,000 DAI and 50,000 DAI per quarter that were approved in previous vote cycles. 
+
+Four Finance track proposals are on the ballot: AGP-A is for 350,000 DAI, AGP-B is for 500,000 DAI, and AGP-C is for 700,000 DAI, and AGP-D puts a stop to the previously approved recurring transfer of 50,000 DAI per quarter. After the vote, the proposals that approve new transfers are ranked by absolute support like so: #1. AGP-A: 10% ANT support, #2. AGP-C: 8% ANT support, and #3. AGP-B: 5% ANT support. AGP-D is also approved, reducing quarterly spending by 50,000 DAI.
+
+AGP-D is processed first, and the previously approved 50,000 DAI recurring transfer will no longer be processed.
+
+The ongoing recurring transfer of 20,000 DAI attempts to get debited first and succeeds. The remaining quarterly budget is now 980,000 DAI.
+
+Now new transfers attempt to get processed. AGP-A attempts to get processed first, since it had the most absolute support, and processing is successful since 350,000 DAI is below this quarter’s budget. Next, AGP-C attempts to get processed, but since it would push total spending this quarter above the 980,000 DAI budget it does not get processed. AGP-B attempts to get processed last, since it had the least absolute support, and since it does not push spending over this quarter’s budget its processing is successful.
 
 **Meta**  
 Proposals made to the Meta track must affect changes to AGP-0 or AGP-1. The Association has the power to add and remove AGP Editors and fix errata in AGP-0 or AGP-1 on an as-needed basis without going through the AGP process. All other proposals to modify AGP-0 or AGP-1 should be made to the Meta track.
