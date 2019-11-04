@@ -2,7 +2,7 @@
 AGP: 92
 Title: Flock Funding for Frame
 Author: Jordan Muir (@floating)
-Status: Stage V
+Status: Approved
 Track: Finance
 Created: 2019-10-02
 ---
