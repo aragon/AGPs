@@ -11,12 +11,12 @@ Created: 2019-11-13
 
 ## Proclamation text
 
-Aragon Network declares the contract deployed at `TBD` as the official Aragon Network Juror (ANJ) token to be the official ERC20 token that must be used by the jurors of the canonical Aragon Court to participate in the dispute resolution process.
+The Aragon Network declares the contract deployed at `TBD` to be the official Aragon Network Juror (ANJ) token that must be used by jurors of the canonical Aragon Court to participate in the dispute resolution process.
 
-Along with the official ANJ token address, Aragon Network declares the Aragon DAO deployed at `TBD` as the official DAO in charge of governing Aragon Court that will be deployed in the upcoming weeks as described in its [launch process](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263). This DAO will be in full control of Aragon Court until the Aragon Network DAO is deployed as explained in the launch process. The responsibilities of the governor DAO are:
+Along with the official ANJ token address, the Aragon Network declares the Aragon DAO deployed at `TBD` to be the official DAO in charge of governing Aragon Court, which will be deployed in the upcoming weeks as described in its [launch process](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263). This DAO will be in full control of Aragon Court until the Aragon Network DAO is deployed as explained in the launch process. The responsibilities of the governor DAO are:
 
 - Controlling the ANJ token until Aragon Court is deployed
-- Proposing and verifying governance proposals and voting in favor or against them
+- Proposing and verifying governor DAO governance proposals and voting in favor or against them
 
 The Aragon Network governor DAO was deployed using the [company template](https://github.com/aragon/dao-templates/tree/templates-company-v1.0.0/templates/company) with the following settings:
 
@@ -36,7 +36,7 @@ The Aragon Network governor DAO was deployed using the [company template](https:
 
 ## Motivation for writing this proclamation
 
-Aragon Court will be deployed before the end of the year kicking off Aragon Network's launch. Therefore, there is a need for a trusted entity that will govern Aragon Court before it is transitioned to the Aragon Network DAO which is scheduled to be deployed during the first half of 2020. 
+Aragon Court will be deployed before the end of the year, kicking off the Aragon Network's launch. Therefore, there is a need for a trusted entity that will govern Aragon Court before it is transitioned to the Aragon Network DAO which is scheduled to be deployed during the first half of 2020. 
 
 Additionally, Aragon Court requires a native token to be able to participate in its dispute resolution protocol. This token address must be agreed beforehand and set at deploy time for security and trust reasons.
 
