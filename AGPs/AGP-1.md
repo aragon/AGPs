@@ -102,7 +102,7 @@ Proposals made to the Proclamations track must be consistent with the Aragon Man
 During Stage II you should seek feedback on your AGP idea by sharing it with your peers in the Aragon community and soliciting their feedback. Examples of appropriate venues to share your AGP idea include:
 
 * The [#governance channel](https://aragon.chat/channel/governance) in Aragon Chat
-* The [Community category](https://research.aragon.org/c/community) in the Aragon forum
+* The [AGPs category](https://forum.aragon.org/c/agps) in the Aragon forum
 * The [Issues section](https://github.com/aragon/AGPs/issues) of the [AGP repo](https://github.com/aragon/AGPs)
 
 Be open-minded and respectful of all feedback you receive. Adjust your proposal to address serious concerns as they come up to increase the odds of your proposal passing review in later stages.
