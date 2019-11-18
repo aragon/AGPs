@@ -1,0 +1,59 @@
+---
+AGP: AO2
+Title: Aragon One and Aragon Network for 202x
+Author: Jorge Izquierdo (@izqui)
+Status: III
+Track: Finance
+Created: 2019-11-18
+---
+
+# AGP-AO2: Aragon One and Aragon Network for 202x
+
+> Aragon One is an independent company on a fight for freedom that does whatever it takes to make Aragon tremendously successful and spread the Aragon Manifesto in the world
+
+## Address of the transfer recipient
+We request funds to the Aragon One DAO ([`a1.aragonid.eth`](https://mainnet.aragon.org/#/a1.aragonid.eth/)) on the Ethereum Mainnet, unless Aragon One AG asks to change the destination of the funds.
+
+## Amount of the transfer
+- Retainer: 50,000 CHF per quarter (paid in ANT, DAI or fiat)
+- Variable fees: Up to 1,250,000 CHF, depending on monthly billable time (paid in DAI or fiat)
+
+## Number and frequency of transfers
+Unlimited, recurring transfers until another AGP is passed to cancel it or either Aragon Association or Aragon One unilaterally decide to end the relationship (with at least one quarter of notice period to wind down the relationship).
+
+In order to keep the relationship going, Aragon One will receive 50,000 CHF as a retainer at the beginning of each fiscal quarter (January, April, July and October every year).
+Aragon One will invoice Aragon Association on a monthly basis depending on the resources Aragon One allocated during the month to Aragon public infrastructure. Aragon Association will have a chance to course correct every month and provide feedback on what Aragon One should focus on. Aragon Association is ultimately responsible for unilaterally deciding whether to pay an invoice.
+If two invoices in a row are rejected by Aragon Association, Aragon One will end the relationship.
+
+## Purpose of the transfer
+
+Aragon One is a for-profit technology company composed by high growth and high leverage individuals that creates value for three different groups in the Aragon community and the broader world:
+
+- **Aragon users:** End users of Aragon that use the product to create and manage their decentralized organizations.
+- **Aragon app developers:** Making Aragon a successful app platform is key to making sure Aragon can work for as many different use cases as possible.
+- **ANT holders:** Supporters and stakeholders of the project that have provided capital to make it happen. By servicing ANT holders we will make the company successful (as major holders) and the project sustainable.
+
+In order to service these stakeholders, we build and maintain products in three main categories:
+
+- **Aragon client:** we own and maintain the Aragon client and its core apps. We also act as release managers for the Aragon client.
+- **aragonSDK**: aragonJS and aragonCLI are key products for app developers. We service Flock and Nest teams and external developers building on Aragon. We also lead developer advocacy and developer support for the aragonSDK.
+- **Aragon Network**: with an special focus on Aragon Court, as it the first real project geared towards value capture and sustainability. We will continue enhancing the Court and deploying new versions.
+
+On top of developing these software products, we deliver them to users by maintaining the needed infrastructure, doing outreach, business development and growth activities.
+
+## Recipient information
+
+### Organization
+_Name_: Aragon One AG ([see in Swiss company registry](https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-295.692.532))
+
+_Website_: [aragon.one](https://aragon.one)
+
+### Team members who will be managing funds from this transfer
+
+_Name_: Jorge Izquierdo
+
+_PGP key fingerprint_: `A52A 7A5E C3E1 4502 5018 BBE2 9E01 C523 14AD B34C` ([Keybase](https://keybase.io/ji))
+
+_Name_: Luis Cuende
+
+_PGP key fingerprint_: `1834 CBEF 4022 B550 5765 1070 DC59 CF69 F198 01F5` ([Keybase](https://keybase.io/li))
