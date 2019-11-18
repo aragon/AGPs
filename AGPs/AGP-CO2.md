@@ -1,0 +1,38 @@
+---
+AGP: N/A
+Title: Court Phase 2 Subscription Subsidy
+Author: Luke Duncan (@lkngtn), Facu Spagnuolo (@facuspagnuolo), and Jorge Izquierdo (@izqui)
+Status: Stage II
+Track: Finance
+Created: 2019-11-12
+---
+
+# **AGP-X: Court Phase 2 Subscription Subsidy**
+
+## **Address of the transfer recipient**
+
+ `TBD` Depends on the Official ANJ and Aragon Network DAO address
+
+## **Amount of the transfer**
+
+25,000 DAI
+
+## **Number and frequency of transfers if recurring**
+
+1
+
+## **Purpose of the transfer**
+
+The purpose of this transfer is to subsidize subscription fees and dispute creation fees during the [phase 2 of the Aragon Court launch](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263).
+
+During phase 2 jurors can onboard to the court, but organizations will not be able to subscribe. This period will be used to run a "Precedence Campaign" where realistic mock disputes will be created and run through the dispute resolution process to establish a precedence history so that both Jurors and potential subscribers will be able to better understand how future disputes are likely to be resolved.
+
+The funds will be transferred to the Court Governor DAO, where they will gradually be transferred into the Court's subscription fee pool during over the course of Phase 2.
+
+## **Recipient information**
+
+`TBD`
+
+## **License**
+
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
