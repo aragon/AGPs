@@ -16,7 +16,7 @@ We request funds to the Aragon One DAO ([`a1.aragonid.eth`](https://mainnet.arag
 
 ## Amount of the transfer
 - Retainer: 50,000 CHF per quarter (paid in ANT, DAI or fiat)
-- Variable fees: Up to 1,250,000 CHF, depending on monthly billable time (paid in DAI or fiat)
+- Variable fees: Up to 1,250,000 CHF per quarter, depending on monthly billable time (paid in DAI or fiat)
 
 ## Number and frequency of transfers
 Unlimited, recurring transfers until another AGP is passed to cancel it or either Aragon Association or Aragon One unilaterally decide to end the relationship (with at least one quarter of notice period to wind down the relationship).
