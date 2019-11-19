@@ -25,15 +25,14 @@ For the purpose of budgeting, the full amount should be debited against this qua
 
 ## **Purpose of the transfer**
 
-We believe that one of most significant blockers of wider adoption of Aragon is the lack of truly public, permissionless organizations. Organizations that anyone can join and participate in immediately without asking, while at the same time mitigating known deficiencies with participation and capture associated with fund allocation in public communities.
+We believe that one of most significant blockers of wider adoption of Aragon is the lack of truly public, permissionless organizations. Organizations that anyone can join and participate in immediately without asking, while at the same time mitigating known deficiencies with participation and capture associated with fund allocation within public communities.
 
 In exchange for funding we will deliver the following as project deliverables:
-* We will complete our implementation of Conviction Voting
-* We will add a locking mechanism for token manager and token wrapper
-* We will create an Escrow app that will be compatible with Aragon Court and plug in to Conviction Voting's proposal creation flow
-* We will Provide an organization template for public, permisionless organization's using Conviction Voting, Escrow, Fundraising, and Dandelion Voting
+* We will conduct user testing and complete our implementation of Conviction Voting
+* We will add a locking mechanism for the token manager and token wrapper apps in order for conviction voting to work with both transferrable as well as non-transferrable tokens. 
+* We will provide an organization template and onboarding flow for creating public, permisionless organization's using Conviction Voting and Aragon Fundraising.
 
-We expect this template will not only be broadly useful and attract new users to Aragon, it will also directly increase demand for ANT by leveraging Aragon Fundraising and the Aragon Court.  
+We expect this template will not only be broadly useful and attract new users to Aragon, it will also directly increase demand for ANT by leveraging Aragon Fundraising.
 
 ## **Recipient information**
 
