@@ -44,12 +44,11 @@ In exchange for funding we will deliver the following:
 * Add an Organization Detail View (if possible this would integrate autark's work on Organization Settings)
 * Add a User Profile View (if possible this would integrate Autark's existing work on User Profiles)
 * Integrate 3box threads into activity feed enabling contextual discussions in relation to activities.
-* Enable users to interact with Voting activities directly, and document how to interact with Aragon Apps outside of client.
 
 
 ## **Recipient information**
 
- `0x9213737fbb72d8f924fca55d508ae2c004413d64` Vault of the [dandelion project organization](https://mainnet.aragon.org/#/1hive
+`0x9213737fbb72d8f924fca55d508ae2c004413d64` Vault of the [apiary project organization](https://mainnet.aragon.org/#/apiary)
 
 ## **License**
 
