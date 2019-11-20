@@ -2,7 +2,7 @@
 AGP: TBD
 Title: Seed fund Mockingbird Coop
 Author: Daniel Constantin (@0x6431346e)
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2019-11-20
 ---
