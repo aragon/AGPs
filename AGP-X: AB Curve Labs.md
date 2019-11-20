@@ -1,3 +1,12 @@
+---
+AGP: N/A
+Title: Aragon Black: Curve Labs
+Author: @cryptodani
+Status: Stage IV
+Track: Finance
+Created: 2019-11-19
+---
+
 # Aragon Black: Curve Labs
 ### A dedicated team for research, design, and user on-boarding for Continuous Organizations on the Aragon Network. 
 
