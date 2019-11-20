@@ -10,7 +10,7 @@ Created: 2019-11-20
 # AGP-xx: Space Decentral Loan Proposal
 
 ## Summary
-![img](https://media.giphy.com/media/L0U5FtQspJUUh0gRRZ/giphy.gif)
+![img](https://github.com/spacedecentral/spacedecentral-network/blob/master/giphy.gif)
 
 In a [recent tweet, Micah White](https://twitter.com/beingMicahWhite/status/1195358730348630016?s=20), one of the co-founders of Occupy Wallstreet -- a protest movement which gave birth to the decision-making tool Loomio, put a compelling case forward about the importance of Space Activism:
 
