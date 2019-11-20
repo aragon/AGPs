@@ -66,29 +66,50 @@ Proposals made to the Finance track must affect the movement of assets held by t
   * AGPL
   * MIT
   
-_Finance track budget_
+*Finance track budget*
 
-The total amount funded by Finance track AGPs shall not exceed 5% of the market value of the Association / Aragon Network treasury or 250,000 DAI, whichever is greater, in a given quarterly Aragon Network vote cycle. Recurring transfers approved in previous vote cycles shall be deducted from this budget as described below. The market value of the treasury, and spending relative to that, shall be measured in DAI at the closing time of every ANV.
+The Finance track budget is calculated from the Aragon Treasury value. The Aragon Treasury is denominated in DAI. It is defined as the total market value of the Aragon Association multi-sig, net of all existing liabilities. It is snapshotted and calculated at the beginning of each Aragon Network Vote.
 
-For any Aragon Network vote ballot, approved Finance track proposals will be processed in the following order:
+- If the Treasury Value has grown by more than DAI 1M between this Aragon Network Vote and the previous one: the budget for this given ANV is 5% of the Aragon Treasury value.
+- If the Treasury Value has not grown by more than DAI 1M between this Aragon Network Vote and the previous one: the spending is arbitrarily capped to DAI 1M. This cap is there order to ensure that the treasury doesn't decrease too quickly before Aragon starts growing or appreciating significantly.
 
-- First, process proposals that either reduce a previously approved recurring transfer amount by 10% or more or completely cancel a previously approved recurring transfer.
+*Allocation of the Finance track budget*
 
-- Then, attempt to debit any ongoing recurring transfers from this quarter’s budget, except ongoing recurring transfers whose amount has been increased in the most recent vote cycle. Ongoing recurring transfers shall be processed in descending order based on the absolute approval percentage of the proposals when they were approved in their respective Aragon Network vote.
+1. All proposals that have been approved in a given Aragon Network Vote as well as all the ongoing recurring payments go to a Dot Voting round. 
+2. The Dot Voting round is ensured by ANT holders, or some other body. This can be changed by ANT holders during a future ANV 
+3. The budget -set by the spending cap above- will be split among both the ongoing recurring expenses and the new proposals. 
+4. Proposals which do not receive enough funds would *aceept or withdraw* at the end of the DOT voting round. 
+5. The unspent capital that is left after withdrawals can go back to the treasury. 
 
-- Finally, attempt to process approved Finance track AGPs, that either make new transfers or increase previously approved recurring transfers, in descending order based on absolute approval percentage. Each processed proposal will be debited against this quarter’s remaining budget, and if there is not enough budget available for a proposal when it attempts to be processed then processing will fail and the approved transfer will not be made. An attempt will then be made to process the next approved proposal until there are no more remaining approved proposals to process. Proposals that fail to be processed due to budget constraints must go through the AGP process and be voted on again in a future Aragon Network vote.
+*Buffer rule*
 
-_Example budget scenario_
+If an ongoing recurring payments is decreased by more than 10% in a given Dot voting, the change is effective: 
 
-The budget this quarter is 1 million DAI. There are two ongoing recurring transfers of 20,000 DAI and 50,000 DAI per quarter that were approved in previous vote cycles. 
+1. From the next ANV, for recurring payments > DAI 100K 
+2. A month later, for recurring payments < DAI 100K
 
-Four Finance track proposals are on the ballot: AGP-A is for 350,000 DAI, AGP-B is for 500,000 DAI, and AGP-C is for 700,000 DAI, and AGP-D puts a stop to the previously approved recurring transfer of 50,000 DAI per quarter. After the vote, the proposals that approve new transfers are ranked by absolute support like so: #1. AGP-A: 10% ANT support, #2. AGP-C: 8% ANT support, and #3. AGP-B: 5% ANT support. AGP-D is also approved, reducing quarterly spending by 50,000 DAI.
+*Example budget scenario*
 
-AGP-D is processed first, and the previously approved 50,000 DAI recurring transfer will no longer be processed.
+Budget for the quarter is DAI 1M. Market Value of treasury has not grown more than DAI 1M since past ANV. 
 
-The ongoing recurring transfer of 20,000 DAI attempts to get debited first and succeeds. The remaining quarterly budget is now 980,000 DAI.
+At the end of the vote, we have the following payments to execute. Two of them (A,B) were approved in previous ANVs, two of them are new (C,D).
 
-Now new transfers attempt to get processed. AGP-A attempts to get processed first, since it had the most absolute support, and processing is successful since 350,000 DAI is below this quarter’s budget. Next, AGP-C attempts to get processed, but since it would push total spending this quarter above the 980,000 DAI budget it does not get processed. AGP-B attempts to get processed last, since it had the least absolute support, and since it does not push spending over this quarter’s budget its processing is successful.
+- Ongoing recurring payment A = DAI 700K
+- Ongoing recurring payment B = DAI 90K
+- New recurring payment C = DAI 200K
+- One time transfer D = DAI 150K
+
+Total demanded = DAI 1290K
+
+All proposals go to a Dot Voting round and ANT holders vote to allocate the budget. Here is the outcome:
+
+- Ongoing recurring payment A was deemed important and preserved DAI 700K.
+- Ongoing recurring payment B was reduced to DAI 50K.
+    - As this is more than a 10% decrease, the change will be effective in a month and recurring payments will be adjusted accordingly.
+- New recurring payment C was granted DAI 150K and not to take it.
+- One time transfer D was granted 100K and accepted it.
+
+Total allocated = DAI  850K. 150K will go back to the Aragon Network Treasury.
 
 **Meta**  
 Proposals made to the Meta track must affect changes to AGP-0 or AGP-1. The Association has the power to add and remove AGP Editors and fix errata in AGP-0 or AGP-1 on an as-needed basis without going through the AGP process. All other proposals to modify AGP-0 or AGP-1 should be made to the Meta track.
