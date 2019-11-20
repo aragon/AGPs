@@ -1,11 +1,7 @@
----
-## AGP: N/A
-Title: AGP-Z: A simple Network Budget
-Author: Louis Giraux (@louisgrx)
-Status: Stage III
-Track: Meta
-Created: 2019-11-19
----
+| Title                   | Author                 | Status    | Created    |
+|-------------------------|------------------------|-----------|------------|
+| A simple Network Budget | Louis Giraux (@louisgrx) | Stage III | 2019-11-20 |
+
 
 # AGP-Z: A simple Network Budget
 
