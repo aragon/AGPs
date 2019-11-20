@@ -30,7 +30,7 @@ If we want people to act like founders, we need to treat them like founders. To 
 
 Since the primary value of ANT is governance we need to ensure that the Aragon Network has a diverse group of token holders. A separate budget for ANT will help the network be more strategic about issuing ANT to stakeholders that may be currently under-represented. This will encourage ongoing participation in Aragon governance as the network grows. 
 
-Moreover, many of the approved AGPS are comprised of both DAI payments and ANT payments. Having a dedicated ANT budget will help ensure that there is adequate ANT available to cover ANT liabilities from previous or new AGPs.
+Moreover, many of the approved AGPs are comprised of both DAI payments and ANT payments. Having a dedicated ANT budget will help ensure that there is adequate ANT available to cover ANT liabilities from previous or new AGPs.
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
