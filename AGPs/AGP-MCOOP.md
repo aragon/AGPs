@@ -23,8 +23,7 @@ TBD
 
 ## Purpose of the transfer
 
-Aragon Association to purchase 10% non-dilutive stake within the Mockingbird Coop organization using
-150,000 DAI and 50,000 ANT from its treasury.
+Aragon Association to purchase 10% non-dilutive stake within the Mockingbird Coop organization using 150,000 DAI and 50,000 ANT from its treasury.
 
 The Mockingbird Coop is a yet to be created, for-profit organization with the following missions:
 
