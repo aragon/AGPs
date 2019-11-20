@@ -26,7 +26,7 @@ Proposals follow this workflow:
 * Stage II: Pre-proposal
 * Stage III: Draft Proposal
 * Stage IV: Community Review
-* Stage V: Final Proposal
+* Stage V: Association Review
 * Stage VI: Aragon Network Vote
 
 During Stage III AGP Editors will review proposals for formatting, legibility, and compliance with AGP-1, referring to AGP-1 as the basis for accepting, denying, or requesting modifications to a proposal. The role of AGP Editors is further described in the AGP Editors section.
@@ -135,6 +135,8 @@ During the Community Review period, the draft AGP author will have a chance to r
 * If agreeable, an AGP Editor will assign the AGP a number (generally the PR number related to the AGP). The AGP Editors will not unreasonably deny assigning a number to the AGP.
 * Reasons for denying an AGP number and closing the pull request include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing concerns by reviewers, or not in compliance with AGP-1.
 
+**Finalization**
+
 After a proposal in Stage IV has been thoroughly reviewed, you may finalize your proposal by making any final changes and mark the pull request as "Ready to review", changing the draft pull request to a ready pull request. If you do not finalize the proposal and change the pull request from "draft" to "ready to review" before Stage V is scheduled to begin, AGP Editors will consider the proposal withdrawn and close the pull request when Stage V begins.`*`
 
 `*` If the draft proposal was submitted as a ready pull request with [DRAFT] in the title as required in the Stage IV section above, then [DRAFT] should be removed from the title when the pull request is finalized and ready for review. If [DRAFT] is not removed from the pull request title before Stage V is scheduled to begin, then AGP Editors will consider the proposal withdrawn and close the pull request when Stage V begins.
@@ -142,8 +144,8 @@ After a proposal in Stage IV has been thoroughly reviewed, you may finalize your
 * If agreeable, the AGP Editor will move the proposal from Stage IV to Stage V by updating the status in the AGP.
 * A request to move the proposal from Stage IV to Stage V will be denied if material changes are still expected to be made to the draft. No changes can be made to an AGP while it is in Stage V or VI.
 
-### Stage V: Final Proposal
-An AGP in Stage V is the final version that will appear on the ballot during the next Aragon Network vote. AGPs that move from Stage IV to Stage V are reviewed by the Aragon Association Board of Directors and, if approved during the pre-vote review session, are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage VI. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
+### Stage V: Association Review
+AGPs that are finalized before Stage V begins will be reviewed by the Aragon Association Board of Directors, who will then vote on whether or not to include a given AGP on the final ballot of proposals voted on in Stage VI. AGPs that are approved by the Association board during their review in Stage V are merged into the AGPs repo and added to [the list](https://github.com/aragon/AGPs/tree/master/votes) of AGPs that will be submitted to the Aragon Network for a vote in Stage VI. Approval or rejection of an AGP during Stage V is made at the discretion of the Association board.
 
 The Stage V Association board review session begins two weeks before the next Aragon Network vote is scheduled to begin and lasts for one week.
 
@@ -186,7 +188,7 @@ AGP Editors have two responsibilities:
 * Move proposals from Stage IV through to Stage V
 
 **Review proposals**  
-AGP Editors review proposals and accept, deny, or request modifications to them based on formatting, legibility, and compliance with AGP-1.
+AGP Editors review proposals and accept, deny, or request modifications to them based on formatting, legibility, and compliance with AGP-1 
 
 **Move proposals from Stage IV through to Stage V**  
 After a proposal author submits a pull request with their proposal in Stage III and has it reviewed by the community in Stage IV, an AGP Editor will review the proposal to make sure it is compliant with AGP-1. If so, the AGP Editor will assign an AGP number to the proposal. After a proposal in Stage IV has been thoroughly reviewed, the author can request that an AGP Editor moves the proposal from Stage IV to Stage V.
