@@ -2,7 +2,7 @@
 AGP: AO2
 Title: Aragon One and Aragon Network for 202x
 Author: Jorge Izquierdo (@izqui)
-Status: IV
+Status: Stage IV
 Track: Finance
 Created: 2019-11-18
 ---
