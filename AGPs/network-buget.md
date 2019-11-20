@@ -6,7 +6,6 @@ Status: Stage IV
 Track: Finance
 Created: 2019-11-20
 ---
-|-------------------------|------------------------|-----------|------------|
 
 
 # AGP-Z: A simple Network Budget
