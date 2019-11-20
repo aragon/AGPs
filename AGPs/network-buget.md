@@ -1,4 +1,11 @@
-| Title                   | Author                 | Status    | Created    |
+---
+AGP: N/A
+Title: A simple Network Budget
+Author: Louis Giraux (@LouisGrx)
+Status: Stage IV
+Track: Finance
+Created: 2019-11-20
+---
 |-------------------------|------------------------|-----------|------------|
 | A simple Network Budget | Louis Giraux (@louisgrx) | Stage III | 2019-11-20 |
 
