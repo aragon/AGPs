@@ -2,7 +2,7 @@
 AGP: N/A
 Title: Aragon Privacy Policy
 Author: Joe Charlesworth (@joeycharlesworth)
-Status: Stage III
+Status: Stage IV
 Track: Association
 Created: 2019-11-20
 ---
