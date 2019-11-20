@@ -58,7 +58,7 @@ Proposals made to the Association track must affect one or more of the following
   * E.g. “Should the Aragon Code of Conduct be updated to include a community-wide ban on Carlos Matos memes?”
 
 **Finance**  
-Proposals made to the Finance track must affect the movement of assets held by the [Association multisig](https://wiki.aragon.org/association/multisigs/overview/). The Association will have discretion over which multisig transfers must go through the AGP process.
+Proposals made to the Finance track must affect the movement of DAI held by the [Association multisig](https://wiki.aragon.org/association/multisigs/overview/). The Association will have discretion over which multisig transfers must go through the AGP process.
 
 * All code and content funded through the AGP process must be released under one of the following licenses:
   * Creative Commons (CC0, CC-BY, CC-SA, CC-BY-SA)
@@ -68,7 +68,7 @@ Proposals made to the Finance track must affect the movement of assets held by t
   
 _Finance track budget_
 
-The total amount funded by Finance track AGPs shall not exceed 5% of the market value of the Association / Aragon Network treasury or 250,000 DAI, whichever is greater, in a given quarterly Aragon Network vote cycle. Recurring transfers approved in previous vote cycles shall be deducted from this budget as described below. The market value of the treasury, and spending relative to that, shall be measured in DAI at the closing time of every ANV.
+The total amount funded by Finance track AGPs shall not exceed 5% of the market value of the Association / Aragon Network treasury or 250,000 DAI, whichever is greater, in a given quarterly Aragon Network vote cycle. Recurring transfers approved in previous vote cycles shall be deducted from this budget as described below. The market value of the treasury, and spending relative to that, shall be measured in DAI at the closing time of every ANV. Note: calculation of the Aragon Network treasury is net of ANT holdings and pending ANT liabilities. 
 
 For any Aragon Network vote ballot, approved Finance track proposals will be processed in the following order:
 
