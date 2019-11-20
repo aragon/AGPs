@@ -1,10 +1,10 @@
 ---
 ## AGP: N/A
 Title: Reverse AGP-43
-Author: Name (GitHub username)
+Author: burrrata (@burrrata)
 Status: Stage III
 Track: Association
-Created: YYYY-MM-DD
+Created: 2019-11-19
 ---
 
 # AGP-X: Reverse AGP-43
