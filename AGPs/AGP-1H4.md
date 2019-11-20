@@ -2,7 +2,7 @@
 AGP: tbd
 Title: Improved Deployment Processes and Testnet Support
 Author: @lkngtn (@1hive)
-Status: Stage II
+Status: Stage IV
 Track: Finance
 Created: 2019-11-12
 ---
