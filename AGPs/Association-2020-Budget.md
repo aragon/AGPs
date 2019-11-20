@@ -1,7 +1,7 @@
 ---
 AGP: N/A
 Title: Association 2020 Budget
-Author: burrrata (@burrrata), also Aragon Association
+Author: burrrata (@burrrata)
 Status: Stage III
 Track: Finance
 Created: 2019-11-19
