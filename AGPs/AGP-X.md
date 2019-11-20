@@ -2,7 +2,7 @@
 AGP: N/A
 Title: Aragon Association acquisition of ANJ for security purposes
 Author: Luis Cuende (@luisivan)
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2019-11-19
 ---
