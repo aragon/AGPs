@@ -40,7 +40,7 @@ In order to fulfill the above responsibilities for the Aragon Network, the Assoc
 
 Therefore, it requests authorization to use the following funds from the Aragon treasury:
 
-- 375k DAI, for operational costs.
+- 1,500,000 DAI for operational costs.
 - 375,000 ANT vested over the next 2 years, for the long-term incentivization of the current team, future employees and new Aragon Advisory board.
 
 ### **Scope**
