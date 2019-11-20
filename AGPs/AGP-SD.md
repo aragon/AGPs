@@ -1,0 +1,103 @@
+---
+AGP: xx
+Title: Space Decentral Loan Proposal 
+Authors: Yalda Mousavinia
+Status: Stage II
+Track: Finance
+Created: 2019-11-20
+---
+
+# AGP-xx: Space Decentral Loan Proposal
+
+### Summary
+
+The purpose of the [Space Decentral](http://spacedecentral.net) is to support the state-independent exploration, use and settlement of space. Space Decentral seeks to engage internationally all members of the human community who share a vision of a continual flourishing of both human and non-human life both on the Earth itself and spreading, like a green fire of creation, into the cosmos. Space Decentral will serve as a hub to tap into the potential of human creativity and collaboration across the globe, pooling our talents and resources to ensure long term commitment, autonomy, and shared responsibility for that vision. This hub provides the core of the Space Decentral as an international decentralized space agency. 
+
+The high level aims of Space Decentral include taking action to:
+1. Design and develop the tools and governance protocols required to enable crowdsourcing, crowdfunding, collaborative decision-making, and open-source culture for large-scale or impactful space projects on an international basis, 
+2. Utilize blockchain technology as a platform for both financial accountability and securing a public ledger of the universe’s data, making all such data transparent, accurate, and available to all citizens,  
+3. Enact and promote open source approaches to sharing intellectual property once created, within a framework of protections for creating and defining intellectual property,
+4. Advocate for a more supportive and privacy-protecting business, regulatory, and innovation environment with respect to distributed ledger and open source aerospace technologies, 
+5. Design Earth-based spinoff technologies in parallel to space technologies whenever possible, such as devoting a 3D-printer to create affordable and decent housing in viable communities,
+6. Sustain environmental health, quality, and protection, including food security, climate change monitoring, and natural disaster prevention, warning, management, mitigation, response, and recovery for which space observation plays an essential role, 
+7. Practice science and truth in decision-making, policy, and research processes, which are objectively provable and evidence-based,
+8. Advocate Nuclear Disarmament and Non-Proliferation, and developing new technologies that facilitate this objective, such that it is a political position that is practically desirable for all the world’s nations to enthusiastically adopt,
+9. Oppose the militarization of outer space, the formation of any national “space force,” and particularly the deployment of weapons in space and the conduct of anti-satellite tests or attacks by state or non-state actors,
+10. Support the formation of an effective internationally-based planetary defense to protect the Earth against asteroid and comet impacts, and to prevent any state or non-state actor from intentionally or unintentionally creating space debris, 
+11. Advocate workers’ rights, including the right to a union and maintain workers’ control of their workplace and work organization,
+12. Provide education internationally for all global citizens, regardless of age, with a focus on Science, Technology, Engineering, Arts, and Math (STEAM), and
+13. Uphold civil liberties, civil rights, equal rights, freedom, and human rights, especially for minorities and women in the fields of technology and engineering.
+
+
+### Strategic Deep Dive
+
+In a [recent tweet by Micah White](https://twitter.com/beingMicahWhite/status/1195358730348630016?s=20), one of the co-founders of Occupy Wallstreet -- a protest movement which gave birth to the decision-making tool Loomio, put a compelling case forward about the importance of Space Activism:
+
+> We are entering into a phase where private companies and governments are going to start more aggressively exploring space for its resources. But there is an interesting challenge here for activists which is right now the paradigm under which all of these things is done is a very anti-democratic, authoritarian, technocratic regime. There's actually really interesting work done on this about basically “What should the society of a lunar settlement be? What should the society of a mars settlement be?” … 
+>
+> And if you read what the scientists are saying they are all like “A military dictatorship. A military dictatorship is the only way for humans to survive in space.” Even though I’ve pitched this to many activists as something we need to work on, none of them take it up - it seems too far-fetched. (they say) “Well who cares if SpaceX is setting up a military dictatorship on the moon - why does it matter?”
+>
+> The point is that as we get more and more into a spacefaring civilization, the way in which space is governed will determine how Earth is governed. So if it is only technocratic military dictatorships in space, there will be a powerful argument for only technocratic military dictatorships on Earth.
+
+Micah White makes a great point about the importance of creating a social movement around how societies on space are governed and how that it is important to get ahead of the curve so we do not end up living in a technocratic military dictatorship on Earth.
+
+Space Decentral plans to use the technology and services developed by the Aragon project to ignite this social movement. This loan is not a request for funding of any individual project of Space Decentral. The loan will allow the Space Decentral community to be bootstrapped, now that Open Enterprise is finally live and the tools can be used.
+
+The Projects, Allocations, Rewards, and Finance apps will be used to pay contributors for tasks including but not limited to: 
+1) Develop media about the importance of Space Activism and how Aragon is being used to facilitate it (Let's create an awesome meme for Aragon. "Aragon powers space agencies.")
+2) Perform legal research on the best jurisdiction for DAOs, to give people who want to use the Aragon Fundraising app more peace of mind and strategies.
+3) Identify other space organizations that would benefit from Aragon, and work with Autark to onboard the organizations onto Aragon.
+
+As far as space technology projects go, we plan to work towards results with social impact and sustainable solutions for the future in the areas of climate science, governance, outer space treaties, agriculture, environment, education, satellite utilisation and navigation.This is the community we plan to onboard onto Aragon for the Space Decentral DAO specifically.
+
+### Budget and team
+Total of 75,000 DAI over 6 months
+* Anja Blaj will the project manager of this proposal, who will bill at a rate of 37.5 DAI/hr. The expectation is to work at least 20 hours per week, so this is a rate of 750 DAI per week, which comes out to 19,500 over 6 months
+* External legal fees = $15,000-25,000 (if underspent, will flow into community rewards)
+* The remaining funds will be for community incentivies/bounties/rewards
+
+
+#### Anja Blaj - Project Manager
+She studied space law and has a degree in global law from the University of Ljubljana. In addition to her background in space law, she has been actively involved in the blockchain ecosystem since 2017. She started with Blockchain Think Tank Slovenia, headed the advocacy department in European Blockchain Hub and is currently a core member of the DGOV foundation, an organization focusing on distributed governance, experiments, learnings, knowledge exchange. She’s also part of the Future Law Institute, UK where she participates in program design, strategy, and production of the Future Law Virtual Summit 2020.
+
+### Deliverables
+* A live Space Decentral DAO, running with full operations on Aragon. spacedecentral.net will be updated so it points to Space Decentral's Aragon DAO. This is easy to set up by members of Autark, and this will be in another sense a "demo DAO" that showcases the latest apps and features Autark is developing. This will be a reference DAO to spread the meme. The existing Space Decentral community members will be responsible for growing the community of the Space Decentral DAO -- which is what the incentives will be used for.
+* Analysis of three jurisdictions for token fundraising: Liechtenstein, Switzerland, and one more determined via discussions on forum.aragon.org. Based on this reserch, the most optimal jurisdiction will be selected, and boilerplate legal templates such as bylaws will be developed for broader Aragon consumption.
+* Design a token model and rewarding system for Space Decentral contributors. This will require reviewing and enhancing the current [Governance Paper](https://spacedecentral.net/Governance_Paper.pdf) based on the latest Aragon tools, trends, and legal analysis. 
+* Based on the above research, product requirements to advance Aragon will be specified and added to Autark's backlog. Autark will develop the enhancements if there is sufficient demand from DAOs who want to fundraise via Aragon.
+
+
+
+## Address of the transfer recipient
+
+Space Decentral Mainnet DAO Vault Address. This will be provided in the final AGP next week.
+
+## Amount of the transfers
+
+75,000 DAI
+
+
+## Number and frequency of transfers if recurring (enter “1” if only one payment will be made)
+
+1 transfer
+
+This transfer is expected to be received after at least 10,000 DAI worth of community bounties are clearly specified, which is estimated to be one month after this AGP is approved. The project manager will receive 3000 DAI for that month of project design work.
+
+## Purpose of the transfer
+
+The funds will initially controlled by Space Decentral directors Yalda Mousavinia, Suzana Bianco and the project manager of this proposal. Each have one membership token.
+
+A fundraising campaign for Space Decentral will commence no later than the end of this 6 month term, unless unexpected legal costs or laws infringe upon it. If such an event happens, an additional loan may possibly be requested.
+
+As soon as 275,000 DAI worth of funds are raised for the Space Decentral project, after this proposal, the 75,000 DAI loan requested in this proposal will be repaid. Individual contributors of Space Decentral funded by this loan will not be held liable to repay the loan such that the fundraising campaign is not successful.
+
+
+## Recipient information
+
+### Space Decentral DAO
+- Name: Space Decentral 
+- Website: https://spacedecentral.net
+- GitHub: https://github.com/spacedecentral/
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
