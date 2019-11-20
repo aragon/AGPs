@@ -2,7 +2,7 @@
 AGP: N/A
 Title: Aragon Council
 Author: Joe Charlesworth (@joeycharlesworth)
-Status: Stage III
+Status: Stage IV
 Track: Meta
 Created: 2019-11-20
 ---
