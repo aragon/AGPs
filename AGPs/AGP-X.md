@@ -1,12 +1,11 @@
-
- ---
- AGP: tbd
- Title: Fundraising Maintenance
- Author: @osarrouy
- Status: Stage II
- Track: Finance
- Created: 2019-11-19
- ---
+---
+AGP: X
+Title: Fundraising Maintenance
+Author: osarrouy
+Status: Stage II
+Track: Finance
+Created: 2019-11-19
+---
 
 # AGP-X: Fundraising Maintenance
 
