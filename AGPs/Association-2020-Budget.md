@@ -36,7 +36,7 @@ The Association's responsibilities include:
 - Nurturing Aragon's governance and curating [governance proposals](https://aragon.org/project/governance).
 - Decentralizing all roles and responsibilities in order to transfer full governance power to ANT holders.
 
-In order to fulfill the above responsibilities for the Aragon Network, the Association needs capital to support it's team and cover it's various expenses for the Aragon Netw. 
+In order to fulfill the above responsibilities for the Aragon Network, the Association needs capital to support its team and cover Network related expenses. These expenses include legal costs, HR, communications, accounting, banking, auditing, market making and more. While the goal is to decentralize these responsibilities to independent DAOs (as much as possible), current they are essential to the health and producitivity of the Aragon Network.
 
 Therefore, it requests authorization to use the following funds from the Aragon treasury:
 
