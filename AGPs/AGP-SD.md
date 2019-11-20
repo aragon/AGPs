@@ -2,7 +2,7 @@
 AGP: xx
 Title: Space Decentral Loan Proposal 
 Authors: Yalda Mousavinia
-Status: Stage II
+Status: Stage IV
 Track: Finance
 Created: 2019-11-20
 ---
