@@ -7,7 +7,6 @@ Track: Finance
 Created: 2019-11-20
 ---
 |-------------------------|------------------------|-----------|------------|
-| A simple Network Budget | Louis Giraux (@louisgrx) | Stage III | 2019-11-20 |
 
 
 # AGP-Z: A simple Network Budget
