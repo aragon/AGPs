@@ -2,7 +2,7 @@
 AGP: N/A
 Title: Reduce the judgment powers of AGP Editors
 Author: John Light (@john-light)
-Status: Stage III
+Status: Stage IV
 Track: Meta
 Created: 2019-11-20
 ---
