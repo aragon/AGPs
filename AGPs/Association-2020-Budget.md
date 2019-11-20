@@ -11,7 +11,7 @@ Created: 2019-11-19
 
 ## Address of the transfer recipient
 
-https://mainnet.aragon.org/#/association
+association.aragonid.eth 
 
 ## Amount of the transfer
 
