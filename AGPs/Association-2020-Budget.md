@@ -2,7 +2,7 @@
 AGP: N/A
 Title: Association 2020 Budget
 Author: burrrata (@burrrata)
-Status: Stage III
+Status: Stage IV
 Track: Finance
 Created: 2019-11-19
 ---
