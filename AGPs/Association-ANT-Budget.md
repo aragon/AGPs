@@ -1,7 +1,7 @@
 ---
 ## AGP: N/A
 Title: Association ANT Budget
-Author: Aragon Association
+Author: burrrata (@burrrata)
 Status: Stage III
 Track: Association
 Created: 2019-11-19
