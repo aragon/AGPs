@@ -1,7 +1,7 @@
 ---
 AGP: N/A
 Title: Association 2020 Budget
-Author: Aragon Association
+Author: burrrata (@burrrata), also Aragon Association
 Status: Stage III
 Track: Finance
 Created: 2019-11-19
@@ -11,7 +11,7 @@ Created: 2019-11-19
 
 ## Address of the transfer recipient
 
-0x83eAA6D1449662f12eF87d64fF1b045318b27556
+https://mainnet.aragon.org/#/association
 
 ## Amount of the transfer
 
