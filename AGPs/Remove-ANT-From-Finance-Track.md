@@ -1,7 +1,7 @@
 ---
 AGP: N/A
 Title: Remove ANT from the Aragon Network finance track
-Author: Aragon Association
+Author: burrrata (@burrrata)
 Status: Stage III
 Track: Meta
 Created: 2019-11-19
