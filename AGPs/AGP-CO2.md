@@ -2,7 +2,7 @@
 AGP: N/A
 Title: Court Phase 2 Subscription Subsidy
 Author: Luke Duncan (@lkngtn), Facu Spagnuolo (@facuspagnuolo), and Jorge Izquierdo (@izqui)
-Status: Stage II
+Status: Stage IV
 Track: Finance
 Created: 2019-11-12
 ---
