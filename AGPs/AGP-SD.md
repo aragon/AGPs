@@ -20,7 +20,7 @@ In a [recent tweet, Micah White](https://twitter.com/beingMicahWhite/status/1195
 >
 > The point is that as we get more and more into a spacefaring civilization, the way in which space is governed will determine how Earth is governed. So if it is only technocratic military dictatorships in space, there will be a powerful argument for only technocratic military dictatorships on Earth.
 
-Micah White makes a great point about how it is imperative to create a social movement to define how future societies on space should be governed, and how space resources should be managed. He made a point about how that it is important to get ahead of the curve so we do not end up living in a technocratic military dictatorship on Earth, but instead build governance structures that are more democractic and citizen-designed.
+Micah White makes a great point about how it is imperative to create a social movement to define how future societies on space should be governed, and how space resources should be managed. He made a point about how that it is important to get ahead of the curve so we do not end up living in a technocratic military dictatorship on Earth, but instead build governance structures that are more democratic and citizen-designed.
 
 Space Decentral plans to use the technology and services developed by the Aragon project to ignite this social movement. This proposal is a request for a 75,000 DAI loan. It is not a request for funding of any individual project of Space Decentral. Instead, the loan will allow the Space Decentral community to be bootstrapped, now that Open Enterprise is finally live and the tools can be used for operations.
 
@@ -29,7 +29,7 @@ The Projects, Allocations, Rewards, and Finance apps will be used to pay contrib
 2) Perform legal research on the best jurisdiction for DAOs, to give people who want to use the Aragon Fundraising app more peace of mind and strategies.
 3) Identify other space organizations that would benefit from Aragon, and work with Autark to onboard the organizations onto Aragon.
 
-As far as space technology projects go, we plan to work towards results with social impact and sustainable solutions for the future in the areas of climate science, governance, outer space treaties, agriculture, environment, education, satellite utilisation and navigation.This is the community we plan to onboard onto Aragon for the Space Decentral DAO specifically.
+As far as space technology projects go, we plan to work towards results with social impact and sustainable solutions for the future in the areas of climate science, governance, outer space treaties, agriculture, environment, education, satellite utilisation and navigation. This is the community we plan to onboard onto Aragon for the Space Decentral DAO specifically.
 
 ### Space Decentral's Vision
 The purpose of [Space Decentral](http://spacedecentral.net) is to support the state-independent exploration, use and settlement of space. Space Decentral seeks to engage internationally all members of the human community who share a vision of a continual flourishing of both human and non-human life both on the Earth itself and spreading, like a green fire of creation, into the cosmos. Space Decentral will serve as a hub to tap into the potential of human creativity and collaboration across the globe, pooling our talents and resources to ensure long term commitment, autonomy, and shared responsibility for that vision. This hub provides the core of the Space Decentral as an international decentralized space agency. 
