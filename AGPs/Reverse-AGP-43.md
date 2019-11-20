@@ -1,8 +1,8 @@
 ---
-## AGP: N/A
+AGP: N/A
 Title: Reverse AGP-43
 Author: burrrata (@burrrata)
-Status: Stage III
+Status: Stage IV
 Track: Association
 Created: 2019-11-19
 ---
