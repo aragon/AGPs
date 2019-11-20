@@ -2,7 +2,7 @@
 AGP: N/A
 Title: Official ANJ and Aragon Network DAO addresses
 Author: Facu Spagnuolo (@facuspagnuolo)
-Status: Stage II
+Status: Stage IV
 Track: Proclamations
 Created: 2019-11-13
 ---
