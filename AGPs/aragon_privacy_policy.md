@@ -1,13 +1,13 @@
 ---
 AGP: N/A
-Title: AGP-X: Aragon Privacy Policy
+Title: Aragon Privacy Policy
 Author: Joe Charlesworth (@joeycharlesworth)
 Status: Stage III
 Track: Association
 Created: 2019-11-20
 ---
 
-# AGP-X: Aragon Privacy Policy
+# Aragon Privacy Policy
 
 ## Description of desired Association policy change
 
