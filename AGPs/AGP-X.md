@@ -17,6 +17,7 @@
 ## Amount of the transfer
 
 30,000 DAI
+
 20,000 ANT
 
 ## Number and frequency of transfers if recurring
