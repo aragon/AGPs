@@ -133,16 +133,16 @@ This section presents a non-exhaustive list of target profiles for our on-boarde
 
 | Type        | Description                                   | Amount    |
 | ----------- | --------------------------------------------- | --------- |
-| Payrolls    | Payroll and performance incentives            | $100k     |
-| Contractors |  UX Research \| Legal \| Copywriting \|   | $50k      |
-| Business Expenses | Travels     \| Conferences\| Co-working \| Equipment\| Videomaking software \| GitHub \| Google Suite    |$10k      |
-| **Total**   |                                               | **$160k** |
+| Payrolls    | Payroll and performance incentives            | $50k     |
+| Contractors |  UX Research \| Legal \| Copywriting \|   | $25k      |
+| Business Expenses | Travels     \| Conferences\| Co-working \| Equipment\| Videomaking software \| GitHub \| Google Suite    |$5k      |
+| **Total**   |                                               | **$80k** |
 
-This amounts to a budget of 160k DAI+37.5k ANT paid at the start of each bi-annual period.
+This amounts to a budget of 80k DAI+18k ANT paid at the start of each quarterly period.
 
  **Frequency**
 
-The proposal is for a reccuring bi-annual payment that can be amended in future ANVs.
+The proposal is for a reccuring quarterly payment that can be amended in future ANVs.
 
 ### Recipient
 
