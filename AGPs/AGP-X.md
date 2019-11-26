@@ -34,7 +34,7 @@ The Aragon Network DAO was deployed using the [membership template](https://gith
         - Luis Cuende, SP: `0xe4e6ca4c305dd10a9ac243135f818f3de7e7781d`
         - Griff Green, US: `0x839395e20bbB182fa440d08F850E6c7A8f6F0780`
         - Jesse Pollak, US: `0x1A6e5103D732d9F636D5B283aCB8A8a53c3bd3fD`
-- Agent app at [`0x5E8c17A6065C35b172B10E80493D2266e2947DF4`](https://etherscan.io/address/0x5e8c17a6065c35b172b10e80493d2266e2947df4) installed to be able to trigger calls to Aragon Court
+- Agent app at [`0x5e8c17a6065c35b172b10e80493d2266e2947df4`](https://mainnet.aragon.org/#/network/0x5e8c17a6065c35b172b10e80493d2266e2947df4) installed to be able to trigger calls to Aragon Court
 
 ## Motivation for writing this proclamation
 
