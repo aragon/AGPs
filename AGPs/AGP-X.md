@@ -1,6 +1,6 @@
 ---
 AGP: N/A
-Title: Official ANJ and Aragon Network DAO addresses
+Title: Official Aragon Network DAO and ANJ addresses
 Author: Facu Spagnuolo (@facuspagnuolo)
 Status: Stage IV
 Track: Proclamations
@@ -45,4 +45,3 @@ Additionally, Aragon Court requires a native token to be able to participate in 
 ## License
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
