@@ -39,7 +39,7 @@ In exchange for the funding requested we will:
 
 ## **Recipient information**
 
- `0x9213737fbb72d8f924fca55d508ae2c004413d64` Vault of the [dandelion project organization](https://mainnet.aragon.org/#/1hive
+ `0x9213737fbb72d8f924fca55d508ae2c004413d64` Vault of the [dandelion project organization](https://mainnet.aragon.org/#/1hive)
 
 ## **License**
 
