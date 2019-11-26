@@ -13,7 +13,7 @@ Created: 2019-11-13
 
 The Aragon Network declares the contract deployed at [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) to be the official Aragon Network Juror (ANJ) token that must be used by jurors of the canonical Aragon Court to participate in the dispute resolution process.
 
-Along with the official ANJ token address, the Aragon Network declares the Aragon DAO deployed at [`network.aragon.eth`](https://mainnet.aragon.org/#/network) to be the official Aragon Network DAO in charge of governing Aragon Court, which will be deployed in the upcoming weeks as described in its [launch process](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263). This DAO will be in full control of Aragon Court as explained in the launch process. The responsibilities of the governor DAO are:
+Along with the official ANJ token address, the Aragon Network declares the Aragon DAO deployed at [`network.aragonid.eth`](https://mainnet.aragon.org/#/network) to be the official Aragon Network DAO in charge of governing Aragon Court, which will be deployed in the upcoming weeks as described in its [launch process](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263). This DAO will be in full control of Aragon Court as explained in the launch process. The responsibilities of the governor DAO are:
 
 - Controlling the ANJ token until Aragon Court is deployed
 - Proposing and verifying Aragon Network governance proposals and voting in favor or against them
