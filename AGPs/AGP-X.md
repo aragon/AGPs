@@ -11,9 +11,9 @@ Created: 2019-11-13
 
 ## Proclamation text
 
-The Aragon Network declares the contract deployed at `TBD` to be the official Aragon Network Juror (ANJ) token that must be used by jurors of the canonical Aragon Court to participate in the dispute resolution process.
+The Aragon Network declares the contract deployed at [`0xcD62b1C403fa761BAadFC74C525ce2B51780b184`](https://etherscan.io/address/0xcD62b1C403fa761BAadFC74C525ce2B51780b184) to be the official Aragon Network Juror (ANJ) token that must be used by jurors of the canonical Aragon Court to participate in the dispute resolution process.
 
-Along with the official ANJ token address, the Aragon Network declares the Aragon DAO deployed at `TBD` to be the official Aragon Network DAO in charge of governing Aragon Court, which will be deployed in the upcoming weeks as described in its [launch process](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263). This DAO will be in full control of Aragon Court as explained in the launch process. The responsibilities of the governor DAO are:
+Along with the official ANJ token address, the Aragon Network declares the Aragon DAO deployed at [`network.aragon.eth`](https://mainnet.aragon.org/#/network) to be the official Aragon Network DAO in charge of governing Aragon Court, which will be deployed in the upcoming weeks as described in its [launch process](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263). This DAO will be in full control of Aragon Court as explained in the launch process. The responsibilities of the governor DAO are:
 
 - Controlling the ANJ token until Aragon Court is deployed
 - Proposing and verifying Aragon Network governance proposals and voting in favor or against them
@@ -28,13 +28,13 @@ The Aragon Network DAO was deployed using the [membership template](https://gith
     - Duration: 1 week
 - Token settings:
     - Token: Aragon Network DAO (AND)
-    - Members: `TBD`
-        - `0xF0a5486944d315e05dD24A3c106B95d12A105650` (Jorge Izquierdo - @izqui)
-        - `0xd5931f0a36FE76845a5330f6D0cd7a378401e34d` (Facu Spagnuolo - @facuspagnuolo)
-        - `0x...`
-        - `0x...`
-        - `0x...`
-- Agent app at `TBD` installed to be able to trigger calls to Aragon Court
+    - Members: 
+        - Aaron Foster, UK: `0x75b98710d5995ab9992f02492b7568b43133161d`
+        - Facundo Spagnuolo, AR: `0xd5931f0a36FE76845a5330f6D0cd7a378401e34d`
+        - Luis Cuende, SP: `0xe4e6ca4c305dd10a9ac243135f818f3de7e7781d`
+        - Griff Green, US: `0x839395e20bbB182fa440d08F850E6c7A8f6F0780`
+        - Jesse Pollak, US: `0x1A6e5103D732d9F636D5B283aCB8A8a53c3bd3fD`
+- Agent app at [`0x5E8c17A6065C35b172B10E80493D2266e2947DF4`](https://etherscan.io/address/0x5e8c17a6065c35b172b10e80493d2266e2947df4) installed to be able to trigger calls to Aragon Court
 
 ## Motivation for writing this proclamation
 
