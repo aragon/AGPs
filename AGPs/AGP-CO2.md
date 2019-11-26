@@ -11,7 +11,7 @@ Created: 2019-11-12
 
 ## **Address of the transfer recipient**
 
- `TBD` Depends on the Official ANJ and Aragon Network DAO address
+ `0x5e8c17a6065c35b172b10e80493d2266e2947df4` Agent of the [Aragon Network DAO](https://mainnet.aragon.org/#/network)
 
 ## **Amount of the transfer**
 
@@ -25,13 +25,13 @@ Created: 2019-11-12
 
 The purpose of this transfer is to subsidize subscription fees and dispute creation fees during the [phase 2 of the Aragon Court launch](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263).
 
-During phase 2 jurors can onboard to the court, but organizations will not be able to subscribe. This period will be used to run a "Precedence Campaign" where realistic mock disputes will be created and run through the dispute resolution process to establish a precedence history so that both Jurors and potential subscribers will be able to better understand how future disputes are likely to be resolved.
+During phase 2 jurors can onboard to the Court, but organizations will not be able to subscribe. This period will be used to run a "Precedence Campaign" where realistic mock disputes will be created and run through the dispute resolution process to establish a precedence history so that both Jurors and potential subscribers will be able to better understand how future disputes are likely to be resolved.
 
-The funds will be transferred to the Court Governor DAO, where they will gradually be transferred into the Court's subscription fee pool during over the course of Phase 2.
+The funds will be transferred to the Aragon Network DAO's Governor Council, where they will gradually be transferred into the Court's subscription fee pool at the Governor Council's discretion during the course of Phase 2.
 
 ## **Recipient information**
 
-`TBD`
+`0x5e8c17a6065c35b172b10e80493d2266e2947df4` Agent of the [Aragon Network DAO](https://mainnet.aragon.org/#/network)
 
 ## **License**
 
