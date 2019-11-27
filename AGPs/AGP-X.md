@@ -18,16 +18,16 @@ Along with the official ANJ token address, the Aragon Network declares the Arago
 - Controlling the ANJ token until Aragon Court is deployed
 - Proposing and verifying Aragon Network governance proposals and voting in favor or against them
 
-The Aragon Network DAO will be managed initially by a council during phases 1 and 2 of the launch process. The initial council will by dissolved  and transfer full control of the Aragon Network DAO to ANT holders as described in the launch process.
+The Aragon Network DAO will be managed initially by a council during phases 1 and 2 of the launch process. The initial council will later be dissolved and transfer full control of the Aragon Network DAO to ANT holders as described in the launch process.
 
-The Aragon Network DAO was deployed using the [membership template](https://github.com/aragon/dao-templates/tree/templates-company-v1.0.0/templates/membership) with the following settings:
+The Aragon Network DAO was deployed using the [Membership template](https://github.com/aragon/dao-templates/tree/templates-company-v1.0.0/templates/membership) with the following settings:
 
 - Voting settings:
     - Support: 50%
     - Minimum approval: 50%
     - Duration: 1 week
 - Token settings:
-    - Token: Aragon Network DAO (AND)
+    - Token: Aragon Network governor council (ANGC)
     - Members: 
         - Aaron Foster, UK: `0x75b98710d5995ab9992f02492b7568b43133161d`
         - Facundo Spagnuolo, AR: `0xd5931f0a36FE76845a5330f6D0cd7a378401e34d`
