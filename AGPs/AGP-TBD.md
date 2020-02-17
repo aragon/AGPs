@@ -15,7 +15,7 @@ AGP-1
 
 ## Link to proposed change
 
-TBD
+https://github.com/aragon/AGPs/pull/156
 
 ## Motivation for making this change
 
