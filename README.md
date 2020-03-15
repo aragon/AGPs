@@ -1,4 +1,4 @@
-# Aragon Governance Proposals [![](images/rocketchat_badge.svg)](https://aragon.chat/channel/governance) [![](images/discourse_button.svg)](https://forum.aragon.org/c/agps)
+# Aragon Governance Proposals [![](images/discord_badge.svg)](https://discordapp.com/channels/672466989217873929/672466989767458861) [![](images/discourse_button.svg)](https://forum.aragon.org/c/agps)
 
 Please read [AGP-1](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md) to learn about how you can participate in the Aragon Governance Proposal process. 
 
