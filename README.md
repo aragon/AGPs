@@ -1,8 +1,3 @@
 # Aragon Governance Proposals [![](images/discord_badge.svg)](https://discord.gg/ruBR6GN) [![](images/discourse_button.svg)](https://forum.aragon.org/c/agps)
 
-Please read [AGP-1](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md) to learn about how you can participate in the Aragon Governance Proposal process. 
-
-You can find more information about Aragon governance, including previously approved proposals, in the [Aragon Wiki](https://wiki.aragon.org/network/governance/overview/).
-
-## Video guide and help thread
-[**How to create an Aragon Governance Proposal**](https://forum.aragon.org/t/how-to-create-an-aragon-governance-proposal/374)
+With the approval of [AGP-155](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-155.md) in Aragon Network Vote #6, the AGP process has now been sunset. Read more about the Aragon Association's plans for the next phase of Aragon Network governance [here](https://blog.aragon.org/evolving-aragon-network-governance/).
